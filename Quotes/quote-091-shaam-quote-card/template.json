@@ -1,0 +1,23 @@
+{
+  "id": "quote-091-shaam-quote-card",
+  "name": "Quotes 91 - Shaam Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1630,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo mila usme khush raho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}
