@@ -1,0 +1,23 @@
+{
+  "id": "love-dil-dhadkan",
+  "name": "Dil Ki Dhadkan",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 11,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum meri dhadkan ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Humsafar",
+      "type": "text"
+    }
+  ]
+}

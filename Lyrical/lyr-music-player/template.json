@@ -1,0 +1,23 @@
+{
+  "id": "lyr-music-player",
+  "name": "Music Player",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 30,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Gaane Ka Naam",
+      "def": "Tum Hi Ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Singer",
+      "def": "Aashiqui Wala Mood",
+      "type": "text"
+    }
+  ]
+}

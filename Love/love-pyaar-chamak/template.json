@@ -1,0 +1,23 @@
+{
+  "id": "love-pyaar-chamak",
+  "name": "Pyaar Ki Chamak",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 12,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere saath har pal khaas hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

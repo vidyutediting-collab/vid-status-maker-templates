@@ -1,0 +1,23 @@
+{
+  "id": "lyr-beat-zoom",
+  "name": "Beat Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 13,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj raat dhamaka hoga",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Party Mood",
+      "type": "text"
+    }
+  ]
+}

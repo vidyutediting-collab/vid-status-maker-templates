@@ -1,0 +1,23 @@
+{
+  "id": "sad-khamosh-raat",
+  "name": "Khamosh Raat",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 11,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kuch baatein khamosh hi achhi lagti hain",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Tanhai",
+      "type": "text"
+    }
+  ]
+}

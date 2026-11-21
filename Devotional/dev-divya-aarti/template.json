@@ -1,0 +1,23 @@
+{
+  "id": "dev-divya-aarti",
+  "name": "Divya Aarti",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 11,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Mata Di",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Shubh Navratri",
+      "type": "text"
+    }
+  ]
+}

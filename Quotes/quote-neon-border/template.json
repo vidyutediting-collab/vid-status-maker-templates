@@ -1,0 +1,23 @@
+{
+  "id": "quote-neon-border",
+  "name": "Neon Border Quote",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 13,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Vichar",
+      "def": "Sapne wo nahi jo neend mein aaye, sapne wo hain jo neend na aane de",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "- Kalam Saab",
+      "type": "text"
+    }
+  ]
+}

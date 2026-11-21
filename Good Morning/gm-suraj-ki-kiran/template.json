@@ -1,0 +1,23 @@
+{
+  "id": "gm-suraj-ki-kiran",
+  "name": "Suraj Ki Kiran",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 11,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aapka Din Shubh Ho",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dev-phool-varsha",
+  "name": "Phool Varsha",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 12,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Radhe Radhe",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Shubh Din",
+      "type": "text"
+    }
+  ]
+}

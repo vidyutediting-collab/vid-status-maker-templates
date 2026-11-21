@@ -1,0 +1,23 @@
+{
+  "id": "quote-blur-card",
+  "name": "Blur Card Quote",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 30,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Vichar",
+      "def": "Waqt badalta hai, par apne kabhi nahi",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "- Dil Se",
+      "type": "text"
+    }
+  ]
+}

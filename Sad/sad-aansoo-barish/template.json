@@ -1,0 +1,23 @@
+{
+  "id": "sad-aansoo-barish",
+  "name": "Aansoo Barish",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 13,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Barish me aansoo chhup jaate hain",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Akela Dil",
+      "type": "text"
+    }
+  ]
+}

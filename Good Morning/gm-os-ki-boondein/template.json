@@ -1,0 +1,23 @@
+{
+  "id": "gm-os-ki-boondein",
+  "name": "Os Ki Boondein",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 13,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Fresh Subah, Naya Din",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Good Morning",
+      "type": "text"
+    }
+  ]
+}

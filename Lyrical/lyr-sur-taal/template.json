@@ -1,0 +1,23 @@
+{
+  "id": "lyr-sur-taal",
+  "name": "Sur Taal",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 12,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki dhun, tere naam",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Music Lover",
+      "type": "text"
+    }
+  ]
+}

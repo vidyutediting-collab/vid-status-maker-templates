@@ -1,0 +1,23 @@
+{
+  "id": "sad-dhundhli-yaadein",
+  "name": "Dhundhli Yaadein",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 12,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Yaadein dhundhli hui, par dard abhi taaza hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Yaadon Me",
+      "type": "text"
+    }
+  ]
+}

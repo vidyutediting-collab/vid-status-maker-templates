@@ -1,0 +1,23 @@
+{
+  "id": "love-gulab-barsaat",
+  "name": "Gulab Barsaat",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 13,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum gulab ho meri zindagi ke",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Sirf Tumhara",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dev-deep-mala",
+  "name": "Deep Mala",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 13,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shubh Deepawali",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Sabko Mubarak",
+      "type": "text"
+    }
+  ]
+}

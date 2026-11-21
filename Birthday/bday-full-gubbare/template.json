@@ -1,0 +1,23 @@
+{
+  "id": "bday-full-gubbare",
+  "name": "Gubbare Wali Party",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 12,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Happy Birthday",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dher Saari Khushiyan",
+      "type": "text"
+    }
+  ]
+}

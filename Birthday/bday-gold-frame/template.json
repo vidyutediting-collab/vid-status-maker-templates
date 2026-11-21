@@ -1,0 +1,23 @@
+{
+  "id": "bday-gold-frame",
+  "name": "Golden Frame Birthday",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 30,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Happy Birthday",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Many Many Happy Returns",
+      "type": "text"
+    }
+  ]
+}

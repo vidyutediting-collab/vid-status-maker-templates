@@ -1,0 +1,23 @@
+{
+  "id": "dev-shubh-mandal",
+  "name": "Shubh Mandal",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 30,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Om Namah Shivaya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Har Har Mahadev",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gm-sunshine-card",
+  "name": "Sunshine Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 30,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Have A Lovely Day",
+      "type": "text"
+    }
+  ]
+}

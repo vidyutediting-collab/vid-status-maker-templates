@@ -1,0 +1,23 @@
+{
+  "id": "love-dil-frame",
+  "name": "Dil Frame",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 30,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu hi meri duniya hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lyr-lyrics-line",
+  "name": "Lyrics Wali Line",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 11,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Lyrics",
+      "def": "Tere bina jee na paaye\nye dil mera, ye dil mera",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Gaane Ka Naam",
+      "def": "Mera Favourite Gaana",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sad-adhoori-kahani",
+  "name": "Adhoori Kahani",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 30,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Shayari",
+      "def": "Wo kehte rahe ki laut aayenge\nhum raah dekhte rahe umar bhar",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Adhoori Kahani",
+      "type": "text"
+    }
+  ]
+}

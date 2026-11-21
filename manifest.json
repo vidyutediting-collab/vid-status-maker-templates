@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": "642cfd3dd9a6",
+  "rev": "3edccb48a3f6",
   "categories": [
     {
       "name": "Love",
@@ -254,6 +254,531 @@
       "file": "Love/heart-rain/template.js",
       "hash": "af72ec6c1b891f93e03834df1aaae9b791b5bc0638db95026c415cf3c72908e7",
       "size": 1855
+    },
+    {
+      "id": "bday-full-dhamaka",
+      "name": "Birthday Dhamaka",
+      "cat": [
+        "Birthday"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Happy Birthday",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Mere Pyare Dost",
+          "type": "text"
+        }
+      ],
+      "file": "Birthday/bday-full-dhamaka/template.js",
+      "hash": "36e917b1450f1d2ffa725c305ce779d7f8a7b0e9f842b17e9c894fbe525b7259",
+      "size": 4471
+    },
+    {
+      "id": "love-dil-dhadkan",
+      "name": "Dil Ki Dhadkan",
+      "cat": [
+        "Love"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Tum meri dhadkan ho",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Mere Humsafar",
+          "type": "text"
+        }
+      ],
+      "file": "Love/love-dil-dhadkan/template.js",
+      "hash": "f69433f03547a09ac6cbfb0fe4b32d96d6754b7cada9088e6eba2d492ba292a9",
+      "size": 4249
+    },
+    {
+      "id": "dev-divya-aarti",
+      "name": "Divya Aarti",
+      "cat": [
+        "Devotional"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Jai Mata Di",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Shubh Navratri",
+          "type": "text"
+        }
+      ],
+      "file": "Devotional/dev-divya-aarti/template.js",
+      "hash": "5de713aa100ec13568b3c97770282fee4e08b6047883a0478a59d19a31dde6d8",
+      "size": 4521
+    },
+    {
+      "id": "quote-soch-gehri",
+      "name": "Gehri Soch",
+      "cat": [
+        "Quotes"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Vichar",
+          "def": "Zindagi ek safar hai, manzil nahi",
+          "type": "area"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "- Ek Soch",
+          "type": "text"
+        }
+      ],
+      "file": "Quotes/quote-soch-gehri/template.js",
+      "hash": "a8f399c626ee91aa69446fae13e4c485d7110892789fca60b482024f48bad747",
+      "size": 4528
+    },
+    {
+      "id": "sad-khamosh-raat",
+      "name": "Khamosh Raat",
+      "cat": [
+        "Sad"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Kuch baatein khamosh hi achhi lagti hain",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Tanhai",
+          "type": "text"
+        }
+      ],
+      "file": "Sad/sad-khamosh-raat/template.js",
+      "hash": "53a6ca1c2d4b49080bc62670f68f51fa6ff447dcd7d3bacbbf05907ebe7d3e1b",
+      "size": 4271
+    },
+    {
+      "id": "lyr-lyrics-line",
+      "name": "Lyrics Wali Line",
+      "cat": [
+        "Lyrical"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Lyrics",
+          "def": "Tere bina jee na paaye\nye dil mera, ye dil mera",
+          "type": "area"
+        },
+        {
+          "k": "name",
+          "label": "Gaane Ka Naam",
+          "def": "Mera Favourite Gaana",
+          "type": "text"
+        }
+      ],
+      "file": "Lyrical/lyr-lyrics-line/template.js",
+      "hash": "516e0c6df86fca76708fd430f50047794a9352efb7d7007ba2a4632bbcf2b23d",
+      "size": 4668
+    },
+    {
+      "id": "gm-suraj-ki-kiran",
+      "name": "Suraj Ki Kiran",
+      "cat": [
+        "Good Morning"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Good Morning",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Aapka Din Shubh Ho",
+          "type": "text"
+        }
+      ],
+      "file": "Good Morning/gm-suraj-ki-kiran/template.js",
+      "hash": "7733ac9346b97176fabf03829581abfc8f2121729152bb7f0f324cd13801b8c3",
+      "size": 4881
+    },
+    {
+      "id": "sad-dhundhli-yaadein",
+      "name": "Dhundhli Yaadein",
+      "cat": [
+        "Sad"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Yaadein dhundhli hui, par dard abhi taaza hai",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Yaadon Me",
+          "type": "text"
+        }
+      ],
+      "file": "Sad/sad-dhundhli-yaadein/template.js",
+      "hash": "837701fdf7b1e0031c314824df829e8e057524916ca60f9adcfb55d59bb0138e",
+      "size": 4270
+    },
+    {
+      "id": "bday-full-gubbare",
+      "name": "Gubbare Wali Party",
+      "cat": [
+        "Birthday"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Happy Birthday",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Dher Saari Khushiyan",
+          "type": "text"
+        }
+      ],
+      "file": "Birthday/bday-full-gubbare/template.js",
+      "hash": "5b185800904b2a0f4b3cc9e90b62ed53c4ef643aaf4d71bf7bbaac627605da4d",
+      "size": 4548
+    },
+    {
+      "id": "gm-panchhi-udaan",
+      "name": "Panchhi Ki Udaan",
+      "cat": [
+        "Good Morning"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Subah Bakhair",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Muskurate Raho",
+          "type": "text"
+        }
+      ],
+      "file": "Good Morning/gm-panchhi-udaan/template.js",
+      "hash": "5273b6d160713c07e719c7591c4eac31dbe60ed7dd948333fdd77437a29b74fb",
+      "size": 4380
+    },
+    {
+      "id": "dev-phool-varsha",
+      "name": "Phool Varsha",
+      "cat": [
+        "Devotional"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Radhe Radhe",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Shubh Din",
+          "type": "text"
+        }
+      ],
+      "file": "Devotional/dev-phool-varsha/template.js",
+      "hash": "2b6a8ee2819b3d1d71aa259fba7d04763cfad9307e1afb133030ccd61d3b8cc7",
+      "size": 4346
+    },
+    {
+      "id": "love-pyaar-chamak",
+      "name": "Pyaar Ki Chamak",
+      "cat": [
+        "Love"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Tere saath har pal khaas hai",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Meri Jaan",
+          "type": "text"
+        }
+      ],
+      "file": "Love/love-pyaar-chamak/template.js",
+      "hash": "078482a0f4bdabcb4c50675dfaba16434be3cf2e5df6789f0144e95631fab8ca",
+      "size": 4362
+    },
+    {
+      "id": "lyr-sur-taal",
+      "name": "Sur Taal",
+      "cat": [
+        "Lyrical"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Dil ki dhun, tere naam",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Music Lover",
+          "type": "text"
+        }
+      ],
+      "file": "Lyrical/lyr-sur-taal/template.js",
+      "hash": "e96a363251604fb836b7d5ed8fd82d215877cca64f46dec957d11b70dfcb3aca",
+      "size": 4355
+    },
+    {
+      "id": "quote-vichar-bar",
+      "name": "Vichar Bar",
+      "cat": [
+        "Quotes"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Vichar",
+          "def": "Mehnat itni khamoshi se karo ki safalta shor macha de",
+          "type": "area"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "- Anmol Vachan",
+          "type": "text"
+        }
+      ],
+      "file": "Quotes/quote-vichar-bar/template.js",
+      "hash": "822d6be75f3b11b7650c48c65e94fd4a0d3a9b4e44502122d0da5d5cde91e322",
+      "size": 3687
+    },
+    {
+      "id": "sad-aansoo-barish",
+      "name": "Aansoo Barish",
+      "cat": [
+        "Sad"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Barish me aansoo chhup jaate hain",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Akela Dil",
+          "type": "text"
+        }
+      ],
+      "file": "Sad/sad-aansoo-barish/template.js",
+      "hash": "1f93e47553e7ee926e058d984d93bcc195c33301349d5a15984f8c6865c51771",
+      "size": 4766
+    },
+    {
+      "id": "bday-full-atishbaazi",
+      "name": "Atishbaazi Birthday",
+      "cat": [
+        "Birthday"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Happy Birthday",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Roshan Rahe Har Din",
+          "type": "text"
+        }
+      ],
+      "file": "Birthday/bday-full-atishbaazi/template.js",
+      "hash": "79a5e9233282771f7826ec95a901c5eb334b830878d959ec3bc18929c7d1791b",
+      "size": 4417
+    },
+    {
+      "id": "lyr-beat-zoom",
+      "name": "Beat Zoom",
+      "cat": [
+        "Lyrical"
+      ],
+      "slots": 3,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Aaj raat dhamaka hoga",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Party Mood",
+          "type": "text"
+        }
+      ],
+      "file": "Lyrical/lyr-beat-zoom/template.js",
+      "hash": "75e399026271155a749544baf667ef015b00631e56f551a529f8f8e95cd3e107",
+      "size": 4361
+    },
+    {
+      "id": "dev-deep-mala",
+      "name": "Deep Mala",
+      "cat": [
+        "Devotional"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Shubh Deepawali",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Sabko Mubarak",
+          "type": "text"
+        }
+      ],
+      "file": "Devotional/dev-deep-mala/template.js",
+      "hash": "6e505de3f440ee2c1957c383df928f4c267ba1ecd76964d97ed48057b18769ff",
+      "size": 4686
+    },
+    {
+      "id": "love-gulab-barsaat",
+      "name": "Gulab Barsaat",
+      "cat": [
+        "Love"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Tum gulab ho meri zindagi ke",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Sirf Tumhara",
+          "type": "text"
+        }
+      ],
+      "file": "Love/love-gulab-barsaat/template.js",
+      "hash": "51e7d3a690229fb9388f30badce8baa98ff7ca595aebc6704b7c4e5c0f39583a",
+      "size": 3971
+    },
+    {
+      "id": "quote-neon-border",
+      "name": "Neon Border Quote",
+      "cat": [
+        "Quotes"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Vichar",
+          "def": "Sapne wo nahi jo neend mein aaye, sapne wo hain jo neend na aane de",
+          "type": "area"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "- Kalam Saab",
+          "type": "text"
+        }
+      ],
+      "file": "Quotes/quote-neon-border/template.js",
+      "hash": "f9b8a63495a9efd4e80e40c06b56a5988f3621efc3e67d0a7f75733185446fdb",
+      "size": 4131
+    },
+    {
+      "id": "gm-os-ki-boondein",
+      "name": "Os Ki Boondein",
+      "cat": [
+        "Good Morning"
+      ],
+      "slots": 2,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Fresh Subah, Naya Din",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Good Morning",
+          "type": "text"
+        }
+      ],
+      "file": "Good Morning/gm-os-ki-boondein/template.js",
+      "hash": "4e3fe3372cea7dc0f6d92ad623893c6d26b34e5bf392ea585c0fd645f34d70fb",
+      "size": 3851
     },
     {
       "id": "bday-cake",
@@ -954,6 +1479,181 @@
       "file": "Good Morning/gm-taazi-subah/template.js",
       "hash": "8eaba526358a12c6435253c394283cdb1393cfd52e1d9c8c5b314b2783792510",
       "size": 1680
+    },
+    {
+      "id": "sad-adhoori-kahani",
+      "name": "Adhoori Kahani",
+      "cat": [
+        "Sad"
+      ],
+      "slots": 1,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Shayari",
+          "def": "Wo kehte rahe ki laut aayenge\nhum raah dekhte rahe umar bhar",
+          "type": "area"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Adhoori Kahani",
+          "type": "text"
+        }
+      ],
+      "file": "Sad/sad-adhoori-kahani/template.js",
+      "hash": "822c5b67ec5b4358aad27a9a0a2f3208f71dfda6fc6e67b699c2e1ce0653af2c",
+      "size": 4707
+    },
+    {
+      "id": "quote-blur-card",
+      "name": "Blur Card Quote",
+      "cat": [
+        "Quotes"
+      ],
+      "slots": 1,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Vichar",
+          "def": "Waqt badalta hai, par apne kabhi nahi",
+          "type": "area"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "- Dil Se",
+          "type": "text"
+        }
+      ],
+      "file": "Quotes/quote-blur-card/template.js",
+      "hash": "129cc9a4dd299991780a0e9fdd950755f147a3f04a5948ef2996a6c6d4131e58",
+      "size": 4265
+    },
+    {
+      "id": "love-dil-frame",
+      "name": "Dil Frame",
+      "cat": [
+        "Love"
+      ],
+      "slots": 1,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Tu hi meri duniya hai",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Meri Jaan",
+          "type": "text"
+        }
+      ],
+      "file": "Love/love-dil-frame/template.js",
+      "hash": "8083a5728d5d8bb3c196082b1407062879617c5a01696e42f3715a7e35e56e9a",
+      "size": 4258
+    },
+    {
+      "id": "bday-gold-frame",
+      "name": "Golden Frame Birthday",
+      "cat": [
+        "Birthday"
+      ],
+      "slots": 1,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Happy Birthday",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Many Many Happy Returns",
+          "type": "text"
+        }
+      ],
+      "file": "Birthday/bday-gold-frame/template.js",
+      "hash": "3c5c00aa0bff992174f99c19da34da78ed77e6a4af6a7bdd850605ed1387b838",
+      "size": 4588
+    },
+    {
+      "id": "lyr-music-player",
+      "name": "Music Player",
+      "cat": [
+        "Lyrical"
+      ],
+      "slots": 1,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Gaane Ka Naam",
+          "def": "Tum Hi Ho",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Singer",
+          "def": "Aashiqui Wala Mood",
+          "type": "text"
+        }
+      ],
+      "file": "Lyrical/lyr-music-player/template.js",
+      "hash": "eab7d7a2b1c1be12208f1f662125504c0b65fa9b3260c33f082a8429fe677f1c",
+      "size": 4717
+    },
+    {
+      "id": "dev-shubh-mandal",
+      "name": "Shubh Mandal",
+      "cat": [
+        "Devotional"
+      ],
+      "slots": 1,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Om Namah Shivaya",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Har Har Mahadev",
+          "type": "text"
+        }
+      ],
+      "file": "Devotional/dev-shubh-mandal/template.js",
+      "hash": "efe1a6f4453a7ea2f8283f0f1b1a94191360aca2e3bc0b4bd4ca9f003a3145a9",
+      "size": 4536
+    },
+    {
+      "id": "gm-sunshine-card",
+      "name": "Sunshine Card",
+      "cat": [
+        "Good Morning"
+      ],
+      "slots": 1,
+      "fields": [
+        {
+          "k": "caption",
+          "label": "Caption",
+          "def": "Good Morning",
+          "type": "text"
+        },
+        {
+          "k": "name",
+          "label": "Naam",
+          "def": "Have A Lovely Day",
+          "type": "text"
+        }
+      ],
+      "file": "Good Morning/gm-sunshine-card/template.js",
+      "hash": "bfcd969e5d62fca671ffcccc9ed69f60ef87cf30fff0edf1f0be0e6e3a3d4db0",
+      "size": 4432
     }
   ]
 }

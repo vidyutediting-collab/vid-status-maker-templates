@@ -1,0 +1,23 @@
+{
+  "id": "quote-vichar-bar",
+  "name": "Vichar Bar",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 12,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Vichar",
+      "def": "Mehnat itni khamoshi se karo ki safalta shor macha de",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "- Anmol Vachan",
+      "type": "text"
+    }
+  ]
+}
