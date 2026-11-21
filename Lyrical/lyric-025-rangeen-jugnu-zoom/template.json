@@ -1,0 +1,17 @@
+{
+  "id": "lyric-025-rangeen-jugnu-zoom",
+  "name": "Lyrical 25 - Rangeen Jugnu Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1171,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri muskaan ki melody",
+      "type": "text"
+    }
+  ]
+}

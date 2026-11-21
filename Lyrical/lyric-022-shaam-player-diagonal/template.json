@@ -1,0 +1,17 @@
+{
+  "id": "lyric-022-shaam-player-diagonal",
+  "name": "Lyrical 22 - Shaam Player Diagonal",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1150,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ghungroo si khanakti yaad",
+      "type": "text"
+    }
+  ]
+}

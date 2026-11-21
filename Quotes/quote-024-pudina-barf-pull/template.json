@@ -1,0 +1,17 @@
+{
+  "id": "quote-024-pudina-barf-pull",
+  "name": "Quotes 24 - Pudina Barf Pull",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1167,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kal ki chinta aaj ka sukoon cheen leti hai",
+      "type": "text"
+    }
+  ]
+}

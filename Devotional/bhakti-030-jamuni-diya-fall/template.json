@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-030-jamuni-diya-fall",
+  "name": "Devotional 30 - Jamuni Diya Fall",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1205,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Krishna ki murli ka jaadu",
+      "type": "text"
+    }
+  ]
+}

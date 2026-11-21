@@ -1,0 +1,17 @@
+{
+  "id": "sad-025-fika-pankhudi-parallax",
+  "name": "Sad 25 - Fika Pankhudi Parallax",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1169,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo gaya woh wapas nahi aata",
+      "type": "text"
+    }
+  ]
+}

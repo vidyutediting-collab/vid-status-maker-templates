@@ -1,0 +1,17 @@
+{
+  "id": "gm-029-savera-pankhudi-pull",
+  "name": "Good Morning 29 - Savera Pankhudi Pull",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1201,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mehnat karo, din ko jeet lo",
+      "type": "text"
+    }
+  ]
+}

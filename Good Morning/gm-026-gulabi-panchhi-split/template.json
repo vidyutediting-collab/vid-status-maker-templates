@@ -1,0 +1,17 @@
+{
+  "id": "gm-026-gulabi-panchhi-split",
+  "name": "Good Morning 26 - Gulabi Panchhi Split",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1180,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj kuch accha hone wala hai",
+      "type": "text"
+    }
+  ]
+}

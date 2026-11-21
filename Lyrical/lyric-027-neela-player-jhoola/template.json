@@ -1,0 +1,17 @@
+{
+  "id": "lyric-027-neela-player-jhoola",
+  "name": "Lyrical 27 - Neela Player Jhoola",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1185,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raat bhar baje teri yaad ki dhun",
+      "type": "text"
+    }
+  ]
+}

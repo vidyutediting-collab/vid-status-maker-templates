@@ -1,0 +1,17 @@
+{
+  "id": "love-025-lavender-dil-polaroid",
+  "name": "Love 25 - Lavender Dil Polaroid",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1168,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mere dil ki rani tu",
+      "type": "text"
+    }
+  ]
+}

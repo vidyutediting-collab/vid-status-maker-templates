@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-029-savera-phool-pan-right",
+  "name": "Devotional 29 - Savera Phool Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1198,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Ambe Gauri",
+      "type": "text"
+    }
+  ]
+}

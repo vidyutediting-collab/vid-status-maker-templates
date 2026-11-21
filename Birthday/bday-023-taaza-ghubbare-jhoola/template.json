@@ -1,0 +1,23 @@
+{
+  "id": "bday-023-taaza-ghubbare-jhoola",
+  "name": "Birthday 23 - Taaza Ghubbare Jhoola",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1158,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Birthday vibes on!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sad-024-shaam-pankhudi-jodi",
+  "name": "Sad 24 - Shaam Pankhudi Jodi",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1162,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ko samjhaya, par mana nahi",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Tum",
+      "type": "text"
+    }
+  ]
+}

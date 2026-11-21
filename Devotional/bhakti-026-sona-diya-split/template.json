@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-026-sona-diya-split",
+  "name": "Devotional 26 - Sona Diya Split",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1177,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil mein Ram, haath mein kaam",
+      "type": "text"
+    }
+  ]
+}

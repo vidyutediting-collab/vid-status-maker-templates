@@ -1,0 +1,23 @@
+{
+  "id": "bday-030-taaza-confetti-jhoola",
+  "name": "Birthday 30 - Taaza Confetti Jhoola",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1207,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aapka din khushiyon se bhara ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

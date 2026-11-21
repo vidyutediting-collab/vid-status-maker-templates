@@ -1,0 +1,17 @@
+{
+  "id": "quote-027-fika-dhool-card",
+  "name": "Quotes 27 - Fika Dhool Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1188,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka kaam kal par mat chhodo",
+      "type": "text"
+    }
+  ]
+}

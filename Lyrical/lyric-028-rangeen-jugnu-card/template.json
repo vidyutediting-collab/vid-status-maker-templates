@@ -1,0 +1,17 @@
+{
+  "id": "lyric-028-rangeen-jugnu-card",
+  "name": "Lyrical 28 - Rangeen Jugnu Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1192,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sapno ka sangeet",
+      "type": "text"
+    }
+  ]
+}

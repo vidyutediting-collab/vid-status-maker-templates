@@ -1,0 +1,23 @@
+{
+  "id": "love-026-rangeen-bokeh-beat",
+  "name": "Love 26 - Rangeen Bokeh Beat",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1175,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Humesha tera, sirf tera",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Babu",
+      "type": "text"
+    }
+  ]
+}

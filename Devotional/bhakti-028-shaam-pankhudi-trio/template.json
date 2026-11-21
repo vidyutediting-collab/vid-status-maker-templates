@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-028-shaam-pankhudi-trio",
+  "name": "Devotional 28 - Shaam Pankhudi Trio",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1191,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tera naam hi mera sahara",
+      "type": "text"
+    }
+  ]
+}

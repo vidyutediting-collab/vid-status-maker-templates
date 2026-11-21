@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-025-shaam-om-polaroid",
+  "name": "Devotional 25 - Shaam Om Polaroid",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1170,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sankat mochan naam tumhara",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-029-fika-kohra-pan-left",
+  "name": "Quotes 29 - Fika Kohra Pan Left",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1202,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mauka milta nahi, banana padta hai",
+      "type": "text"
+    }
+  ]
+}

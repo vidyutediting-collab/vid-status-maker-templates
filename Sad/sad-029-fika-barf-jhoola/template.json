@@ -1,0 +1,17 @@
+{
+  "id": "sad-029-fika-barf-jhoola",
+  "name": "Sad 29 - Fika Barf Jhoola",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1197,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dard ka koi rang nahi hota",
+      "type": "text"
+    }
+  ]
+}

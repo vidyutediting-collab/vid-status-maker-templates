@@ -1,0 +1,23 @@
+{
+  "id": "gm-030-savera-pankhudi-saans",
+  "name": "Good Morning 30 - Savera Pankhudi Saans",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1208,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Utho aur chamko",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

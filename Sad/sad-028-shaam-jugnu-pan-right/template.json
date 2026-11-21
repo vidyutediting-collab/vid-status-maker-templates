@@ -1,0 +1,17 @@
+{
+  "id": "sad-028-shaam-jugnu-pan-right",
+  "name": "Sad 28 - Shaam Jugnu Pan Right",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1190,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dard ko lafzon mein dhaal diya",
+      "type": "text"
+    }
+  ]
+}

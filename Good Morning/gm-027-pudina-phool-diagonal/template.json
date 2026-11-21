@@ -1,0 +1,17 @@
+{
+  "id": "gm-027-pudina-phool-diagonal",
+  "name": "Good Morning 27 - Pudina Phool Diagonal",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1187,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naya din, nayi umeed",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "love-021-fika-jugnu-parallax",
+  "name": "Love 21 - Fika Jugnu Parallax",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1140,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu meri subah, tu hi meri shaam",
+      "type": "text"
+    }
+  ]
+}

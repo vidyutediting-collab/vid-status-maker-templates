@@ -1,0 +1,17 @@
+{
+  "id": "quote-025-dhundh-bokeh-pull",
+  "name": "Quotes 25 - Dhundh Bokeh Pull",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1174,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Insaan ki soch hi uski taakat",
+      "type": "text"
+    }
+  ]
+}

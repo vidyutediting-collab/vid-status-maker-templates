@@ -1,0 +1,17 @@
+{
+  "id": "gm-028-rose-jugnu-pan-right",
+  "name": "Good Morning 28 - Rose Jugnu Pan Right",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1194,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sabere ki dhoop, sukoon bhari",
+      "type": "text"
+    }
+  ]
+}

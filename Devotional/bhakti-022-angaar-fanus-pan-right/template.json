@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-022-angaar-fanus-pan-right",
+  "name": "Devotional 22 - Angaar Fanus Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1149,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shri Ganeshaya Namah",
+      "type": "text"
+    }
+  ]
+}

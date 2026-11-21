@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-024-purana-fanus-saans",
+  "name": "Devotional 24 - Purana Fanus Saans",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1163,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Mahakal",
+      "type": "text"
+    }
+  ]
+}

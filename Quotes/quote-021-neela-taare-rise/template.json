@@ -1,0 +1,17 @@
+{
+  "id": "quote-021-neela-taare-rise",
+  "name": "Quotes 21 - Neela Taare Rise",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1146,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dheere chalo par ruko mat",
+      "type": "text"
+    }
+  ]
+}

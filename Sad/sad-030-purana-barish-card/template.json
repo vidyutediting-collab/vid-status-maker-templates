@@ -1,0 +1,23 @@
+{
+  "id": "sad-030-purana-barish-card",
+  "name": "Sad 30 - Purana Barish Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1204,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khamoshi sab keh deti hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Tum",
+      "type": "text"
+    }
+  ]
+}

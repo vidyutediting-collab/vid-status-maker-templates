@@ -1,0 +1,17 @@
+{
+  "id": "lyric-030-fika-bokeh-split",
+  "name": "Lyrical 30 - Fika Bokeh Split",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1206,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aa baith, ek gaana sunaun",
+      "type": "text"
+    }
+  ]
+}

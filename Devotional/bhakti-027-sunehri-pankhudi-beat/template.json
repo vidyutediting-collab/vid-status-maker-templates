@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-027-sunehri-pankhudi-beat",
+  "name": "Devotional 27 - Sunehri Pankhudi Beat",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1184,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय श्री कृष्ण",
+      "type": "text"
+    }
+  ]
+}

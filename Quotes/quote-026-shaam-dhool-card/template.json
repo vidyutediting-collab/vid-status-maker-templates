@@ -1,0 +1,17 @@
+{
+  "id": "quote-026-shaam-dhool-card",
+  "name": "Quotes 26 - Shaam Dhool Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1181,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Himmat hai to raasta hai",
+      "type": "text"
+    }
+  ]
+}

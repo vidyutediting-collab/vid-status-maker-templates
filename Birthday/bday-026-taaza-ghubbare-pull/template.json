@@ -1,0 +1,23 @@
+{
+  "id": "bday-026-taaza-ghubbare-pull",
+  "name": "Birthday 26 - Taaza Ghubbare Pull",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1179,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj tumhara din, tumhari shaan",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lyric-029-shaam-beats-parallax",
+  "name": "Lyrical 29 - Shaam Beats Parallax",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1199,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek dhun teri, ek dhun meri",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Singer",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-025-cine-phool-pan-right",
+  "name": "Good Morning 25 - Cine Phool Pan Right",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1173,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning, aapka din shubh ho",
+      "type": "text"
+    }
+  ]
+}

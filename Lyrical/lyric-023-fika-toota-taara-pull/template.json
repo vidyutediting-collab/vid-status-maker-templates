@@ -1,0 +1,17 @@
+{
+  "id": "lyric-023-fika-toota-taara-pull",
+  "name": "Lyrical 23 - Fika Toota Taara Pull",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1157,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gaane ki tarah yaad aati ho",
+      "type": "text"
+    }
+  ]
+}

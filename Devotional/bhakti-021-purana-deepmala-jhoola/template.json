@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-021-purana-deepmala-jhoola",
+  "name": "Devotional 21 - Purana Deepmala Jhoola",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1142,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hare Krishna Hare Ram",
+      "type": "text"
+    }
+  ]
+}

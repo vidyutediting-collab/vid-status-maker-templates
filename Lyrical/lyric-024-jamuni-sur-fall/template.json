@@ -1,0 +1,17 @@
+{
+  "id": "lyric-024-jamuni-sur-fall",
+  "name": "Lyrical 24 - Jamuni Sur Fall",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1164,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere sang sur mile mere",
+      "type": "text"
+    }
+  ]
+}

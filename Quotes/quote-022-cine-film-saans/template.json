@@ -1,0 +1,17 @@
+{
+  "id": "quote-022-cine-film-saans",
+  "name": "Quotes 22 - Cine Film Saans",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1153,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khamoshi bhi ek taakat hai",
+      "type": "text"
+    }
+  ]
+}

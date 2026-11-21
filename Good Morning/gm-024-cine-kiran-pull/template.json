@@ -1,0 +1,23 @@
+{
+  "id": "gm-024-cine-kiran-pull",
+  "name": "Good Morning 24 - Cine Kiran Pull",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1166,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Din ki pehli muskaan tumhare naam",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

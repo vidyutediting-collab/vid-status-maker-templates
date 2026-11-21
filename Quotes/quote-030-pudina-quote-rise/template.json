@@ -1,0 +1,17 @@
+{
+  "id": "quote-030-pudina-quote-rise",
+  "name": "Quotes 30 - Pudina Quote Rise",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1209,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Achhe log kam, par sachche hote hain",
+      "type": "text"
+    }
+  ]
+}

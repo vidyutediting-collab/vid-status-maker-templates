@@ -1,0 +1,17 @@
+{
+  "id": "sad-026-fika-taare-card",
+  "name": "Sad 26 - Fika Taare Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1176,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kuch rishte adhoore hi achhe",
+      "type": "text"
+    }
+  ]
+}

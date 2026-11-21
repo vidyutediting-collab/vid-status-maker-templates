@@ -1,0 +1,23 @@
+{
+  "id": "gm-021-rose-suraj-jhoola",
+  "name": "Good Morning 21 - Rose Suraj Jhoola",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1145,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah mubarak, mauj karo",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aap",
+      "type": "text"
+    }
+  ]
+}

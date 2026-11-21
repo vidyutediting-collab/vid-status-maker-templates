@@ -1,0 +1,23 @@
+{
+  "id": "bday-024-lavender-taare-fall",
+  "name": "Birthday 24 - Lavender Taare Fall",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1165,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri khushiyan meri khushiyan",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

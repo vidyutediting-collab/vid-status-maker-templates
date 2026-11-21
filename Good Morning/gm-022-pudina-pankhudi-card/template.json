@@ -1,0 +1,17 @@
+{
+  "id": "gm-022-pudina-pankhudi-card",
+  "name": "Good Morning 22 - Pudina Pankhudi Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1152,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khushiyon wali subah ho aapki",
+      "type": "text"
+    }
+  ]
+}

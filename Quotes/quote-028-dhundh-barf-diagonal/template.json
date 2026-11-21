@@ -1,0 +1,17 @@
+{
+  "id": "quote-028-dhundh-barf-diagonal",
+  "name": "Quotes 28 - Dhundh Barf Diagonal",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1195,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Seekhna kabhi band mat karo",
+      "type": "text"
+    }
+  ]
+}

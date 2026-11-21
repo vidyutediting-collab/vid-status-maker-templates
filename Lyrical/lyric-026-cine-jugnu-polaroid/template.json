@@ -1,0 +1,17 @@
+{
+  "id": "lyric-026-cine-jugnu-polaroid",
+  "name": "Lyrical 26 - Cine Jugnu Polaroid",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1178,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gaata hu sirf tere liye",
+      "type": "text"
+    }
+  ]
+}

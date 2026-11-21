@@ -1,0 +1,17 @@
+{
+  "id": "love-024-purana-dil-polaroid",
+  "name": "Love 24 - Purana Dil Polaroid",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1161,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Meri duniya tere naam",
+      "type": "text"
+    }
+  ]
+}

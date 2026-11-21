@@ -1,0 +1,23 @@
+{
+  "id": "love-028-gulabi-dil-jodi",
+  "name": "Love 28 - Gulabi Dil Jodi",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1189,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu mile to saari duniya mili",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Sona",
+      "type": "text"
+    }
+  ]
+}

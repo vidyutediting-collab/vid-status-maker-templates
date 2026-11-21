@@ -1,0 +1,23 @@
+{
+  "id": "bday-028-lavender-confetti-jhoola",
+  "name": "Birthday 28 - Lavender Confetti Jhoola",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1193,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum jiyo hazaaron saal",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

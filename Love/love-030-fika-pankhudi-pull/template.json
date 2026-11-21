@@ -1,0 +1,17 @@
+{
+  "id": "love-030-fika-pankhudi-pull",
+  "name": "Love 30 - Fika Pankhudi Pull",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1203,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mohabbat hai tujhse behisaab",
+      "type": "text"
+    }
+  ]
+}

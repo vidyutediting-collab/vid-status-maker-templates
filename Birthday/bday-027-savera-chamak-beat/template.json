@@ -1,0 +1,23 @@
+{
+  "id": "bday-027-savera-chamak-beat",
+  "name": "Birthday 27 - Savera Chamak Beat",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1186,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mubarak ho ye khaas din",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

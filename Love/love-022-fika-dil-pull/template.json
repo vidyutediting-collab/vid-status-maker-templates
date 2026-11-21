@@ -1,0 +1,17 @@
+{
+  "id": "love-022-fika-dil-pull",
+  "name": "Love 22 - Fika Dil Pull",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1147,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu hai to sab hai",
+      "type": "text"
+    }
+  ]
+}

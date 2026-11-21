@@ -1,0 +1,17 @@
+{
+  "id": "sad-021-mono-bijli-jhoola",
+  "name": "Sad 21 - Mono Bijli Jhoola",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1141,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek aakhri baar mil lete",
+      "type": "text"
+    }
+  ]
+}

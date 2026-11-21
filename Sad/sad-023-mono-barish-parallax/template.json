@@ -1,0 +1,23 @@
+{
+  "id": "sad-023-mono-barish-parallax",
+  "name": "Sad 23 - Mono Barish Parallax",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1155,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raaton ko neend nahi aati",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Kisi Ke Liye",
+      "type": "text"
+    }
+  ]
+}

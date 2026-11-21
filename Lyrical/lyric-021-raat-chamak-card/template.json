@@ -1,0 +1,17 @@
+{
+  "id": "lyric-021-raat-chamak-card",
+  "name": "Lyrical 21 - Raat Chamak Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1143,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dhun wohi, bas tu naya",
+      "type": "text"
+    }
+  ]
+}

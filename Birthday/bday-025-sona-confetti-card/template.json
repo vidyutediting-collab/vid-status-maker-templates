@@ -1,0 +1,23 @@
+{
+  "id": "bday-025-sona-confetti-card",
+  "name": "Birthday 25 - Sona Confetti Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1172,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sab khushiyan tumhare naam",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

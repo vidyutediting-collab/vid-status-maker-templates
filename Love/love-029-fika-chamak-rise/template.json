@@ -1,0 +1,17 @@
+{
+  "id": "love-029-fika-chamak-rise",
+  "name": "Love 29 - Fika Chamak Rise",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1196,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ishq ki raah mein tu humsafar",
+      "type": "text"
+    }
+  ]
+}

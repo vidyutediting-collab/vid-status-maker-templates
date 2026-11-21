@@ -1,0 +1,17 @@
+{
+  "id": "gm-023-pudina-bokeh-polaroid",
+  "name": "Good Morning 23 - Pudina Bokeh Polaroid",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1159,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mausam sundar, subah sundar",
+      "type": "text"
+    }
+  ]
+}
