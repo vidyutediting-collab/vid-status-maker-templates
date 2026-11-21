@@ -1,0 +1,23 @@
+{
+  "id": "bday-063-savera-ghubbare-behta",
+  "name": "Birthday 63 - Savera Ghubbare Behta",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1438,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jashn ka mausam aa gaya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

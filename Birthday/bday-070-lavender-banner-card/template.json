@@ -1,0 +1,23 @@
+{
+  "id": "bday-070-lavender-banner-card",
+  "name": "Birthday 70 - Lavender Banner Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1487,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Muskurahat kabhi kam na ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

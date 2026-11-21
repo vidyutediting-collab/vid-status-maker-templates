@@ -1,0 +1,23 @@
+{
+  "id": "bday-065-savera-confetti-fall",
+  "name": "Birthday 65 - Savera Confetti Fall",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1452,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Happy Birthday, superstar!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

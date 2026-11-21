@@ -1,0 +1,23 @@
+{
+  "id": "bday-066-gulabi-confetti-diagonal",
+  "name": "Birthday 66 - Gulabi Confetti Diagonal",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1459,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Party shuru, mood on!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

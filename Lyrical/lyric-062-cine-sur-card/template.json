@@ -1,0 +1,17 @@
+{
+  "id": "lyric-062-cine-sur-card",
+  "name": "Lyrical 62 - Cine Sur Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1430,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gungunaa raha hu tera naam",
+      "type": "text"
+    }
+  ]
+}

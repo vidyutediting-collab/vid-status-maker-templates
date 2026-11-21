@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-064-savera-diya-trio",
+  "name": "Devotional 64 - Savera Diya Trio",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1443,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "ॐ नमः शिवाय",
+      "type": "text"
+    }
+  ]
+}

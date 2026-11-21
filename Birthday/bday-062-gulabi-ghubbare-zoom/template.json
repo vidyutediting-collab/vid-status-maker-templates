@@ -1,0 +1,23 @@
+{
+  "id": "bday-062-gulabi-ghubbare-zoom",
+  "name": "Birthday 62 - Gulabi Ghubbare Zoom",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1431,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Happy Birthday meri jaan",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

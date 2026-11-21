@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-067-jamuni-chamak-beat",
+  "name": "Devotional 67 - Jamuni Chamak Beat",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1464,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sab kuch uski marzi se",
+      "type": "text"
+    }
+  ]
+}

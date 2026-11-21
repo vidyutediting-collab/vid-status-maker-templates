@@ -1,0 +1,23 @@
+{
+  "id": "love-066-purana-taare-behta",
+  "name": "Love 66 - Purana Taare Behta",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1455,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har pal tere saath ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Babu",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-062-savera-bokeh-pull",
+  "name": "Good Morning 62 - Savera Bokeh Pull",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1432,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Roz ek nayi shuruaat",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-070-shaam-barish-saans",
+  "name": "Sad 70 - Shaam Barish Saans",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1484,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek aakhri baar mil lete",
+      "type": "text"
+    }
+  ]
+}

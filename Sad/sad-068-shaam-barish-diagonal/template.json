@@ -1,0 +1,17 @@
+{
+  "id": "sad-068-shaam-barish-diagonal",
+  "name": "Sad 68 - Shaam Barish Diagonal",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1470,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Alvida kehna mushkil tha",
+      "type": "text"
+    }
+  ]
+}

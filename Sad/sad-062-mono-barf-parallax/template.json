@@ -1,0 +1,17 @@
+{
+  "id": "sad-062-mono-barf-parallax",
+  "name": "Sad 62 - Mono Barf Parallax",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1428,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere jaane ke baad sab badal gaya",
+      "type": "text"
+    }
+  ]
+}

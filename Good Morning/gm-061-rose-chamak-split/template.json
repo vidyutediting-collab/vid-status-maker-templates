@@ -1,0 +1,17 @@
+{
+  "id": "gm-061-rose-chamak-split",
+  "name": "Good Morning 61 - Rose Chamak Split",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1425,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning, aaj ka din tumhara",
+      "type": "text"
+    }
+  ]
+}

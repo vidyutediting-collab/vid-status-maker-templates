@@ -1,0 +1,17 @@
+{
+  "id": "quote-068-purana-barf-jodi",
+  "name": "Quotes 68 - Purana Barf Jodi",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1475,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sabr ka phal meetha hota hai",
+      "type": "text"
+    }
+  ]
+}

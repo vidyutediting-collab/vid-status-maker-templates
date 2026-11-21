@@ -1,0 +1,17 @@
+{
+  "id": "quote-062-neela-chamak-card",
+  "name": "Quotes 62 - Neela Chamak Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1433,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sab kuch milega, bas sabr rakho",
+      "type": "text"
+    }
+  ]
+}

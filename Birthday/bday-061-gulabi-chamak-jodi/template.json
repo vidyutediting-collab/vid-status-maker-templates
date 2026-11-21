@@ -1,0 +1,23 @@
+{
+  "id": "bday-061-gulabi-chamak-jodi",
+  "name": "Birthday 61 - Gulabi Chamak Jodi",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1424,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Umar badhe, pyar badhe",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

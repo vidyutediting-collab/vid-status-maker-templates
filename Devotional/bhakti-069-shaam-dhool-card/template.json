@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-069-shaam-dhool-card",
+  "name": "Devotional 69 - Shaam Dhool Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1478,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bhakti mein hi shakti hai",
+      "type": "text"
+    }
+  ]
+}

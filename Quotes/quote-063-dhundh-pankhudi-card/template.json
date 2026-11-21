@@ -1,0 +1,17 @@
+{
+  "id": "quote-063-dhundh-pankhudi-card",
+  "name": "Quotes 63 - Dhundh Pankhudi Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1440,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chhoti baatein bade farak laati hain",
+      "type": "text"
+    }
+  ]
+}

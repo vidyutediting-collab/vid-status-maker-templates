@@ -1,0 +1,17 @@
+{
+  "id": "gm-067-rose-phool-jodi",
+  "name": "Good Morning 67 - Rose Phool Jodi",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1467,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shubh Prabhat",
+      "type": "text"
+    }
+  ]
+}

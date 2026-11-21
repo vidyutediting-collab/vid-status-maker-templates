@@ -1,0 +1,17 @@
+{
+  "id": "love-062-fika-dil-pan-left",
+  "name": "Love 62 - Fika Dil Pan Left",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1427,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina din adhoora",
+      "type": "text"
+    }
+  ]
+}

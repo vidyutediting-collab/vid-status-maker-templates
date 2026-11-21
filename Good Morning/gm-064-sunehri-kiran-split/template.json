@@ -1,0 +1,17 @@
+{
+  "id": "gm-064-sunehri-kiran-split",
+  "name": "Good Morning 64 - Sunehri Kiran Split",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1446,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hasi se bhari ho subah",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-067-shaam-dhool-saans",
+  "name": "Lyrical 67 - Shaam Dhool Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1465,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bheegi raaton ka sangeet",
+      "type": "text"
+    }
+  ]
+}

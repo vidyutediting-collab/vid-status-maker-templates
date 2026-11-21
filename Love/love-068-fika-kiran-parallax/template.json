@@ -1,0 +1,23 @@
+{
+  "id": "love-068-fika-kiran-parallax",
+  "name": "Love 68 - Fika Kiran Parallax",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1469,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tujhse milke dil ko chain mila",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Jaan",
+      "type": "text"
+    }
+  ]
+}

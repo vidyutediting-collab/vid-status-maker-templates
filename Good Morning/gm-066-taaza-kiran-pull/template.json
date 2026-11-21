@@ -1,0 +1,17 @@
+{
+  "id": "gm-066-taaza-kiran-pull",
+  "name": "Good Morning 66 - Taaza Kiran Pull",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1460,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aapko Good Morning ka pyaar",
+      "type": "text"
+    }
+  ]
+}

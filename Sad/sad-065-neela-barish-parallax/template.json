@@ -1,0 +1,17 @@
+{
+  "id": "sad-065-neela-barish-parallax",
+  "name": "Sad 65 - Neela Barish Parallax",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1449,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bheed mein bhi akela hu",
+      "type": "text"
+    }
+  ]
+}

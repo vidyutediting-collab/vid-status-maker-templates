@@ -1,0 +1,17 @@
+{
+  "id": "quote-064-cine-kiran-saans",
+  "name": "Quotes 64 - Cine Kiran Saans",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1447,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Girna buri baat nahi, na uthna hai",
+      "type": "text"
+    }
+  ]
+}

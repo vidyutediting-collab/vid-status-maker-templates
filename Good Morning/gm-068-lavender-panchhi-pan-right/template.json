@@ -1,0 +1,17 @@
+{
+  "id": "gm-068-lavender-panchhi-pan-right",
+  "name": "Good Morning 68 - Lavender Panchhi Pan Right",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1474,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sunehri subah, sunehre sapne",
+      "type": "text"
+    }
+  ]
+}

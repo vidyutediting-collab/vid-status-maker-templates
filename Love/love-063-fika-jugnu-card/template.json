@@ -1,0 +1,23 @@
+{
+  "id": "love-063-fika-jugnu-card",
+  "name": "Love 63 - Fika Jugnu Card",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1434,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere sang har lamha khaas",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Jaan",
+      "type": "text"
+    }
+  ]
+}

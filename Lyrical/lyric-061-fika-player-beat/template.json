@@ -1,0 +1,17 @@
+{
+  "id": "lyric-061-fika-player-beat",
+  "name": "Lyrical 61 - Fika Player Beat",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1423,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek ghazal tere naam ki",
+      "type": "text"
+    }
+  ]
+}

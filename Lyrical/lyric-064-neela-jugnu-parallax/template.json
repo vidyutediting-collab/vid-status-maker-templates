@@ -1,0 +1,17 @@
+{
+  "id": "lyric-064-neela-jugnu-parallax",
+  "name": "Lyrical 64 - Neela Jugnu Parallax",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1444,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raag naya, jazba purana",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bday-069-sunehri-ghubbare-pan-left",
+  "name": "Birthday 69 - Sunehri Ghubbare Pan Left",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1480,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Birthday girl ki entry!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

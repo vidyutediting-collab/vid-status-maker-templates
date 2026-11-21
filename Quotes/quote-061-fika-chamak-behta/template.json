@@ -1,0 +1,23 @@
+{
+  "id": "quote-061-fika-chamak-behta",
+  "name": "Quotes 61 - Fika Chamak Behta",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1426,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt ki kadar karo",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

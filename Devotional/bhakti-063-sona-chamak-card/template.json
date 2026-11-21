@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-063-sona-chamak-card",
+  "name": "Devotional 63 - Sona Chamak Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1436,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Shri Krishna",
+      "type": "text"
+    }
+  ]
+}

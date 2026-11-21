@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-068-shaam-jugnu-saans",
+  "name": "Devotional 68 - Shaam Jugnu Saans",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1471,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kaal bhi jhuke Mahakal ke aage",
+      "type": "text"
+    }
+  ]
+}

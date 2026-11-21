@@ -1,0 +1,17 @@
+{
+  "id": "quote-070-shaam-film-beat",
+  "name": "Quotes 70 - Shaam Film Beat",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1489,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sapne wahi jo neend uda de",
+      "type": "text"
+    }
+  ]
+}

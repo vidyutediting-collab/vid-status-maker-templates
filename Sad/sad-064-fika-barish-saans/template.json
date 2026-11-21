@@ -1,0 +1,17 @@
+{
+  "id": "sad-064-fika-barish-saans",
+  "name": "Sad 64 - Fika Barish Saans",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1442,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aansu bhi ab thak gaye",
+      "type": "text"
+    }
+  ]
+}

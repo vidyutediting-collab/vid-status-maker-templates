@@ -1,0 +1,17 @@
+{
+  "id": "lyric-065-fika-jugnu-card",
+  "name": "Lyrical 65 - Fika Jugnu Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1451,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sargam si zindagi, tu har sur mein",
+      "type": "text"
+    }
+  ]
+}

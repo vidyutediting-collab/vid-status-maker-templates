@@ -1,0 +1,23 @@
+{
+  "id": "bday-064-lavender-banner-card",
+  "name": "Birthday 64 - Lavender Banner Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1445,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hamesha hasate raho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

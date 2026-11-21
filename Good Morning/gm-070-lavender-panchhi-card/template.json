@@ -1,0 +1,17 @@
+{
+  "id": "gm-070-lavender-panchhi-card",
+  "name": "Good Morning 70 - Lavender Panchhi Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1488,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah mubarak, mauj karo",
+      "type": "text"
+    }
+  ]
+}

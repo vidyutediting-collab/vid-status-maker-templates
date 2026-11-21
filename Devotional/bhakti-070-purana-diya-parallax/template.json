@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-070-purana-diya-parallax",
+  "name": "Devotional 70 - Purana Diya Parallax",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1485,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bhole ki baraat nirali",
+      "type": "text"
+    }
+  ]
+}

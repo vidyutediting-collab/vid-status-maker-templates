@@ -1,0 +1,17 @@
+{
+  "id": "lyric-070-jamuni-sur-rise",
+  "name": "Lyrical 70 - Jamuni Sur Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1486,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ghungroo si khanakti yaad",
+      "type": "text"
+    }
+  ]
+}

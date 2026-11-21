@@ -1,0 +1,23 @@
+{
+  "id": "gm-065-rose-pankhudi-pull",
+  "name": "Good Morning 65 - Rose Pankhudi Pull",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1453,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ki chai aur aapki yaad",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "love-061-jamuni-dil-diagonal",
+  "name": "Love 61 - Jamuni Dil Diagonal",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1420,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere liye sab kuch haar du",
+      "type": "text"
+    }
+  ]
+}

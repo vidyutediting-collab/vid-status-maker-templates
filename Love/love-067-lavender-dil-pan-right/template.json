@@ -1,0 +1,17 @@
+{
+  "id": "love-067-lavender-dil-pan-right",
+  "name": "Love 67 - Lavender Dil Pan Right",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1462,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki har baat tujhse",
+      "type": "text"
+    }
+  ]
+}

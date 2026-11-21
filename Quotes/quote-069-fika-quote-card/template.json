@@ -1,0 +1,17 @@
+{
+  "id": "quote-069-fika-quote-card",
+  "name": "Quotes 69 - Fika Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1482,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Apno ki kadar karo",
+      "type": "text"
+    }
+  ]
+}

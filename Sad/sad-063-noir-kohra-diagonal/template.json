@@ -1,0 +1,17 @@
+{
+  "id": "sad-063-noir-kohra-diagonal",
+  "name": "Sad 63 - Noir Kohra Diagonal",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1435,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tanhai ki aadat ho gayi",
+      "type": "text"
+    }
+  ]
+}

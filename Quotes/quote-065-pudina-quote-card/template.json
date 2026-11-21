@@ -1,0 +1,17 @@
+{
+  "id": "quote-065-pudina-quote-card",
+  "name": "Quotes 65 - Pudina Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1454,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum ho apni taqdeer ke malik",
+      "type": "text"
+    }
+  ]
+}

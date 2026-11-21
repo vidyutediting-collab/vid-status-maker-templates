@@ -1,0 +1,17 @@
+{
+  "id": "gm-063-savera-dhool-jhoola",
+  "name": "Good Morning 63 - Savera Dhool Jhoola",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1439,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ki pehli kiran mubarak",
+      "type": "text"
+    }
+  ]
+}

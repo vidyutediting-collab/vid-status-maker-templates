@@ -1,0 +1,17 @@
+{
+  "id": "sad-069-fika-barish-polaroid",
+  "name": "Sad 69 - Fika Barish Polaroid",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1477,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki baat dil mein reh gayi",
+      "type": "text"
+    }
+  ]
+}

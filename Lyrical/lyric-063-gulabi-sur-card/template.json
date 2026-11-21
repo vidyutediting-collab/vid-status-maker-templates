@@ -1,0 +1,17 @@
+{
+  "id": "lyric-063-gulabi-sur-card",
+  "name": "Lyrical 63 - Gulabi Sur Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1437,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina geet adhoora",
+      "type": "text"
+    }
+  ]
+}

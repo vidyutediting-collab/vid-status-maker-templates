@@ -1,0 +1,23 @@
+{
+  "id": "bday-067-rangeen-pankhudi-saans",
+  "name": "Birthday 67 - Rangeen Pankhudi Saans",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1466,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mubarak ho, aapka janamdin",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

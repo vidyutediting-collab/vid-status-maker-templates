@@ -1,0 +1,23 @@
+{
+  "id": "love-070-fika-dhadkan-fall",
+  "name": "Love 70 - Fika Dhadkan Fall",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1483,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu meri subah, tu hi meri shaam",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Sona",
+      "type": "text"
+    }
+  ]
+}

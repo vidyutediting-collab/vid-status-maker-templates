@@ -1,0 +1,17 @@
+{
+  "id": "lyric-066-jamuni-barish-diagonal",
+  "name": "Lyrical 66 - Jamuni Barish Diagonal",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1458,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Repeat pe teri yaad",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-069-sunehri-chamak-rise",
+  "name": "Lyrical 69 - Sunehri Chamak Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1479,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dhun wohi, bas tu naya",
+      "type": "text"
+    }
+  ]
+}

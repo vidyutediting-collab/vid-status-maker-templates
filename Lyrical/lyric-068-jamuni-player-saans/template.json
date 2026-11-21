@@ -1,0 +1,17 @@
+{
+  "id": "lyric-068-jamuni-player-saans",
+  "name": "Lyrical 68 - Jamuni Player Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1472,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mere geet mein tu hi tu",
+      "type": "text"
+    }
+  ]
+}

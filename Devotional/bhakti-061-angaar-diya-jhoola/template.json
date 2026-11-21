@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-061-angaar-diya-jhoola",
+  "name": "Devotional 61 - Angaar Diya Jhoola",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1422,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "राधे राधे",
+      "type": "text"
+    }
+  ]
+}

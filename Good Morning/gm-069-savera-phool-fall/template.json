@@ -1,0 +1,17 @@
+{
+  "id": "gm-069-savera-phool-fall",
+  "name": "Good Morning 69 - Savera Phool Fall",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1481,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Panchhi chahke, subah mehke",
+      "type": "text"
+    }
+  ]
+}

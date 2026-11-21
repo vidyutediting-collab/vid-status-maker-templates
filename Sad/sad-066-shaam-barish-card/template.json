@@ -1,0 +1,17 @@
+{
+  "id": "sad-066-shaam-barish-card",
+  "name": "Sad 66 - Shaam Barish Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1456,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khushiyan mujhse rooth gayi",
+      "type": "text"
+    }
+  ]
+}

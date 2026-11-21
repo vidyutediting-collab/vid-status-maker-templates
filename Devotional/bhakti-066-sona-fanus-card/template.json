@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-066-sona-fanus-card",
+  "name": "Devotional 66 - Sona Fanus Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1457,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय माता दी",
+      "type": "text"
+    }
+  ]
+}

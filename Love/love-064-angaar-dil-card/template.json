@@ -1,0 +1,17 @@
+{
+  "id": "love-064-angaar-dil-card",
+  "name": "Love 64 - Angaar Dil Card",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1441,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har dhadkan mein tera naam",
+      "type": "text"
+    }
+  ]
+}

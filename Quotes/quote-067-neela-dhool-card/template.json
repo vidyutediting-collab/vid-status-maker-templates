@@ -1,0 +1,17 @@
+{
+  "id": "quote-067-neela-dhool-card",
+  "name": "Quotes 67 - Neela Dhool Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1468,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chhoti si zindagi, bade sapne",
+      "type": "text"
+    }
+  ]
+}

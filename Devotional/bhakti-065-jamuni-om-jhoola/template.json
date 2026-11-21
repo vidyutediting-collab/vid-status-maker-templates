@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-065-jamuni-om-jhoola",
+  "name": "Devotional 65 - Jamuni Om Jhoola",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1450,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय बजरंगबली",
+      "type": "text"
+    }
+  ]
+}

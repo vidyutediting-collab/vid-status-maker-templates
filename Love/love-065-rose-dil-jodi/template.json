@@ -1,0 +1,17 @@
+{
+  "id": "love-065-rose-dil-jodi",
+  "name": "Love 65 - Rose Dil Jodi",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1448,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina saans bhi adhoori",
+      "type": "text"
+    }
+  ]
+}

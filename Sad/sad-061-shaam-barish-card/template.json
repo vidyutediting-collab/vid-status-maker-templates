@@ -1,0 +1,23 @@
+{
+  "id": "sad-061-shaam-barish-card",
+  "name": "Sad 61 - Shaam Barish Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1421,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina sab sunsaan hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Kisi Ke Liye",
+      "type": "text"
+    }
+  ]
+}
