@@ -1,0 +1,17 @@
+{
+  "id": "lyric-074-rangeen-barish-saans",
+  "name": "Lyrical 74 - Rangeen Barish Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1514,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gaata hu sirf tere liye",
+      "type": "text"
+    }
+  ]
+}

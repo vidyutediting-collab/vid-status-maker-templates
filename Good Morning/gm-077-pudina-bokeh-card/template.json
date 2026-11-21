@@ -1,0 +1,23 @@
+{
+  "id": "gm-077-pudina-bokeh-card",
+  "name": "Good Morning 77 - Pudina Bokeh Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1537,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sabere ki dhoop, sukoon bhari",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aap",
+      "type": "text"
+    }
+  ]
+}

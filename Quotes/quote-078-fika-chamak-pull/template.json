@@ -1,0 +1,17 @@
+{
+  "id": "quote-078-fika-chamak-pull",
+  "name": "Quotes 78 - Fika Chamak Pull",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1545,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Seekhna kabhi band mat karo",
+      "type": "text"
+    }
+  ]
+}

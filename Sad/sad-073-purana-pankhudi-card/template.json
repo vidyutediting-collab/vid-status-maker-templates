@@ -1,0 +1,23 @@
+{
+  "id": "sad-073-purana-pankhudi-card",
+  "name": "Sad 73 - Purana Pankhudi Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1505,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ko samjhaya, par mana nahi",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Kisi Ke Liye",
+      "type": "text"
+    }
+  ]
+}

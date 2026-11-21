@@ -1,0 +1,17 @@
+{
+  "id": "gm-076-gulabi-bokeh-rise",
+  "name": "Good Morning 76 - Gulabi Bokeh Rise",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1530,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naya din, nayi umeed",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-078-shaam-jugnu-polaroid",
+  "name": "Devotional 78 - Shaam Jugnu Polaroid",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1541,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tera naam hi mera sahara",
+      "type": "text"
+    }
+  ]
+}

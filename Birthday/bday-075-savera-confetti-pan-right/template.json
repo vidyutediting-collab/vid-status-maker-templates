@@ -1,0 +1,23 @@
+{
+  "id": "bday-075-savera-confetti-pan-right",
+  "name": "Birthday 75 - Savera Confetti Pan Right",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1522,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri khushiyan meri khushiyan",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

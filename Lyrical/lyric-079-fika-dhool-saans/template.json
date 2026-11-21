@@ -1,0 +1,17 @@
+{
+  "id": "lyric-079-fika-dhool-saans",
+  "name": "Lyrical 79 - Fika Dhool Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1549,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere naam ki taan",
+      "type": "text"
+    }
+  ]
+}

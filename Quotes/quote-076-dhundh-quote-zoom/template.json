@@ -1,0 +1,17 @@
+{
+  "id": "quote-076-dhundh-quote-zoom",
+  "name": "Quotes 76 - Dhundh Quote Zoom",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1531,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Himmat hai to raasta hai",
+      "type": "text"
+    }
+  ]
+}

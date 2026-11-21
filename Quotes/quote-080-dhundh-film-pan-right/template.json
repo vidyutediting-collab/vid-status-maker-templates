@@ -1,0 +1,17 @@
+{
+  "id": "quote-080-dhundh-film-pan-right",
+  "name": "Quotes 80 - Dhundh Film Pan Right",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1559,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Achhe log kam, par sachche hote hain",
+      "type": "text"
+    }
+  ]
+}

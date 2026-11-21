@@ -1,0 +1,17 @@
+{
+  "id": "quote-075-purana-chamak-polaroid",
+  "name": "Quotes 75 - Purana Chamak Polaroid",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1524,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Insaan ki soch hi uski taakat",
+      "type": "text"
+    }
+  ]
+}

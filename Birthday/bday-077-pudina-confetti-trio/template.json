@@ -1,0 +1,23 @@
+{
+  "id": "bday-077-pudina-confetti-trio",
+  "name": "Birthday 77 - Pudina Confetti Trio",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1536,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj tumhara din, tumhari shaan",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

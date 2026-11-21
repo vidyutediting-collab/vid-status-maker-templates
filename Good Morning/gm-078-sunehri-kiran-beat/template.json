@@ -1,0 +1,17 @@
+{
+  "id": "gm-078-sunehri-kiran-beat",
+  "name": "Good Morning 78 - Sunehri Kiran Beat",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1544,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mehnat karo, din ko jeet lo",
+      "type": "text"
+    }
+  ]
+}

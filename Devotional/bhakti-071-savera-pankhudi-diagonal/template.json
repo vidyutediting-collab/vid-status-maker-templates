@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-071-savera-pankhudi-diagonal",
+  "name": "Devotional 71 - Savera Pankhudi Diagonal",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1492,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hare Krishna Hare Ram",
+      "type": "text"
+    }
+  ]
+}

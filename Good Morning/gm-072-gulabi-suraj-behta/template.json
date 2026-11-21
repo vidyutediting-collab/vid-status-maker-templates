@@ -1,0 +1,17 @@
+{
+  "id": "gm-072-gulabi-suraj-behta",
+  "name": "Good Morning 72 - Gulabi Suraj Behta",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1502,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mausam sundar, subah sundar",
+      "type": "text"
+    }
+  ]
+}

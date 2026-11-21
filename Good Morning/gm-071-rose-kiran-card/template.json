@@ -1,0 +1,23 @@
+{
+  "id": "gm-071-rose-kiran-card",
+  "name": "Good Morning 71 - Rose Kiran Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1495,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khushiyon wali subah ho aapki",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

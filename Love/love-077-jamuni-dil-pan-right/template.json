@@ -1,0 +1,17 @@
+{
+  "id": "love-077-jamuni-dil-pan-right",
+  "name": "Love 77 - Jamuni Dil Pan Right",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1532,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu mile to saari duniya mili",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-073-mono-chamak-card",
+  "name": "Quotes 73 - Mono Chamak Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1510,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sach kadwa hota hai par saaf",
+      "type": "text"
+    }
+  ]
+}

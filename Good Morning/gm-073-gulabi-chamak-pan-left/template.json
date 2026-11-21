@@ -1,0 +1,17 @@
+{
+  "id": "gm-073-gulabi-chamak-pan-left",
+  "name": "Good Morning 73 - Gulabi Chamak Pan Left",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1509,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Din ki pehli muskaan tumhare naam",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bday-073-savera-bokeh-rise",
+  "name": "Birthday 73 - Savera Bokeh Rise",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1508,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Happy Birthday, mere yaar",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

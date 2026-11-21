@@ -1,0 +1,17 @@
+{
+  "id": "sad-075-shaam-barish-card",
+  "name": "Sad 75 - Shaam Barish Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1519,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kuch rishte adhoore hi achhe",
+      "type": "text"
+    }
+  ]
+}

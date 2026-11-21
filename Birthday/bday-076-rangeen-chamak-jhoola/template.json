@@ -1,0 +1,23 @@
+{
+  "id": "bday-076-rangeen-chamak-jhoola",
+  "name": "Birthday 76 - Rangeen Chamak Jhoola",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1529,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sab khushiyan tumhare naam",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-080-gulabi-bokeh-behta",
+  "name": "Good Morning 80 - Gulabi Bokeh Behta",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1558,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chai ki chuski, din ki shuruaat",
+      "type": "text"
+    }
+  ]
+}

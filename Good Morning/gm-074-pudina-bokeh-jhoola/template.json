@@ -1,0 +1,17 @@
+{
+  "id": "gm-074-pudina-bokeh-jhoola",
+  "name": "Good Morning 74 - Pudina Bokeh Jhoola",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1516,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning, aapka din shubh ho",
+      "type": "text"
+    }
+  ]
+}

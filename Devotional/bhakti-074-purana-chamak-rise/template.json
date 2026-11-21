@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-074-purana-chamak-rise",
+  "name": "Devotional 74 - Purana Chamak Rise",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1513,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Mahakal",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-073-purana-jugnu-zoom",
+  "name": "Devotional 73 - Purana Jugnu Zoom",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1506,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Shri Ganesh, vighnaharta",
+      "type": "text"
+    }
+  ]
+}

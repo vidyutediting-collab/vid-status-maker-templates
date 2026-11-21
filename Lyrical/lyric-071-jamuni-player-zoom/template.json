@@ -1,0 +1,17 @@
+{
+  "id": "lyric-071-jamuni-player-zoom",
+  "name": "Lyrical 71 - Jamuni Player Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1493,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gaane ki tarah yaad aati ho",
+      "type": "text"
+    }
+  ]
+}

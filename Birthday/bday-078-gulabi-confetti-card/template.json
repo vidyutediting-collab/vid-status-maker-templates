@@ -1,0 +1,23 @@
+{
+  "id": "bday-078-gulabi-confetti-card",
+  "name": "Birthday 78 - Gulabi Confetti Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1543,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mubarak ho ye khaas din",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

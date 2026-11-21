@@ -1,0 +1,17 @@
+{
+  "id": "quote-072-dhundh-quote-parallax",
+  "name": "Quotes 72 - Dhundh Quote Parallax",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1503,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khamoshi bhi ek taakat hai",
+      "type": "text"
+    }
+  ]
+}

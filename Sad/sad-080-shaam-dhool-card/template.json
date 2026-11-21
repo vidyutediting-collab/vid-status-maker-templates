@@ -1,0 +1,17 @@
+{
+  "id": "sad-080-shaam-dhool-card",
+  "name": "Sad 80 - Shaam Dhool Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1554,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chup hu, par khush nahi",
+      "type": "text"
+    }
+  ]
+}

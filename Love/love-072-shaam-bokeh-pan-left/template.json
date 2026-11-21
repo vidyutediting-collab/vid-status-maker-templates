@@ -1,0 +1,17 @@
+{
+  "id": "love-072-shaam-bokeh-pan-left",
+  "name": "Love 72 - Shaam Bokeh Pan Left",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1497,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri baahon mein sukoon",
+      "type": "text"
+    }
+  ]
+}

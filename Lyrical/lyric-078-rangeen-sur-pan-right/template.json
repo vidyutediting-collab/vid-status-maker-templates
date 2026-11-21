@@ -1,0 +1,17 @@
+{
+  "id": "lyric-078-rangeen-sur-pan-right",
+  "name": "Lyrical 78 - Rangeen Sur Pan Right",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1542,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aa baith, ek gaana sunaun",
+      "type": "text"
+    }
+  ]
+}

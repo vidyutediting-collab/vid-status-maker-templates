@@ -1,0 +1,23 @@
+{
+  "id": "bday-072-cine-confetti-behta",
+  "name": "Birthday 72 - Cine Confetti Behta",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1501,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri umar meri dua",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

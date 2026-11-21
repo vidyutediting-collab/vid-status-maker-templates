@@ -1,0 +1,17 @@
+{
+  "id": "gm-075-sunehri-phool-jhoola",
+  "name": "Good Morning 75 - Sunehri Phool Jhoola",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1523,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj kuch accha hone wala hai",
+      "type": "text"
+    }
+  ]
+}

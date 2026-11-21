@@ -1,0 +1,23 @@
+{
+  "id": "quote-077-purana-bokeh-rise",
+  "name": "Quotes 77 - Purana Bokeh Rise",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1538,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka kaam kal par mat chhodo",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

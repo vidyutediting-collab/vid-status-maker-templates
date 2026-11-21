@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-076-sona-diya-card",
+  "name": "Devotional 76 - Sona Diya Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1527,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil mein Ram, haath mein kaam",
+      "type": "text"
+    }
+  ]
+}

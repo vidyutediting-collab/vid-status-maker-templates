@@ -1,0 +1,17 @@
+{
+  "id": "sad-077-purana-pankhudi-pan-right",
+  "name": "Sad 77 - Purana Pankhudi Pan Right",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1533,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dard ko lafzon mein dhaal diya",
+      "type": "text"
+    }
+  ]
+}

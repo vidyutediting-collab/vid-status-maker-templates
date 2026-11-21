@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-077-jamuni-mandala-card",
+  "name": "Devotional 77 - Jamuni Mandala Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1534,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय श्री कृष्ण",
+      "type": "text"
+    }
+  ]
+}

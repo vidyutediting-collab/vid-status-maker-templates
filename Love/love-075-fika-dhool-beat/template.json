@@ -1,0 +1,17 @@
+{
+  "id": "love-075-fika-dhool-beat",
+  "name": "Love 75 - Fika Dhool Beat",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1518,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Humesha tera, sirf tera",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-079-rose-bokeh-stack",
+  "name": "Good Morning 79 - Rose Bokeh Stack",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1551,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Utho aur chamko",
+      "type": "text"
+    }
+  ]
+}

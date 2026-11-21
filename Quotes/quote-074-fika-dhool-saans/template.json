@@ -1,0 +1,17 @@
+{
+  "id": "quote-074-fika-dhool-saans",
+  "name": "Quotes 74 - Fika Dhool Saans",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1517,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kal ki chinta aaj ka sukoon cheen leti hai",
+      "type": "text"
+    }
+  ]
+}

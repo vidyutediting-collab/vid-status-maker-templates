@@ -1,0 +1,17 @@
+{
+  "id": "lyric-080-raat-dil-saans",
+  "name": "Lyrical 80 - Raat Dil Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1556,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mohabbat ka sargam",
+      "type": "text"
+    }
+  ]
+}

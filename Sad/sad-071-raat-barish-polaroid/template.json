@@ -1,0 +1,17 @@
+{
+  "id": "sad-071-raat-barish-polaroid",
+  "name": "Sad 71 - Raat Barish Polaroid",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1491,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jisne dil toda, wahi yaad aata hai",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "love-080-jamuni-pankhudi-zoom",
+  "name": "Love 80 - Jamuni Pankhudi Zoom",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1553,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jahan tu wahan meri duniya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "love-073-fika-taare-pan-right",
+  "name": "Love 73 - Fika Taare Pan Right",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1504,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Meri duniya tere naam",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Sona",
+      "type": "text"
+    }
+  ]
+}

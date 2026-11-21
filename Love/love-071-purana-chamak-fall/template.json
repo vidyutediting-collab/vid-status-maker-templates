@@ -1,0 +1,17 @@
+{
+  "id": "love-071-purana-chamak-fall",
+  "name": "Love 71 - Purana Chamak Fall",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1490,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu hai to sab hai",
+      "type": "text"
+    }
+  ]
+}

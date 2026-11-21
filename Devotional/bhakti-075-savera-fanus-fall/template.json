@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-075-savera-fanus-fall",
+  "name": "Devotional 75 - Savera Fanus Fall",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1520,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sankat mochan naam tumhara",
+      "type": "text"
+    }
+  ]
+}

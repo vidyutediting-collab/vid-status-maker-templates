@@ -1,0 +1,17 @@
+{
+  "id": "lyric-077-cine-sur-rise",
+  "name": "Lyrical 77 - Cine Sur Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1535,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek dhun teri, ek dhun meri",
+      "type": "text"
+    }
+  ]
+}

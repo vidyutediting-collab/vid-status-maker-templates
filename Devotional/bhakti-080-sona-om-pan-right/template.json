@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-080-sona-om-pan-right",
+  "name": "Devotional 80 - Sona Om Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1555,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Krishna ki murli ka jaadu",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-075-cine-sur-saans",
+  "name": "Lyrical 75 - Cine Sur Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1521,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raat bhar baje teri yaad ki dhun",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-073-jamuni-chamak-split",
+  "name": "Lyrical 73 - Jamuni Chamak Split",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1507,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri muskaan ki melody",
+      "type": "text"
+    }
+  ]
+}

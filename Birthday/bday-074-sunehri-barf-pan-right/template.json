@@ -1,0 +1,23 @@
+{
+  "id": "bday-074-sunehri-barf-pan-right",
+  "name": "Birthday 74 - Sunehri Barf Pan Right",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1515,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Birthday vibes on!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

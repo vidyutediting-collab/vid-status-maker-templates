@@ -1,0 +1,17 @@
+{
+  "id": "sad-074-pudina-barish-fall",
+  "name": "Sad 74 - Pudina Barish Fall",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1512,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo gaya woh wapas nahi aata",
+      "type": "text"
+    }
+  ]
+}

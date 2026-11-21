@@ -1,0 +1,17 @@
+{
+  "id": "love-079-gulabi-bokeh-parallax",
+  "name": "Love 79 - Gulabi Bokeh Parallax",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1546,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mohabbat hai tujhse behisaab",
+      "type": "text"
+    }
+  ]
+}

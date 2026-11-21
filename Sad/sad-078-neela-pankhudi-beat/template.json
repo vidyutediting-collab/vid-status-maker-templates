@@ -1,0 +1,17 @@
+{
+  "id": "sad-078-neela-pankhudi-beat",
+  "name": "Sad 78 - Neela Pankhudi Beat",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1540,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dard ka koi rang nahi hota",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-079-purana-barish-pan-left",
+  "name": "Sad 79 - Purana Barish Pan Left",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1547,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khamoshi sab keh deti hai",
+      "type": "text"
+    }
+  ]
+}

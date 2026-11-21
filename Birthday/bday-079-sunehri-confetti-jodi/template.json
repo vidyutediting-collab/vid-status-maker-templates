@@ -1,0 +1,23 @@
+{
+  "id": "bday-079-sunehri-confetti-jodi",
+  "name": "Birthday 79 - Sunehri Confetti Jodi",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1550,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum jiyo hazaaron saal",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

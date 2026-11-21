@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-079-sona-om-card",
+  "name": "Devotional 79 - Sona Om Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1548,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Ambe Gauri",
+      "type": "text"
+    }
+  ]
+}

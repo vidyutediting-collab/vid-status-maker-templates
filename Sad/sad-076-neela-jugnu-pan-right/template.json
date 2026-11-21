@@ -1,0 +1,17 @@
+{
+  "id": "sad-076-neela-jugnu-pan-right",
+  "name": "Sad 76 - Neela Jugnu Pan Right",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1526,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil toota, par shikayat nahi",
+      "type": "text"
+    }
+  ]
+}

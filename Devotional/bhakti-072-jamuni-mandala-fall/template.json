@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-072-jamuni-mandala-fall",
+  "name": "Devotional 72 - Jamuni Mandala Fall",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1499,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shri Ganeshaya Namah",
+      "type": "text"
+    }
+  ]
+}

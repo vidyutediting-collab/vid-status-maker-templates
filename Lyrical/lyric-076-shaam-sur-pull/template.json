@@ -1,0 +1,17 @@
+{
+  "id": "lyric-076-shaam-sur-pull",
+  "name": "Lyrical 76 - Shaam Sur Pull",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1528,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sapno ka sangeet",
+      "type": "text"
+    }
+  ]
+}

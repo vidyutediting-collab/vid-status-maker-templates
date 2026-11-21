@@ -1,0 +1,17 @@
+{
+  "id": "quote-071-pudina-dhool-pull",
+  "name": "Quotes 71 - Pudina Dhool Pull",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1496,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dheere chalo par ruko mat",
+      "type": "text"
+    }
+  ]
+}

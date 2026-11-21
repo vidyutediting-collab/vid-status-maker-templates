@@ -1,0 +1,17 @@
+{
+  "id": "lyric-072-dhundh-barish-saans",
+  "name": "Lyrical 72 - Dhundh Barish Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1500,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere sang sur mile mere",
+      "type": "text"
+    }
+  ]
+}

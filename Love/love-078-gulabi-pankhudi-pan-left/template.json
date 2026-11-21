@@ -1,0 +1,17 @@
+{
+  "id": "love-078-gulabi-pankhudi-pan-left",
+  "name": "Love 78 - Gulabi Pankhudi Pan Left",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1539,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ishq ki raah mein tu humsafar",
+      "type": "text"
+    }
+  ]
+}
