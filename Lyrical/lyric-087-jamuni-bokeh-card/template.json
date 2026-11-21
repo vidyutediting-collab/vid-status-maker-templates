@@ -1,0 +1,17 @@
+{
+  "id": "lyric-087-jamuni-bokeh-card",
+  "name": "Lyrical 87 - Jamuni Bokeh Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1605,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dhadkanon ka sangeet suno",
+      "type": "text"
+    }
+  ]
+}

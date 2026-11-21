@@ -1,0 +1,17 @@
+{
+  "id": "love-087-shaam-dhadkan-rise",
+  "name": "Love 87 - Shaam Dhadkan Rise",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1602,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu meri dua ka jawab hai",
+      "type": "text"
+    }
+  ]
+}

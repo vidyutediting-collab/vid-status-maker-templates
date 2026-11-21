@@ -1,0 +1,23 @@
+{
+  "id": "bday-086-sona-taare-pan-left",
+  "name": "Birthday 86 - Sona Taare Pan Left",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1599,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gift se zyada tumhara saath",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

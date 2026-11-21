@@ -1,0 +1,17 @@
+{
+  "id": "quote-086-mono-taare-polaroid",
+  "name": "Quotes 86 - Mono Taare Polaroid",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1601,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Wahi jeetta hai jo chalta hai",
+      "type": "text"
+    }
+  ]
+}

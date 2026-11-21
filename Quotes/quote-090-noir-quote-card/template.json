@@ -1,0 +1,17 @@
+{
+  "id": "quote-090-noir-quote-card",
+  "name": "Quotes 90 - Noir Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1627,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil saaf, to sab saaf",
+      "type": "text"
+    }
+  ]
+}

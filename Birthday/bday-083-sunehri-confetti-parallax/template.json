@@ -1,0 +1,23 @@
+{
+  "id": "bday-083-sunehri-confetti-parallax",
+  "name": "Birthday 83 - Sunehri Confetti Parallax",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1578,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tumhari hasi sab se pyaari",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

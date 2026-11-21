@@ -1,0 +1,17 @@
+{
+  "id": "love-082-shaam-dil-pan-left",
+  "name": "Love 82 - Shaam Dil Pan Left",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1567,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jab tu hasti hai, dil khil jata hai",
+      "type": "text"
+    }
+  ]
+}

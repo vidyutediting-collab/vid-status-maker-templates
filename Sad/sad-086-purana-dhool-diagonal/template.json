@@ -1,0 +1,17 @@
+{
+  "id": "sad-086-purana-dhool-diagonal",
+  "name": "Sad 86 - Purana Dhool Diagonal",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1596,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Zindagi ne bahut kuch sikhaya",
+      "type": "text"
+    }
+  ]
+}

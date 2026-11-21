@@ -1,0 +1,17 @@
+{
+  "id": "lyric-089-jamuni-chamak-parallax",
+  "name": "Lyrical 89 - Jamuni Chamak Parallax",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1619,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki dhun pe naachti hai raat",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-081-cine-dil-card",
+  "name": "Lyrical 81 - Cine Dil Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1563,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki playlist mein tu",
+      "type": "text"
+    }
+  ]
+}

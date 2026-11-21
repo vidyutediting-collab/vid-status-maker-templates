@@ -1,0 +1,17 @@
+{
+  "id": "gm-086-lavender-phool-saans",
+  "name": "Good Morning 86 - Lavender Phool Saans",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1600,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Taazgi bhari subah mubarak",
+      "type": "text"
+    }
+  ]
+}

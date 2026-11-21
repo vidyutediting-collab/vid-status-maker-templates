@@ -1,0 +1,23 @@
+{
+  "id": "love-083-purana-jugnu-card",
+  "name": "Love 83 - Purana Jugnu Card",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1574,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chand bhi tujhse jalta hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-087-jamuni-fanus-card",
+  "name": "Devotional 87 - Jamuni Fanus Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1604,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय श्री राम",
+      "type": "text"
+    }
+  ]
+}

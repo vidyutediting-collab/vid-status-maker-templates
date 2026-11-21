@@ -1,0 +1,17 @@
+{
+  "id": "lyric-086-fika-player-rise",
+  "name": "Lyrical 86 - Fika Player Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1598,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tune chheda jo saaz dil ka",
+      "type": "text"
+    }
+  ]
+}

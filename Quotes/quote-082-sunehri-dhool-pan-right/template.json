@@ -1,0 +1,17 @@
+{
+  "id": "quote-082-sunehri-dhool-pan-right",
+  "name": "Quotes 82 - Sunehri Dhool Pan Right",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1573,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Muskurana sabse sasta ilaaj hai",
+      "type": "text"
+    }
+  ]
+}

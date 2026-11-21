@@ -1,0 +1,17 @@
+{
+  "id": "gm-085-sona-phool-polaroid",
+  "name": "Good Morning 85 - Sona Phool Polaroid",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1593,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Suraj nikla, gham bhaga",
+      "type": "text"
+    }
+  ]
+}

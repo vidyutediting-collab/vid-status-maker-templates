@@ -1,0 +1,17 @@
+{
+  "id": "gm-088-fika-pankhudi-rise",
+  "name": "Good Morning 88 - Fika Pankhudi Rise",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1614,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning dost",
+      "type": "text"
+    }
+  ]
+}

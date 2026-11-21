@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-090-savera-dhool-fall",
+  "name": "Devotional 90 - Savera Dhool Fall",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1624,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har din shubh ho Ram ji ke naam se",
+      "type": "text"
+    }
+  ]
+}

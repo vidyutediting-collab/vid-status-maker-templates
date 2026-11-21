@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-088-sona-diya-polaroid",
+  "name": "Devotional 88 - Sona Diya Polaroid",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1611,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Shri Radhe",
+      "type": "text"
+    }
+  ]
+}

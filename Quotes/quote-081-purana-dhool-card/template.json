@@ -1,0 +1,17 @@
+{
+  "id": "quote-081-purana-dhool-card",
+  "name": "Quotes 81 - Purana Dhool Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1566,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt sab sikha deta hai",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "love-084-gulabi-dil-beat",
+  "name": "Love 84 - Gulabi Dil Beat",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1581,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Pehli nazar ka pyar hai tu",
+      "type": "text"
+    }
+  ]
+}

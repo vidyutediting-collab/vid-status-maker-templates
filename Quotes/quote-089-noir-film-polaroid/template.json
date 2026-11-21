@@ -1,0 +1,17 @@
+{
+  "id": "quote-089-noir-film-polaroid",
+  "name": "Quotes 89 - Noir Film Polaroid",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1622,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Koshish karne walon ki kabhi haar nahi",
+      "type": "text"
+    }
+  ]
+}

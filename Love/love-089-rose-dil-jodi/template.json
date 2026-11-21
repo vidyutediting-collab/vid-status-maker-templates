@@ -1,0 +1,17 @@
+{
+  "id": "love-089-rose-dil-jodi",
+  "name": "Love 89 - Rose Dil Jodi",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1616,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tera naam likha hai dil par",
+      "type": "text"
+    }
+  ]
+}

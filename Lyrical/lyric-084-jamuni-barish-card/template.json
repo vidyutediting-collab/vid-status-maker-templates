@@ -1,0 +1,17 @@
+{
+  "id": "lyric-084-jamuni-barish-card",
+  "name": "Lyrical 84 - Jamuni Barish Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1584,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Taaron ke saath gaata hu",
+      "type": "text"
+    }
+  ]
+}

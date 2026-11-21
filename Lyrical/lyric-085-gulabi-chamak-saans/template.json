@@ -1,0 +1,17 @@
+{
+  "id": "lyric-085-gulabi-chamak-saans",
+  "name": "Lyrical 85 - Gulabi Chamak Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1591,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sanson mein teri raagini",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-090-rose-kiran-polaroid",
+  "name": "Good Morning 90 - Rose Kiran Polaroid",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1626,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Phoolon jaisi mehke aapki subah",
+      "type": "text"
+    }
+  ]
+}

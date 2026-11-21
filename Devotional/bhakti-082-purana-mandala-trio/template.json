@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-082-purana-mandala-trio",
+  "name": "Devotional 82 - Purana Mandala Trio",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1569,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mahadev ki sharan mein sukoon",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-084-noir-pankhudi-split",
+  "name": "Sad 84 - Noir Pankhudi Split",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1582,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt hi sab ka haal batata hai",
+      "type": "text"
+    }
+  ]
+}

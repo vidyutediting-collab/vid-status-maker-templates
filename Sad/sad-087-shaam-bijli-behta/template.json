@@ -1,0 +1,17 @@
+{
+  "id": "sad-087-shaam-bijli-behta",
+  "name": "Sad 87 - Shaam Bijli Behta",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1603,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Barish mein bhi aansu chhup jaate hain",
+      "type": "text"
+    }
+  ]
+}

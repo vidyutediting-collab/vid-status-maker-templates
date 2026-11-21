@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-081-angaar-diya-pan-right",
+  "name": "Devotional 81 - Angaar Diya Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1562,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har Har Mahadev",
+      "type": "text"
+    }
+  ]
+}

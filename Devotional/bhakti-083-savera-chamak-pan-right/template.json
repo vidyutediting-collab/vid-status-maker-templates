@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-083-savera-chamak-pan-right",
+  "name": "Devotional 83 - Savera Chamak Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1576,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Maa Vaishno",
+      "type": "text"
+    }
+  ]
+}

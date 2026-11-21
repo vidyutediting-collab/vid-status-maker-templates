@@ -1,0 +1,23 @@
+{
+  "id": "bday-082-rangeen-bokeh-card",
+  "name": "Birthday 82 - Rangeen Bokeh Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1571,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum ho to har din khaas",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-083-noir-quote-rise",
+  "name": "Quotes 83 - Noir Quote Rise",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1580,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jaisa soche, waisa bano",
+      "type": "text"
+    }
+  ]
+}

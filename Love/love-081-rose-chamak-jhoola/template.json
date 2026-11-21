@@ -1,0 +1,17 @@
+{
+  "id": "love-081-rose-chamak-jhoola",
+  "name": "Love 81 - Rose Chamak Jhoola",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1560,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raat ka chand, tu mera",
+      "type": "text"
+    }
+  ]
+}

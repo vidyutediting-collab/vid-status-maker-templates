@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-084-sunehri-phool-fall",
+  "name": "Devotional 84 - Sunehri Phool Fall",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1583,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Jai Shiv Shankar",
+      "type": "text"
+    }
+  ]
+}

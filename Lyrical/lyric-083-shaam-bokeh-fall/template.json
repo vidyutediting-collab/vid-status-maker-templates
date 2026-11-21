@@ -1,0 +1,17 @@
+{
+  "id": "lyric-083-shaam-bokeh-fall",
+  "name": "Lyrical 83 - Shaam Bokeh Fall",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1577,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dheemi si dhun, dheemi si baat",
+      "type": "text"
+    }
+  ]
+}

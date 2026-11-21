@@ -1,0 +1,17 @@
+{
+  "id": "gm-081-fika-pankhudi-beat",
+  "name": "Good Morning 81 - Fika Pankhudi Beat",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1565,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Fresh subah, fresh vichaar",
+      "type": "text"
+    }
+  ]
+}

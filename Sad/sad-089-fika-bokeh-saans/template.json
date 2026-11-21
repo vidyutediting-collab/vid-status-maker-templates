@@ -1,0 +1,17 @@
+{
+  "id": "sad-089-fika-bokeh-saans",
+  "name": "Sad 89 - Fika Bokeh Saans",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1617,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ab to ye dard hi saathi hai",
+      "type": "text"
+    }
+  ]
+}

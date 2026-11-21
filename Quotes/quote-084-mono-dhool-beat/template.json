@@ -1,0 +1,17 @@
+{
+  "id": "quote-084-mono-dhool-beat",
+  "name": "Quotes 84 - Mono Dhool Beat",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1587,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Apni kahani khud likho",
+      "type": "text"
+    }
+  ]
+}

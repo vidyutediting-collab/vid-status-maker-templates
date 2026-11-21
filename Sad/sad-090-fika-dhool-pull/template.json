@@ -1,0 +1,17 @@
+{
+  "id": "sad-090-fika-dhool-pull",
+  "name": "Sad 90 - Fika Dhool Pull",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1623,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ab kisi se kuch nahi kehna",
+      "type": "text"
+    }
+  ]
+}

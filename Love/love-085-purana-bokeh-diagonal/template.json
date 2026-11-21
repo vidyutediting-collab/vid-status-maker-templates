@@ -1,0 +1,17 @@
+{
+  "id": "love-085-purana-bokeh-diagonal",
+  "name": "Love 85 - Purana Bokeh Diagonal",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1588,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Meri har dua mein tu",
+      "type": "text"
+    }
+  ]
+}

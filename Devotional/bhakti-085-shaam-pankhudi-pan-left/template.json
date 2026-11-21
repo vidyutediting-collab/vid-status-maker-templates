@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-085-shaam-pankhudi-pan-left",
+  "name": "Devotional 85 - Shaam Pankhudi Pan Left",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1590,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Om Shanti Shanti Shanti",
+      "type": "text"
+    }
+  ]
+}

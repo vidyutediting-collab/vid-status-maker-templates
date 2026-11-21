@@ -1,0 +1,17 @@
+{
+  "id": "quote-085-fika-quote-diagonal",
+  "name": "Quotes 85 - Fika Quote Diagonal",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1594,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Seedhi baat, saaf dil",
+      "type": "text"
+    }
+  ]
+}

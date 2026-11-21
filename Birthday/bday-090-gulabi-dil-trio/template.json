@@ -1,0 +1,23 @@
+{
+  "id": "bday-090-gulabi-dil-trio",
+  "name": "Birthday 90 - Gulabi Dil Trio",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1625,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum meri zindagi ka tohfa ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

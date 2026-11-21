@@ -1,0 +1,17 @@
+{
+  "id": "gm-087-pudina-suraj-pull",
+  "name": "Good Morning 87 - Pudina Suraj Pull",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1607,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har din ek tohfa hai",
+      "type": "text"
+    }
+  ]
+}

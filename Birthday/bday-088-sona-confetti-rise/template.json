@@ -1,0 +1,23 @@
+{
+  "id": "bday-088-sona-confetti-rise",
+  "name": "Birthday 88 - Sona Confetti Rise",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1613,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bhagwan aapko lambi umar de",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

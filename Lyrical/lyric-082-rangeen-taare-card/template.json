@@ -1,0 +1,17 @@
+{
+  "id": "lyric-082-rangeen-taare-card",
+  "name": "Lyrical 82 - Rangeen Taare Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1570,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Piya ki dhun mein",
+      "type": "text"
+    }
+  ]
+}

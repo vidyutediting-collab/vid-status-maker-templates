@@ -1,0 +1,17 @@
+{
+  "id": "lyric-088-dhundh-player-pan-left",
+  "name": "Lyrical 88 - Dhundh Player Pan Left",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1612,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dard bhi ek geet hai",
+      "type": "text"
+    }
+  ]
+}

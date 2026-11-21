@@ -1,0 +1,17 @@
+{
+  "id": "love-086-gulabi-jugnu-diagonal",
+  "name": "Love 86 - Gulabi Jugnu Diagonal",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1595,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ne tujhe chuna hai",
+      "type": "text"
+    }
+  ]
+}

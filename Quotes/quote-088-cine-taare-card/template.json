@@ -1,0 +1,17 @@
+{
+  "id": "quote-088-cine-taare-card",
+  "name": "Quotes 88 - Cine Taare Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1615,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo bhi karo, dil se karo",
+      "type": "text"
+    }
+  ]
+}

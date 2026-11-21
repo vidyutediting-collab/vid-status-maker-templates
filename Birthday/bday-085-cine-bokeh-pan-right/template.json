@@ -1,0 +1,23 @@
+{
+  "id": "bday-085-cine-bokeh-pan-right",
+  "name": "Birthday 85 - Cine Bokeh Pan Right",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1592,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tumhare bina party adhoori",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

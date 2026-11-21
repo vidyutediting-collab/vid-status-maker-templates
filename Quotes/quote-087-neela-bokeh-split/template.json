@@ -1,0 +1,17 @@
+{
+  "id": "quote-087-neela-bokeh-split",
+  "name": "Quotes 87 - Neela Bokeh Split",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1608,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hasi sabse sundar gehna",
+      "type": "text"
+    }
+  ]
+}

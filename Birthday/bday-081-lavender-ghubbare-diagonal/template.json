@@ -1,0 +1,23 @@
+{
+  "id": "bday-081-lavender-ghubbare-diagonal",
+  "name": "Birthday 81 - Lavender Ghubbare Diagonal",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1564,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aapka din khushiyon se bhara ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

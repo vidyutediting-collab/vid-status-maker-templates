@@ -1,0 +1,17 @@
+{
+  "id": "sad-085-purana-dhool-pan-right",
+  "name": "Sad 85 - Purana Dhool Pan Right",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1589,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bichhad ke bhi tera hi naam",
+      "type": "text"
+    }
+  ]
+}

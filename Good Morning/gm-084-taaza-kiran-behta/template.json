@@ -1,0 +1,17 @@
+{
+  "id": "gm-084-taaza-kiran-behta",
+  "name": "Good Morning 84 - Taaza Kiran Behta",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1586,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah subah bas khush raho",
+      "type": "text"
+    }
+  ]
+}

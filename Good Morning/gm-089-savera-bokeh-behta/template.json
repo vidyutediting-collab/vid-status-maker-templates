@@ -1,0 +1,17 @@
+{
+  "id": "gm-089-savera-bokeh-behta",
+  "name": "Good Morning 89 - Savera Bokeh Behta",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1621,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka din khushiyon wala ho",
+      "type": "text"
+    }
+  ]
+}

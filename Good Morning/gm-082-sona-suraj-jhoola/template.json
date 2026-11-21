@@ -1,0 +1,17 @@
+{
+  "id": "gm-082-sona-suraj-jhoola",
+  "name": "Good Morning 82 - Sona Suraj Jhoola",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1572,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Uth jao, din bula raha hai",
+      "type": "text"
+    }
+  ]
+}

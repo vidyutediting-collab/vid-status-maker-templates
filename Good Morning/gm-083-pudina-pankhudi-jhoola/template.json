@@ -1,0 +1,23 @@
+{
+  "id": "gm-083-pudina-pankhudi-jhoola",
+  "name": "Good Morning 83 - Pudina Pankhudi Jhoola",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1579,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek pyaali chai, ek pyaari subah",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

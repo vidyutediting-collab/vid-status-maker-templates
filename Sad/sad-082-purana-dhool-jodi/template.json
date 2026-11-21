@@ -1,0 +1,17 @@
+{
+  "id": "sad-082-purana-dhool-jodi",
+  "name": "Sad 82 - Purana Dhool Jodi",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1568,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Wo mod jahan hum bichhde",
+      "type": "text"
+    }
+  ]
+}

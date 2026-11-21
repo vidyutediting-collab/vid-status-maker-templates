@@ -1,0 +1,17 @@
+{
+  "id": "bday-084-cine-confetti-beat",
+  "name": "Birthday 84 - Cine Confetti Beat",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1585,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khushiyon ki barsaat ho aaj",
+      "type": "text"
+    }
+  ]
+}

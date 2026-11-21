@@ -1,0 +1,17 @@
+{
+  "id": "love-088-lavender-bokeh-polaroid",
+  "name": "Love 88 - Lavender Bokeh Polaroid",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1609,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ishq tera, sukoon mera",
+      "type": "text"
+    }
+  ]
+}
