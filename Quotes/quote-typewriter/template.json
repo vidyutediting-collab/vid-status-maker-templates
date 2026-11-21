@@ -1,0 +1,23 @@
+{
+  "id": "quote-typewriter",
+  "name": "Typewriter Soch",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 21,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Quote",
+      "def": "Zindagi chhoti hai, pyaar se jiyo aur muskurate raho.",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Vichar",
+      "type": "text"
+    }
+  ]
+}

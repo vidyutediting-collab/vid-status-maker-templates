@@ -1,0 +1,18 @@
+{
+  "id": "photo-collage",
+  "name": "3 Photo Collage",
+  "cat": [
+    "Love",
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 5,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Yaadein, hamesha saath",
+      "type": "text"
+    }
+  ]
+}

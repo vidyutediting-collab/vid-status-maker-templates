@@ -1,0 +1,23 @@
+{
+  "id": "gm-chai",
+  "name": "Chai Subah",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 21,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning! Chai ke saath din shuru karo",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

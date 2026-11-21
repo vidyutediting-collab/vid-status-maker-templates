@@ -1,0 +1,23 @@
+{
+  "id": "gm-suraj-pahaad",
+  "name": "Suraj Pahaad",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 23,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naya Din Nayi Umeed Good Morning",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Subah Mubarak",
+      "type": "text"
+    }
+  ]
+}

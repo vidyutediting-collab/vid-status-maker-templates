@@ -1,0 +1,17 @@
+{
+  "id": "neon-diamond",
+  "name": "Neon Diamond",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 4,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil se dil tak",
+      "type": "text"
+    }
+  ]
+}

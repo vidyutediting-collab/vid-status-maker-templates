@@ -1,0 +1,23 @@
+{
+  "id": "dev-kamal",
+  "name": "Kamal Phool",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 23,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Radhe Radhe",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Shubh Din",
+      "type": "text"
+    }
+  ]
+}

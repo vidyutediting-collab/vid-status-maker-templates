@@ -1,0 +1,23 @@
+{
+  "id": "lyr-vinyl",
+  "name": "Vinyl Gaana",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 22,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Lyrics",
+      "def": "Dil ne phir yaad kiya hai tujhe",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Gaana",
+      "def": "Purana Gaana",
+      "type": "text"
+    }
+  ]
+}

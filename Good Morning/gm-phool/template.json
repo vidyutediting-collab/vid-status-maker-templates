@@ -1,0 +1,23 @@
+{
+  "id": "gm-phool",
+  "name": "Phool Subah",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 22,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning, Aapka Din Phoolon Jaisa Mehke",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Pyare Dost",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "quote-card",
+  "name": "Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 7,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Quote likho",
+      "def": "Zindagi me khush rehna sabse badi jeet hai.",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam / Likhne wala",
+      "def": "- Vidyut",
+      "type": "text"
+    }
+  ]
+}

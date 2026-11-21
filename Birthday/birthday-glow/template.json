@@ -1,0 +1,23 @@
+{
+  "id": "birthday-glow",
+  "name": "Happy Birthday",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 2,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Title",
+      "def": "Happy Birthday",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Dost",
+      "type": "text"
+    }
+  ]
+}

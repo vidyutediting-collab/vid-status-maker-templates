@@ -1,0 +1,14 @@
+{
+  "ads": {
+    "enabled": false,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "banner_unit_id": "ca-app-pub-6061559109843103/4768242292",
+    "interstitial_unit_id": "ca-app-pub-6061559109843103/5913803006",
+    "interstitial_min_gap_seconds": 30
+  },
+  "logo": {
+    "logo_url": "",
+    "app_name_in_header": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "quote-blackboard",
+  "name": "Blackboard Gyaan",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 24,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Quote",
+      "def": "Seekhna kabhi band mat karo, har din ek naya sabak hai",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Gyaan Ki Baat",
+      "type": "text"
+    }
+  ]
+}

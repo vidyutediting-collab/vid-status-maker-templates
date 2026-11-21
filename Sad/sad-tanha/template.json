@@ -1,0 +1,23 @@
+{
+  "id": "sad-tanha",
+  "name": "Tanha Raatein",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 21,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri yaad me raat guzar jaati hai",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Akela",
+      "type": "text"
+    }
+  ]
+}

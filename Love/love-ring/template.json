@@ -1,0 +1,23 @@
+{
+  "id": "love-ring",
+  "name": "Dil Ka Ring",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 23,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu hi meri zindagi hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Sirf Tumhara",
+      "type": "text"
+    }
+  ]
+}

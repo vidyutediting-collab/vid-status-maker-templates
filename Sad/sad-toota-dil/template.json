@@ -1,0 +1,23 @@
+{
+  "id": "sad-toota-dil",
+  "name": "Toota Dil",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 22,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil toota par pyaar nahi",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Adhoora Pyaar",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gm-taazi-subah",
+  "name": "Taazi Subah",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 24,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "GOOD MORNING",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aapka Din Shubh Ho",
+      "type": "text"
+    }
+  ]
+}

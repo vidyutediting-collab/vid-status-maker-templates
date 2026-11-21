@@ -1,0 +1,23 @@
+{
+  "id": "sad-dhundh",
+  "name": "Dhundh Yaadein",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 23,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kuch yaadein kabhi dhundhli nahi hoti",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Yaadon Me",
+      "type": "text"
+    }
+  ]
+}

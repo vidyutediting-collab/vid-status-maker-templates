@@ -1,0 +1,23 @@
+{
+  "id": "devotional-glow",
+  "name": "Bhakti Glow",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 9,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Mata Di",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Chhoti line",
+      "def": "Sab par kripa rahe",
+      "type": "text"
+    }
+  ]
+}

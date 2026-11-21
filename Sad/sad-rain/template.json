@@ -1,0 +1,17 @@
+{
+  "id": "sad-rain",
+  "name": "Tanhai (Sad)",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 8,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina adhoora hu",
+      "type": "text"
+    }
+  ]
+}

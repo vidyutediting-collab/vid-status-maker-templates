@@ -1,0 +1,23 @@
+{
+  "id": "love-polaroid",
+  "name": "Polaroid Yaadein",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 22,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har yaad me tum ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

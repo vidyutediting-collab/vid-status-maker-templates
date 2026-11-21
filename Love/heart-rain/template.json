@@ -1,0 +1,24 @@
+{
+  "id": "heart-rain",
+  "name": "Dil Barish",
+  "cat": [
+    "Love",
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 10,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum ho to sab hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "My Love",
+      "type": "text"
+    }
+  ]
+}

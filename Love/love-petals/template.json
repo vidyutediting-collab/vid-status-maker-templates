@@ -1,0 +1,23 @@
+{
+  "id": "love-petals",
+  "name": "Gulab Patti",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 21,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum meri duniya ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Humsafar",
+      "type": "text"
+    }
+  ]
+}

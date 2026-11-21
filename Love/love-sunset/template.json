@@ -1,0 +1,23 @@
+{
+  "id": "love-sunset",
+  "name": "Sunset Pyaar",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 24,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere sang har shaam haseen hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mera Pyaar",
+      "type": "text"
+    }
+  ]
+}

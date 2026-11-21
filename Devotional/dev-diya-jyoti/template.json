@@ -1,0 +1,23 @@
+{
+  "id": "dev-diya-jyoti",
+  "name": "Diya Jyoti",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 22,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Shree Ram",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Shubh Deepawali",
+      "type": "text"
+    }
+  ]
+}

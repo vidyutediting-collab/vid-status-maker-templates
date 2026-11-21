@@ -1,0 +1,23 @@
+{
+  "id": "quote-rang-block",
+  "name": "Rang Block",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 22,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Quote",
+      "def": "Mehnat itni khamoshi se karo ki safalta shor macha de",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Success Mantra",
+      "type": "text"
+    }
+  ]
+}

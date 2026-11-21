@@ -1,0 +1,23 @@
+{
+  "id": "lyr-shabd-dhamaka",
+  "name": "Shabd Dhamaka",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 23,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Lyrics",
+      "def": "Aaj raat ye dil jhoom jaaye",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Gaana",
+      "def": "Party Gaana",
+      "type": "text"
+    }
+  ]
+}

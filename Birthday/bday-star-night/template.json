@@ -1,0 +1,23 @@
+{
+  "id": "bday-star-night",
+  "name": "Star Birthday",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 24,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Title",
+      "def": "Janamdin Ki Dher Saari Badhai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Star",
+      "type": "text"
+    }
+  ]
+}

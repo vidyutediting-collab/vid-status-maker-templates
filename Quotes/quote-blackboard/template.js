@@ -1,0 +1,11 @@
+return function(ctx,t,S){
+  ctx.fillStyle='#7a4b21';ctx.fillRect(0,0,W,H);ctx.fillStyle='#1f3b2d';ctx.fillRect(28,28,W-56,H-56);const gr=ctx.createRadialGradient(W/2,H/2,100,W/2,H/2,700);gr.addColorStop(0,'rgba(255,255,255,.08)');gr.addColorStop(1,'rgba(0,0,0,.35)');ctx.fillStyle=gr;ctx.fillRect(28,28,W-56,H-56);
+  ctx.save();ctx.strokeStyle='rgba(255,255,255,.7)';ctx.lineWidth=3;ctx.setLineDash([14,10]);ctx.lineDashOffset=-t*18;rr(ctx,52,52,W-104,H-104,18);ctx.stroke();ctx.restore();
+  ctx.save();ctx.translate(W/2,190);ctx.rotate(-.05+Math.sin(t*.8)*.01);ctx.fillStyle='#fffdf5';ctx.fillRect(-90,-90,180,180);ctx.beginPath();ctx.rect(-80,-80,160,160);ctx.clip();cover(ctx,S.photos[0],-80,-80,160,160,1.1,0,-.1);ctx.restore();
+  ctx.fillStyle='rgba(250,220,120,.85)';ctx.save();ctx.translate(W/2,98);ctx.rotate(.04);ctx.fillRect(-36,-11,72,24);ctx.restore();
+  ctx.fillStyle='rgba(255,255,255,.85)';ctx.font='60px '+SANS;ctx.textAlign='center';ctx.textBaseline='middle';[['★',90,380],['☆',455,330],['✶',470,860],['★',80,850]].forEach(([c,x,y],i)=>{ctx.save();ctx.translate(x,y);ctx.rotate(Math.sin(t+i)*.3);ctx.globalAlpha=.5+.4*Math.sin(t*2+i);ctx.fillText(c,0,0);ctx.restore()});ctx.globalAlpha=1;
+  const rg=rng(Math.floor(t*10)+1);const q=S.text.caption||'';const f=fit(ctx,q,'700 $px "Comic Sans MS","Segoe Print",cursive,'+SERIF.split(',')[0],400,8,44,22);ctx.font=`700 ${f.size}px "Comic Sans MS","Segoe Print",cursive,Georgia,serif`;const lh=f.size*1.3,y0=560-(f.lines.length-1)*lh/2;
+  ctx.fillStyle='#f8fafc';ctx.shadowColor='rgba(255,255,255,.45)';ctx.shadowBlur=6;f.lines.forEach((l,i)=>{const e=easeOut((t-.4-i*.4)/.9);ctx.save();ctx.beginPath();ctx.rect(0,y0+i*lh-lh/2,W*e,lh);ctx.clip();ctx.fillText(l,W/2+(rg()-.5)*1.2,y0+i*lh+(rg()-.5)*1.2);ctx.restore()});ctx.shadowBlur=0;
+  const ey=y0+f.lines.length*lh;ctx.strokeStyle='#fde68a';ctx.lineWidth=4;ctx.lineCap='round';ctx.beginPath();const wl=200*easeOut((t-1.5)/1);for(let x=0;x<=wl;x+=6){const px=W/2-100+x,py=ey+Math.sin(x*.12)*5;x?ctx.lineTo(px,py):ctx.moveTo(px,py)}ctx.stroke();
+  ctx.font=`600 30px ${SANS}`;ctx.fillStyle='#fde68a';ctx.globalAlpha=easeOut((t-2)/.8);ctx.fillText(S.text.name||'',W/2,ey+50);ctx.globalAlpha=1;
+}

@@ -1,0 +1,17 @@
+{
+  "id": "neon-heart",
+  "name": "Neon Dil",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu mera sab kuch hai",
+      "type": "text"
+    }
+  ]
+}

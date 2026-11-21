@@ -1,0 +1,23 @@
+{
+  "id": "dev-om-shanti",
+  "name": "Om Shanti",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 21,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Om Namah Shivaya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Shubh Somvar",
+      "type": "text"
+    }
+  ]
+}

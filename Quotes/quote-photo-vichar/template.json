@@ -1,0 +1,23 @@
+{
+  "id": "quote-photo-vichar",
+  "name": "Photo Vichar",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 23,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Quote",
+      "def": "Jo log aapko girana chahte hain, wahi aapko uthna sikhate hain",
+      "type": "area"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anmol Vachan",
+      "type": "text"
+    }
+  ]
+}

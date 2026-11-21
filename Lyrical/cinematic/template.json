@@ -1,0 +1,18 @@
+{
+  "id": "cinematic",
+  "name": "Cinematic",
+  "cat": [
+    "Lyrical",
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 6,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kuch kahaniyan adhoori rehti hain",
+      "type": "text"
+    }
+  ]
+}

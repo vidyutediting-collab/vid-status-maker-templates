@@ -1,0 +1,23 @@
+{
+  "id": "good-morning",
+  "name": "Subah Bakhair",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 3,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah Bakhair",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Chhoti line",
+      "def": "Aapka din shubh ho",
+      "type": "text"
+    }
+  ]
+}

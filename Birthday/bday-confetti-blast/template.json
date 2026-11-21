@@ -1,0 +1,23 @@
+{
+  "id": "bday-confetti-blast",
+  "name": "Confetti Blast",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 23,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Title",
+      "def": "Happy Birthday",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Star Dost",
+      "type": "text"
+    }
+  ]
+}

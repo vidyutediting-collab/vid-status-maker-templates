@@ -1,0 +1,23 @@
+{
+  "id": "bday-cake",
+  "name": "Cake Candles",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 21,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Title",
+      "def": "Happy Birthday",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

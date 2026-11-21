@@ -1,0 +1,23 @@
+{
+  "id": "sad-akela-chaand",
+  "name": "Akela Chaand",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 24,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chaand bhi akela hai meri tarah",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Tanhai",
+      "type": "text"
+    }
+  ]
+}
