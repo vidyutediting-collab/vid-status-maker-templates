@@ -1,0 +1,17 @@
+{
+  "id": "quote-006-cine-quote-trio",
+  "name": "Quotes 6 - Cine Quote Trio",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1041,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Rishte nibhane padte hain",
+      "type": "text"
+    }
+  ]
+}

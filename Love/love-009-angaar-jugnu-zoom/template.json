@@ -1,0 +1,17 @@
+{
+  "id": "love-009-angaar-jugnu-zoom",
+  "name": "Love 9 - Angaar Jugnu Zoom",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1056,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tujhse shuru, tujhpe khatam",
+      "type": "text"
+    }
+  ]
+}

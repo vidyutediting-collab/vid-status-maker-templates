@@ -1,0 +1,23 @@
+{
+  "id": "bday-006-savera-banner-jhoola",
+  "name": "Birthday 6 - Savera Banner Jhoola",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1039,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khush raho, aabaad raho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

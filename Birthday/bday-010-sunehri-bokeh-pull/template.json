@@ -1,0 +1,23 @@
+{
+  "id": "bday-010-sunehri-bokeh-pull",
+  "name": "Birthday 10 - Sunehri Bokeh Pull",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1067,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Umar badhe, pyar badhe",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

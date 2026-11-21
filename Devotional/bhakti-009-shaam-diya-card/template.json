@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-009-shaam-diya-card",
+  "name": "Devotional 9 - Shaam Diya Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1058,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Bholenath",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bday-001-sona-confetti-behta",
+  "name": "Birthday 1 - Sona Confetti Behta",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1004,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka din sirf tumhara",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

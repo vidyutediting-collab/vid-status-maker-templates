@@ -1,0 +1,23 @@
+{
+  "id": "lyric-002-dhundh-sur-parallax",
+  "name": "Lyrical 2 - Dhundh Sur Parallax",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1010,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ke taar chhed gayi tu",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Singer",
+      "type": "text"
+    }
+  ]
+}

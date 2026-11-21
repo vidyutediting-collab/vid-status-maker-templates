@@ -1,0 +1,23 @@
+{
+  "id": "gm-005-sunehri-suraj-pan-left",
+  "name": "Good Morning 5 - Sunehri Suraj Pan Left",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1033,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning, tension off",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aap",
+      "type": "text"
+    }
+  ]
+}

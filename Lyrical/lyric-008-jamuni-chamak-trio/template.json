@@ -1,0 +1,17 @@
+{
+  "id": "lyric-008-jamuni-chamak-trio",
+  "name": "Lyrical 8 - Jamuni Chamak Trio",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1052,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Lori si teri awaaz",
+      "type": "text"
+    }
+  ]
+}

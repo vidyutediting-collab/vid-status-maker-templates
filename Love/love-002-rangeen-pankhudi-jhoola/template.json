@@ -1,0 +1,17 @@
+{
+  "id": "love-002-rangeen-pankhudi-jhoola",
+  "name": "Love 2 - Rangeen Pankhudi Jhoola",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1007,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina adhoora hu",
+      "type": "text"
+    }
+  ]
+}

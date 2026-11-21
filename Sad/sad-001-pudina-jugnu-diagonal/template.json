@@ -1,0 +1,17 @@
+{
+  "id": "sad-001-pudina-jugnu-diagonal",
+  "name": "Sad 1 - Pudina Jugnu Diagonal",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1001,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tujhe bhulna aasan nahi",
+      "type": "text"
+    }
+  ]
+}

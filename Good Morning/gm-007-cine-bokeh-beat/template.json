@@ -1,0 +1,17 @@
+{
+  "id": "gm-007-cine-bokeh-beat",
+  "name": "Good Morning 7 - Cine Bokeh Beat",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1047,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ye subah sirf tumhare liye",
+      "type": "text"
+    }
+  ]
+}

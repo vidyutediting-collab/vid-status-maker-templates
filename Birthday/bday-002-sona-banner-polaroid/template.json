@@ -1,0 +1,17 @@
+{
+  "id": "bday-002-sona-banner-polaroid",
+  "name": "Birthday 2 - Sona Banner Polaroid",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1011,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil se dua, tum sada khush raho",
+      "type": "text"
+    }
+  ]
+}

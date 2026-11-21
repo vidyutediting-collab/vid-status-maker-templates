@@ -1,0 +1,17 @@
+{
+  "id": "love-003-jamuni-kiran-pan-right",
+  "name": "Love 3 - Jamuni Kiran Pan Right",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1014,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tera saath, meri kaayanaat",
+      "type": "text"
+    }
+  ]
+}

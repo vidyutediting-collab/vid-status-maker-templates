@@ -1,0 +1,17 @@
+{
+  "id": "lyric-006-dhundh-sur-zoom",
+  "name": "Lyrical 6 - Dhundh Sur Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1038,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Lafz kam par ehsaas gehre",
+      "type": "text"
+    }
+  ]
+}

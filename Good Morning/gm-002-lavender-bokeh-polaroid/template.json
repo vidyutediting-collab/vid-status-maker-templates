@@ -1,0 +1,17 @@
+{
+  "id": "gm-002-lavender-bokeh-polaroid",
+  "name": "Good Morning 2 - Lavender Bokeh Polaroid",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1012,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har subah ek naya mauka",
+      "type": "text"
+    }
+  ]
+}

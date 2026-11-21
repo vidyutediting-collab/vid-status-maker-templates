@@ -1,0 +1,17 @@
+{
+  "id": "love-008-rangeen-dil-beat",
+  "name": "Love 8 - Rangeen Dil Beat",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1049,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu meri khushi ki wajah",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-004-shaam-bijli-saans",
+  "name": "Sad 4 - Shaam Bijli Saans",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1022,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aankhein nam, dil bhaari",
+      "type": "text"
+    }
+  ]
+}

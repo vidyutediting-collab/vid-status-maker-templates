@@ -1,0 +1,17 @@
+{
+  "id": "love-006-fika-dhadkan-pan-left",
+  "name": "Love 6 - Fika Dhadkan Pan Left",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1035,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil se dil tak tera safar",
+      "type": "text"
+    }
+  ]
+}

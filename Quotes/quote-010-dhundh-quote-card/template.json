@@ -1,0 +1,17 @@
+{
+  "id": "quote-010-dhundh-quote-card",
+  "name": "Quotes 10 - Dhundh Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1069,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo hua achha hua",
+      "type": "text"
+    }
+  ]
+}

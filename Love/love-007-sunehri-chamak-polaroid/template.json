@@ -1,0 +1,17 @@
+{
+  "id": "love-007-sunehri-chamak-polaroid",
+  "name": "Love 7 - Sunehri Chamak Polaroid",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1042,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri muskaan meri jeet",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-003-raat-taare-polaroid",
+  "name": "Lyrical 3 - Raat Taare Polaroid",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1017,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Taal pe taal, dil ka haal",
+      "type": "text"
+    }
+  ]
+}

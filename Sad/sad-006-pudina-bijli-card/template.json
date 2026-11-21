@@ -1,0 +1,17 @@
+{
+  "id": "sad-006-pudina-bijli-card",
+  "name": "Sad 6 - Pudina Bijli Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1036,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri kami har pal khalti hai",
+      "type": "text"
+    }
+  ]
+}

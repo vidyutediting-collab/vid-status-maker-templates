@@ -1,0 +1,17 @@
+{
+  "id": "love-005-jamuni-chamak-card",
+  "name": "Love 5 - Jamuni Chamak Card",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1028,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Meri jaan, meri duniya",
+      "type": "text"
+    }
+  ]
+}

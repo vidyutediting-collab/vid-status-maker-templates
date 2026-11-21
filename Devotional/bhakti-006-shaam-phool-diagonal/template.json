@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-006-shaam-phool-diagonal",
+  "name": "Devotional 6 - Shaam Phool Diagonal",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1037,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Maa ke charno mein jannat",
+      "type": "text"
+    }
+  ]
+}

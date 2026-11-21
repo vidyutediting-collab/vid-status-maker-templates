@@ -1,0 +1,23 @@
+{
+  "id": "bday-004-sona-ghubbare-stack",
+  "name": "Birthday 4 - Sona Ghubbare Stack",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1025,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek aur saal, ek aur kamaal",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

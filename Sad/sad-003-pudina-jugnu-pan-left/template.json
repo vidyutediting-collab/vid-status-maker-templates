@@ -1,0 +1,17 @@
+{
+  "id": "sad-003-pudina-jugnu-pan-left",
+  "name": "Sad 3 - Pudina Jugnu Pan Left",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1015,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bheegi palkein, sooni raatein",
+      "type": "text"
+    }
+  ]
+}

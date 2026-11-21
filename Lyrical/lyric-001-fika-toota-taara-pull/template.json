@@ -1,0 +1,17 @@
+{
+  "id": "lyric-001-fika-toota-taara-pull",
+  "name": "Lyrical 1 - Fika Toota Taara Pull",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1003,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har lafz mein tera ehsaas",
+      "type": "text"
+    }
+  ]
+}

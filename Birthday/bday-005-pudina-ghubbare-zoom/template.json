@@ -1,0 +1,23 @@
+{
+  "id": "bday-005-pudina-ghubbare-zoom",
+  "name": "Birthday 5 - Pudina Ghubbare Zoom",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1032,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bade ho gaye, par bachpana na jaaye",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

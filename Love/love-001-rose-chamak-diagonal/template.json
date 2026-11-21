@@ -1,0 +1,17 @@
+{
+  "id": "love-001-rose-chamak-diagonal",
+  "name": "Love 1 - Rose Chamak Diagonal",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1000,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bas tu rahe mere paas",
+      "type": "text"
+    }
+  ]
+}

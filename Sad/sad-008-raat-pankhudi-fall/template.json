@@ -1,0 +1,23 @@
+{
+  "id": "sad-008-raat-pankhudi-fall",
+  "name": "Sad 8 - Raat Pankhudi Fall",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1050,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt ne sikha diya akela rehna",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Tum",
+      "type": "text"
+    }
+  ]
+}

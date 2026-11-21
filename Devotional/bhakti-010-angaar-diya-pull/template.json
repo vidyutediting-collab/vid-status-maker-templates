@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-010-angaar-diya-pull",
+  "name": "Devotional 10 - Angaar Diya Pull",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1065,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sai Baba ka aashirwad sada",
+      "type": "text"
+    }
+  ]
+}

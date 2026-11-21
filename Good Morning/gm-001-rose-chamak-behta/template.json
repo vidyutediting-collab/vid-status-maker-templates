@@ -1,0 +1,23 @@
+{
+  "id": "gm-001-rose-chamak-behta",
+  "name": "Good Morning 1 - Rose Chamak Behta",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1005,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka din behtareen ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

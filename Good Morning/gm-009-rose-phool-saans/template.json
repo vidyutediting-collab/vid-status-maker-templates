@@ -1,0 +1,17 @@
+{
+  "id": "gm-009-rose-phool-saans",
+  "name": "Good Morning 9 - Rose Phool Saans",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1061,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah subah teri yaad aayi",
+      "type": "text"
+    }
+  ]
+}

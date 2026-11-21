@@ -1,0 +1,17 @@
+{
+  "id": "love-010-rangeen-jugnu-zoom",
+  "name": "Love 10 - Rangeen Jugnu Zoom",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1063,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mohabbat ka matlab tu",
+      "type": "text"
+    }
+  ]
+}

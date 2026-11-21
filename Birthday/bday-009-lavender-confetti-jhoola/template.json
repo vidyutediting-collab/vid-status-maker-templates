@@ -1,0 +1,23 @@
+{
+  "id": "bday-009-lavender-confetti-jhoola",
+  "name": "Birthday 9 - Lavender Confetti Jhoola",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1060,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj tumhara din hai, mauj karo",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-007-purana-bokeh-card",
+  "name": "Sad 7 - Purana Bokeh Card",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1043,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo chhod gaya usse kya shikwa",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-004-sunehri-barf-pull",
+  "name": "Quotes 4 - Sunehri Barf Pull",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1027,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shaant raho, waqt badlega",
+      "type": "text"
+    }
+  ]
+}

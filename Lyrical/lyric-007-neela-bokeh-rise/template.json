@@ -1,0 +1,17 @@
+{
+  "id": "lyric-007-neela-bokeh-rise",
+  "name": "Lyrical 7 - Neela Bokeh Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1045,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Baarish ki boondon mein teri taal",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-004-jamuni-fanus-card",
+  "name": "Devotional 4 - Jamuni Fanus Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1023,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Om Namah Shivaya",
+      "type": "text"
+    }
+  ]
+}

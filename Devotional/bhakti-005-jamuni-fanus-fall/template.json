@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-005-jamuni-fanus-fall",
+  "name": "Devotional 5 - Jamuni Fanus Fall",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1030,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Hanuman",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-003-sunehri-panchhi-parallax",
+  "name": "Good Morning 3 - Sunehri Panchhi Parallax",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1019,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ka suraj naya jazba laaye",
+      "type": "text"
+    }
+  ]
+}

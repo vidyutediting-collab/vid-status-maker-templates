@@ -1,0 +1,23 @@
+{
+  "id": "bday-007-pudina-banner-parallax",
+  "name": "Birthday 7 - Pudina Banner Parallax",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1046,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Birthday boy ki entry!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-003-shaam-om-pan-left",
+  "name": "Devotional 3 - Shaam Om Pan Left",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1016,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Maa Lakshmi ki kripa bani rahe",
+      "type": "text"
+    }
+  ]
+}

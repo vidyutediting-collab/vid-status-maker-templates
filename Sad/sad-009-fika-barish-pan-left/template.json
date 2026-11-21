@@ -1,0 +1,17 @@
+{
+  "id": "sad-009-fika-barish-pan-left",
+  "name": "Sad 9 - Fika Barish Pan Left",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1057,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri yaad, meri tanhai",
+      "type": "text"
+    }
+  ]
+}

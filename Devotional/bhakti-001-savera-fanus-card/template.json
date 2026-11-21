@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-001-savera-fanus-card",
+  "name": "Devotional 1 - Savera Fanus Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1002,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah subah Bholenath ka naam",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-010-rangeen-bokeh-card",
+  "name": "Lyrical 10 - Rangeen Bokeh Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1066,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khayalon mein teri sargam",
+      "type": "text"
+    }
+  ]
+}

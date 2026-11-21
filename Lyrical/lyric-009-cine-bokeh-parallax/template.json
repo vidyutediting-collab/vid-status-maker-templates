@@ -1,0 +1,17 @@
+{
+  "id": "lyric-009-cine-bokeh-parallax",
+  "name": "Lyrical 9 - Cine Bokeh Parallax",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1059,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek taraana tere naam",
+      "type": "text"
+    }
+  ]
+}

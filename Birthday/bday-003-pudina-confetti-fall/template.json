@@ -1,0 +1,23 @@
+{
+  "id": "bday-003-pudina-confetti-fall",
+  "name": "Birthday 3 - Pudina Confetti Fall",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1018,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Cake kaato, dhoom machao!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

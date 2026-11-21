@@ -1,0 +1,17 @@
+{
+  "id": "quote-009-purana-chamak-stack",
+  "name": "Quotes 9 - Purana Chamak Stack",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1062,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Zindagi ek safar hai, jee lo",
+      "type": "text"
+    }
+  ]
+}

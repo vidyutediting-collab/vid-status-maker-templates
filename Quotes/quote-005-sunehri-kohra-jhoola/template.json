@@ -1,0 +1,23 @@
+{
+  "id": "quote-005-sunehri-kohra-jhoola",
+  "name": "Quotes 5 - Sunehri Kohra Jhoola",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1034,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sabse badi daulat sehat hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-004-pudina-dhool-beat",
+  "name": "Good Morning 4 - Pudina Dhool Beat",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1026,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ki hawa mein sukoon hai",
+      "type": "text"
+    }
+  ]
+}

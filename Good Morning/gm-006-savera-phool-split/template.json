@@ -1,0 +1,17 @@
+{
+  "id": "gm-006-savera-phool-split",
+  "name": "Good Morning 6 - Savera Phool Split",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1040,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shaant subah, sundar din",
+      "type": "text"
+    }
+  ]
+}

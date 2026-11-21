@@ -1,0 +1,17 @@
+{
+  "id": "quote-001-sunehri-film-saans",
+  "name": "Quotes 1 - Sunehri Film Saans",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1006,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj se behtar kal banao",
+      "type": "text"
+    }
+  ]
+}

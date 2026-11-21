@@ -1,0 +1,17 @@
+{
+  "id": "quote-002-purana-dhool-card",
+  "name": "Quotes 2 - Purana Dhool Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1013,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ruko mat, chalte raho",
+      "type": "text"
+    }
+  ]
+}

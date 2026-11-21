@@ -1,0 +1,17 @@
+{
+  "id": "sad-002-purana-barish-jhoola",
+  "name": "Sad 2 - Purana Barish Jhoola",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1008,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil mein ek khalaa sa hai",
+      "type": "text"
+    }
+  ]
+}

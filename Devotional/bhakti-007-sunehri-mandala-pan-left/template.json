@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-007-sunehri-mandala-pan-left",
+  "name": "Devotional 7 - Sunehri Mandala Pan Left",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1044,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Jagannath",
+      "type": "text"
+    }
+  ]
+}

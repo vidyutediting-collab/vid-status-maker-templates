@@ -1,0 +1,17 @@
+{
+  "id": "lyric-005-shaam-toota-taara-card",
+  "name": "Lyrical 5 - Shaam Toota Taara Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1031,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gaane mein bas gaye ho tum",
+      "type": "text"
+    }
+  ]
+}

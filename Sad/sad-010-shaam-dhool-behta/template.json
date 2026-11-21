@@ -1,0 +1,17 @@
+{
+  "id": "sad-010-shaam-dhool-behta",
+  "name": "Sad 10 - Shaam Dhool Behta",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1064,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Yaadein reh gayi, tum nahi",
+      "type": "text"
+    }
+  ]
+}

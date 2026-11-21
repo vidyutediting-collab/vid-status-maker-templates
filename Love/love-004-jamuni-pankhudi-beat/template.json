@@ -1,0 +1,17 @@
+{
+  "id": "love-004-jamuni-pankhudi-beat",
+  "name": "Love 4 - Jamuni Pankhudi Beat",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1021,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek tu hi toh hai dil mein",
+      "type": "text"
+    }
+  ]
+}

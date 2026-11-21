@@ -1,0 +1,17 @@
+{
+  "id": "gm-010-gulabi-phool-beat",
+  "name": "Good Morning 10 - Gulabi Phool Beat",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1068,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naye din ko salaam",
+      "type": "text"
+    }
+  ]
+}

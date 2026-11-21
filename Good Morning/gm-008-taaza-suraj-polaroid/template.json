@@ -1,0 +1,17 @@
+{
+  "id": "gm-008-taaza-suraj-polaroid",
+  "name": "Good Morning 8 - Taaza Suraj Polaroid",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1054,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naya savera, naya iraada",
+      "type": "text"
+    }
+  ]
+}

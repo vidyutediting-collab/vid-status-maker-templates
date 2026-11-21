@@ -1,0 +1,17 @@
+{
+  "id": "lyric-004-neela-sur-zoom",
+  "name": "Lyrical 4 - Neela Sur Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1024,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Geet mere, yaad teri",
+      "type": "text"
+    }
+  ]
+}
