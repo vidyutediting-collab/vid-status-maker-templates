@@ -1,0 +1,17 @@
+{
+  "id": "love-050-jamuni-pankhudi-behta",
+  "name": "Love 50 - Jamuni Pankhudi Behta",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1343,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bas tu rahe mere paas",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-048-cine-suraj-diagonal",
+  "name": "Good Morning 48 - Cine Suraj Diagonal",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1334,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Man ko shaant, din ko khushnuma",
+      "type": "text"
+    }
+  ]
+}

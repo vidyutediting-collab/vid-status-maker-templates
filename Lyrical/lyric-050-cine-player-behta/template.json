@@ -1,0 +1,17 @@
+{
+  "id": "lyric-050-cine-player-behta",
+  "name": "Lyrical 50 - Cine Player Behta",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1346,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ke taar chhed gayi tu",
+      "type": "text"
+    }
+  ]
+}

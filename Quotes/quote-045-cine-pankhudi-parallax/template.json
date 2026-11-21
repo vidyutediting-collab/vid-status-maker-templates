@@ -1,0 +1,17 @@
+{
+  "id": "quote-045-cine-pankhudi-parallax",
+  "name": "Quotes 45 - Cine Pankhudi Parallax",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1314,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mushkil raaste, manzil khoobsurat",
+      "type": "text"
+    }
+  ]
+}

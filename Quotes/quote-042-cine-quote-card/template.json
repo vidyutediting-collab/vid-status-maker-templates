@@ -1,0 +1,17 @@
+{
+  "id": "quote-042-cine-quote-card",
+  "name": "Quotes 42 - Cine Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1293,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Haar ke baad hi jeet hai",
+      "type": "text"
+    }
+  ]
+}

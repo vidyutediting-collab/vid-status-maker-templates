@@ -1,0 +1,23 @@
+{
+  "id": "sad-050-shaam-barish-diagonal",
+  "name": "Sad 50 - Shaam Barish Diagonal",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1344,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tujhe bhulna aasan nahi",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Kisi Ke Liye",
+      "type": "text"
+    }
+  ]
+}

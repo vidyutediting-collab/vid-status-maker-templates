@@ -1,0 +1,23 @@
+{
+  "id": "bday-045-cine-ghubbare-card",
+  "name": "Birthday 45 - Cine Ghubbare Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1312,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Janamdin ki dher saari badhaiyan",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "love-044-gulabi-dil-fall",
+  "name": "Love 44 - Gulabi Dil Fall",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1301,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum mile to zindagi haseen lagi",
+      "type": "text"
+    }
+  ]
+}

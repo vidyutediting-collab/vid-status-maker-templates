@@ -1,0 +1,17 @@
+{
+  "id": "love-041-sunehri-bokeh-rise",
+  "name": "Love 41 - Sunehri Bokeh Rise",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1280,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil dhadakta hai tere liye",
+      "type": "text"
+    }
+  ]
+}

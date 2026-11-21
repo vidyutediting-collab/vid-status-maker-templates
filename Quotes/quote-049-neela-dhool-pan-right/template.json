@@ -1,0 +1,17 @@
+{
+  "id": "quote-049-neela-dhool-pan-right",
+  "name": "Quotes 49 - Neela Dhool Pan Right",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1342,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Apni pehchaan khud banao",
+      "type": "text"
+    }
+  ]
+}

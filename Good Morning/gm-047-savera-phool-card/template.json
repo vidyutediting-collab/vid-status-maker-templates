@@ -1,0 +1,17 @@
+{
+  "id": "gm-047-savera-phool-card",
+  "name": "Good Morning 47 - Savera Phool Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1327,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dhoop si khilti raho",
+      "type": "text"
+    }
+  ]
+}

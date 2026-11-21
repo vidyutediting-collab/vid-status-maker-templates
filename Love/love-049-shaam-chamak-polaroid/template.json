@@ -1,0 +1,17 @@
+{
+  "id": "love-049-shaam-chamak-polaroid",
+  "name": "Love 49 - Shaam Chamak Polaroid",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1336,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Pyaar mein pagal hu tere",
+      "type": "text"
+    }
+  ]
+}

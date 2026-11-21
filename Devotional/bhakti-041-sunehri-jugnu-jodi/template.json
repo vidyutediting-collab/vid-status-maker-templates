@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-041-sunehri-jugnu-jodi",
+  "name": "Devotional 41 - Sunehri Jugnu Jodi",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1282,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Siya Ram",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-041-noir-kiran-split",
+  "name": "Quotes 41 - Noir Kiran Split",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1286,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo mila usme khush raho",
+      "type": "text"
+    }
+  ]
+}

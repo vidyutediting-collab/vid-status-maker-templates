@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-044-savera-mandala-split",
+  "name": "Devotional 44 - Savera Mandala Split",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1303,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ram naam ki mahima apaar",
+      "type": "text"
+    }
+  ]
+}

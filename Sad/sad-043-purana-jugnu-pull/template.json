@@ -1,0 +1,23 @@
+{
+  "id": "sad-043-purana-jugnu-pull",
+  "name": "Sad 43 - Purana Jugnu Pull",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1295,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raat lambi, yaadein gehri",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Tum",
+      "type": "text"
+    }
+  ]
+}

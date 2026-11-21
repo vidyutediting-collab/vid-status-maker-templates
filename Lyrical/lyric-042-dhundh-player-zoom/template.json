@@ -1,0 +1,17 @@
+{
+  "id": "lyric-042-dhundh-player-zoom",
+  "name": "Lyrical 42 - Dhundh Player Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1290,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aankhon se likha ek nagma",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bday-049-gulabi-ghubbare-pan-left",
+  "name": "Birthday 49 - Gulabi Ghubbare Pan Left",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1340,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dost nahi, bhai ho tum",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

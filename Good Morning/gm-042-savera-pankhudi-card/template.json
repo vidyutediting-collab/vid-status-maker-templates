@@ -1,0 +1,17 @@
+{
+  "id": "gm-042-savera-pankhudi-card",
+  "name": "Good Morning 42 - Savera Pankhudi Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1292,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aankhein kholo, duniya khoobsurat hai",
+      "type": "text"
+    }
+  ]
+}

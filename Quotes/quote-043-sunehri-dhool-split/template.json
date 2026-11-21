@@ -1,0 +1,17 @@
+{
+  "id": "quote-043-sunehri-dhool-split",
+  "name": "Quotes 43 - Sunehri Dhool Split",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1300,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sochne se zyada karna zaroori hai",
+      "type": "text"
+    }
+  ]
+}

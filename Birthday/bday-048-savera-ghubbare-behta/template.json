@@ -1,0 +1,23 @@
+{
+  "id": "bday-048-savera-ghubbare-behta",
+  "name": "Birthday 48 - Savera Ghubbare Behta",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1333,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka din yaadgaar bane",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

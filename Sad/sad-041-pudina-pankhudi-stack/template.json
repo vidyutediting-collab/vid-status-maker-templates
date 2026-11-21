@@ -1,0 +1,23 @@
+{
+  "id": "sad-041-pudina-pankhudi-stack",
+  "name": "Sad 41 - Pudina Pankhudi Stack",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1281,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ab kisi se kuch nahi kehna",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Tum",
+      "type": "text"
+    }
+  ]
+}

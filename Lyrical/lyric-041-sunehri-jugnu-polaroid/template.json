@@ -1,0 +1,17 @@
+{
+  "id": "lyric-041-sunehri-jugnu-polaroid",
+  "name": "Lyrical 41 - Sunehri Jugnu Polaroid",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1283,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki dhun pe naachti hai raat",
+      "type": "text"
+    }
+  ]
+}

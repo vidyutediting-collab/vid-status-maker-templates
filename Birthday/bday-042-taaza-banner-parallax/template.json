@@ -1,0 +1,23 @@
+{
+  "id": "bday-042-taaza-banner-parallax",
+  "name": "Birthday 42 - Taaza Banner Parallax",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1291,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Cake ready, tum ready?",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

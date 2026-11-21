@@ -1,0 +1,23 @@
+{
+  "id": "bday-041-gulabi-confetti-beat",
+  "name": "Birthday 41 - Gulabi Confetti Beat",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1284,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Candles bujhao, wish maango",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

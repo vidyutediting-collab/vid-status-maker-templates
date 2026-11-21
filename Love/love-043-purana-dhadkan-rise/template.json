@@ -1,0 +1,23 @@
+{
+  "id": "love-043-purana-dhadkan-rise",
+  "name": "Love 43 - Purana Dhadkan Rise",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1294,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Saath chalna umar bhar",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Babu",
+      "type": "text"
+    }
+  ]
+}

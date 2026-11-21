@@ -1,0 +1,23 @@
+{
+  "id": "bday-047-sona-bokeh-beat",
+  "name": "Birthday 47 - Sona Bokeh Beat",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1326,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naye saal ka naya josh",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

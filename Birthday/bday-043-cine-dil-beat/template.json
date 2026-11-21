@@ -1,0 +1,17 @@
+{
+  "id": "bday-043-cine-dil-beat",
+  "name": "Birthday 43 - Cine Dil Beat",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1298,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har saal aise hi muskurate raho",
+      "type": "text"
+    }
+  ]
+}

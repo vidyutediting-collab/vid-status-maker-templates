@@ -1,0 +1,17 @@
+{
+  "id": "gm-050-gulabi-suraj-pan-right",
+  "name": "Good Morning 50 - Gulabi Suraj Pan Right",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1348,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka din behtareen ho",
+      "type": "text"
+    }
+  ]
+}

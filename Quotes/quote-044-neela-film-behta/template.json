@@ -1,0 +1,17 @@
+{
+  "id": "quote-044-neela-film-behta",
+  "name": "Quotes 44 - Neela Film Behta",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1307,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek din sab theek ho jayega",
+      "type": "text"
+    }
+  ]
+}

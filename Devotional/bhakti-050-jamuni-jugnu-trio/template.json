@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-050-jamuni-jugnu-trio",
+  "name": "Devotional 50 - Jamuni Jugnu Trio",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1345,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Radhe Radhe",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-049-raat-player-pull",
+  "name": "Lyrical 49 - Raat Player Pull",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1339,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har lafz mein tera ehsaas",
+      "type": "text"
+    }
+  ]
+}

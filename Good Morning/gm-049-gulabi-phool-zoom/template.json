@@ -1,0 +1,17 @@
+{
+  "id": "gm-049-gulabi-phool-zoom",
+  "name": "Good Morning 49 - Gulabi Phool Zoom",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1341,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gulaab si khilti subah",
+      "type": "text"
+    }
+  ]
+}

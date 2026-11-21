@@ -1,0 +1,17 @@
+{
+  "id": "gm-046-sunehri-pankhudi-parallax",
+  "name": "Good Morning 46 - Sunehri Pankhudi Parallax",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1320,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kal ki fikar chhodo, aaj jiyo",
+      "type": "text"
+    }
+  ]
+}

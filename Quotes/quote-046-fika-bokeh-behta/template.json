@@ -1,0 +1,17 @@
+{
+  "id": "quote-046-fika-bokeh-behta",
+  "name": "Quotes 46 - Fika Bokeh Behta",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1321,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Zindagi sabko mauka deti hai",
+      "type": "text"
+    }
+  ]
+}

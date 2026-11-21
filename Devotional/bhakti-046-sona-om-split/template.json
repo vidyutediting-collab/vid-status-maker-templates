@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-046-sona-om-split",
+  "name": "Devotional 46 - Sona Om Split",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1317,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Khatu Shyam",
+      "type": "text"
+    }
+  ]
+}

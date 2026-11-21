@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-048-shaam-phool-jhoola",
+  "name": "Devotional 48 - Shaam Phool Jhoola",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1331,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Maa ka aashirwad sada rahe",
+      "type": "text"
+    }
+  ]
+}

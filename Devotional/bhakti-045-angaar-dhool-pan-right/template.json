@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-045-angaar-dhool-pan-right",
+  "name": "Devotional 45 - Angaar Dhool Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1310,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Guru ki kripa se sab sambhav",
+      "type": "text"
+    }
+  ]
+}

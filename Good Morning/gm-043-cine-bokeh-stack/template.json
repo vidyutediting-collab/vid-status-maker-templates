@@ -1,0 +1,17 @@
+{
+  "id": "gm-043-cine-bokeh-stack",
+  "name": "Good Morning 43 - Cine Bokeh Stack",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1299,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chidiya ki chahchahat, subah ki baat",
+      "type": "text"
+    }
+  ]
+}

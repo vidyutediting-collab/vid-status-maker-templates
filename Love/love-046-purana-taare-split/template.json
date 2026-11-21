@@ -1,0 +1,17 @@
+{
+  "id": "love-046-purana-taare-split",
+  "name": "Love 46 - Purana Taare Split",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1315,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Pyar tera, bas yahi chahiye",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-045-raat-kohra-polaroid",
+  "name": "Sad 45 - Raat Kohra Polaroid",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1309,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Rone ka bhi ab mann nahi",
+      "type": "text"
+    }
+  ]
+}

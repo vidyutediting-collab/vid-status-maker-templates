@@ -1,0 +1,17 @@
+{
+  "id": "lyric-045-gulabi-player-diagonal",
+  "name": "Lyrical 45 - Gulabi Player Diagonal",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1311,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sur lag gaya tere naam se",
+      "type": "text"
+    }
+  ]
+}

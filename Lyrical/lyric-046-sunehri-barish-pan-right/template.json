@@ -1,0 +1,17 @@
+{
+  "id": "lyric-046-sunehri-barish-pan-right",
+  "name": "Lyrical 46 - Sunehri Barish Pan Right",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1318,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chand ki roshni mein gaane ka mann",
+      "type": "text"
+    }
+  ]
+}

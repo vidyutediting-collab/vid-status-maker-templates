@@ -1,0 +1,23 @@
+{
+  "id": "love-048-sunehri-dil-card",
+  "name": "Love 48 - Sunehri Dil Card",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1329,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tujhe dekha to jaana ishq kya hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

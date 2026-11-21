@@ -1,0 +1,17 @@
+{
+  "id": "lyric-048-shaam-jugnu-rise",
+  "name": "Lyrical 48 - Shaam Jugnu Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1332,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek surili si yaad",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-042-noir-bijli-trio",
+  "name": "Sad 42 - Noir Bijli Trio",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1288,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mausam badla, par tum nahi aaye",
+      "type": "text"
+    }
+  ]
+}

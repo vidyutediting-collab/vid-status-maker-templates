@@ -1,0 +1,17 @@
+{
+  "id": "quote-048-noir-barf-card",
+  "name": "Quotes 48 - Noir Barf Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1335,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bharosa todna aasan, banana mushkil",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-047-rangeen-sur-trio",
+  "name": "Lyrical 47 - Rangeen Sur Trio",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1325,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raag-e-ishq chhid gaya",
+      "type": "text"
+    }
+  ]
+}

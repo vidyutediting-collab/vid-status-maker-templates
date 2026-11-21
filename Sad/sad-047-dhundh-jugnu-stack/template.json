@@ -1,0 +1,17 @@
+{
+  "id": "sad-047-dhundh-jugnu-stack",
+  "name": "Sad 47 - Dhundh Jugnu Stack",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1323,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Apne hi dard mein jee raha hu",
+      "type": "text"
+    }
+  ]
+}

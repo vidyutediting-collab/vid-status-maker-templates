@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-047-savera-pankhudi-pan-right",
+  "name": "Devotional 47 - Savera Pankhudi Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1324,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Maa Durga, sab dukh dur",
+      "type": "text"
+    }
+  ]
+}

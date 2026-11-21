@@ -1,0 +1,17 @@
+{
+  "id": "gm-045-rose-phool-split",
+  "name": "Good Morning 45 - Rose Phool Split",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1313,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kirnon ke saath muskurao",
+      "type": "text"
+    }
+  ]
+}

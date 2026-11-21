@@ -1,0 +1,17 @@
+{
+  "id": "sad-048-shaam-barish-jodi",
+  "name": "Sad 48 - Shaam Barish Jodi",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1330,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Meri khamoshi mein tera shor hai",
+      "type": "text"
+    }
+  ]
+}

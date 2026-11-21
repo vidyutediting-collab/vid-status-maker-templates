@@ -1,0 +1,17 @@
+{
+  "id": "sad-046-pudina-barish-split",
+  "name": "Sad 46 - Pudina Barish Split",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1316,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kaash tum samajh paate",
+      "type": "text"
+    }
+  ]
+}

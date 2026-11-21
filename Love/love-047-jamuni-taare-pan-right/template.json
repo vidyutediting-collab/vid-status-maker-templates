@@ -1,0 +1,17 @@
+{
+  "id": "love-047-jamuni-taare-pan-right",
+  "name": "Love 47 - Jamuni Taare Pan Right",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1322,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri aankhon mein ghar mera",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bday-050-savera-banner-behta",
+  "name": "Birthday 50 - Savera Banner Behta",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1347,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naya saal, nayi umang",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

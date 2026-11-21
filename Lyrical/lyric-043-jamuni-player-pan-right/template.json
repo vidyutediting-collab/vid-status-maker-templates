@@ -1,0 +1,17 @@
+{
+  "id": "lyric-043-jamuni-player-pan-right",
+  "name": "Lyrical 43 - Jamuni Player Pan Right",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1297,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mehfil mein tu, gaana mera",
+      "type": "text"
+    }
+  ]
+}

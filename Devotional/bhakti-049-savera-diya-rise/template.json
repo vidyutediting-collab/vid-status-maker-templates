@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-049-savera-diya-rise",
+  "name": "Devotional 49 - Savera Diya Rise",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1338,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Shri Ram",
+      "type": "text"
+    }
+  ]
+}

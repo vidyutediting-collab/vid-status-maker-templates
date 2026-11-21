@@ -1,0 +1,17 @@
+{
+  "id": "lyric-044-raat-beats-fall",
+  "name": "Lyrical 44 - Raat Beats Fall",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1304,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Surmayi shaam, geeton ka saath",
+      "type": "text"
+    }
+  ]
+}

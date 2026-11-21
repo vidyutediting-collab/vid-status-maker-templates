@@ -1,0 +1,23 @@
+{
+  "id": "gm-041-rose-dhool-diagonal",
+  "name": "Good Morning 41 - Rose Dhool Diagonal",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1285,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Phoolon jaisi mehke aapki subah",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

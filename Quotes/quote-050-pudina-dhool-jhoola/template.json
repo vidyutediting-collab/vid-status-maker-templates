@@ -1,0 +1,17 @@
+{
+  "id": "quote-050-pudina-dhool-jhoola",
+  "name": "Quotes 50 - Pudina Dhool Jhoola",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1349,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mehnat kabhi bekaar nahi jaati",
+      "type": "text"
+    }
+  ]
+}

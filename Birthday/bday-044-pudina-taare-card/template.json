@@ -1,0 +1,23 @@
+{
+  "id": "bday-044-pudina-taare-card",
+  "name": "Birthday 44 - Pudina Taare Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1305,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sapne saare sach ho tumhare",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-042-jamuni-diya-card",
+  "name": "Devotional 42 - Jamuni Diya Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1289,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shri Ram ka naam, sukoon har jagah",
+      "type": "text"
+    }
+  ]
+}

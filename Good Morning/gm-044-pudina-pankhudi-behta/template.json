@@ -1,0 +1,17 @@
+{
+  "id": "gm-044-pudina-pankhudi-behta",
+  "name": "Good Morning 44 - Pudina Pankhudi Behta",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1306,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Muskurao, subah ho gayi",
+      "type": "text"
+    }
+  ]
+}
