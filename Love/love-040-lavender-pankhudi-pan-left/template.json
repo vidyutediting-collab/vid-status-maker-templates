@@ -1,0 +1,23 @@
+{
+  "id": "love-040-lavender-pankhudi-pan-left",
+  "name": "Love 40 - Lavender Pankhudi Pan Left",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1273,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tera naam likha hai dil par",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

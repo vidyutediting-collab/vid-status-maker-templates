@@ -1,0 +1,17 @@
+{
+  "id": "quote-032-neela-dhool-beat",
+  "name": "Quotes 32 - Neela Dhool Beat",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1223,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Muskurana sabse sasta ilaaj hai",
+      "type": "text"
+    }
+  ]
+}

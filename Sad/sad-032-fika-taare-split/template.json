@@ -1,0 +1,17 @@
+{
+  "id": "sad-032-fika-taare-split",
+  "name": "Sad 32 - Fika Taare Split",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1218,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Yaad aaya wo purana waqt",
+      "type": "text"
+    }
+  ]
+}

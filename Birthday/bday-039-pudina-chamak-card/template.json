@@ -1,0 +1,23 @@
+{
+  "id": "bday-039-pudina-chamak-card",
+  "name": "Birthday 39 - Pudina Chamak Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1270,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum meri zindagi ka tohfa ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

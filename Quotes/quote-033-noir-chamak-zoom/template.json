@@ -1,0 +1,17 @@
+{
+  "id": "quote-033-noir-chamak-zoom",
+  "name": "Quotes 33 - Noir Chamak Zoom",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1230,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jaisa soche, waisa bano",
+      "type": "text"
+    }
+  ]
+}

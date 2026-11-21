@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-036-sona-pankhudi-beat",
+  "name": "Devotional 36 - Sona Pankhudi Beat",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1247,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Mata Di",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-034-cine-chamak-fall",
+  "name": "Quotes 34 - Cine Chamak Fall",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1237,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Apni kahani khud likho",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-039-rose-dhool-parallax",
+  "name": "Good Morning 39 - Rose Dhool Parallax",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1271,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning dost",
+      "type": "text"
+    }
+  ]
+}

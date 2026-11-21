@@ -1,0 +1,17 @@
+{
+  "id": "sad-039-neela-pankhudi-stack",
+  "name": "Sad 39 - Neela Pankhudi Stack",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1267,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bina bataye chale gaye tum",
+      "type": "text"
+    }
+  ]
+}

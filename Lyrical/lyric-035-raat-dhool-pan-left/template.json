@@ -1,0 +1,17 @@
+{
+  "id": "lyric-035-raat-dhool-pan-left",
+  "name": "Lyrical 35 - Raat Dhool Pan Left",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1241,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dheemi si dhun, dheemi si baat",
+      "type": "text"
+    }
+  ]
+}

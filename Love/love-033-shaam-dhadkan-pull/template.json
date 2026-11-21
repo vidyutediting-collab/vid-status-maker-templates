@@ -1,0 +1,23 @@
+{
+  "id": "love-033-shaam-dhadkan-pull",
+  "name": "Love 33 - Shaam Dhadkan Pull",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1224,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jab tu hasti hai, dil khil jata hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Babu",
+      "type": "text"
+    }
+  ]
+}

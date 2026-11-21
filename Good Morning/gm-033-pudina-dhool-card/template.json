@@ -1,0 +1,17 @@
+{
+  "id": "gm-033-pudina-dhool-card",
+  "name": "Good Morning 33 - Pudina Dhool Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1229,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Uth jao, din bula raha hai",
+      "type": "text"
+    }
+  ]
+}

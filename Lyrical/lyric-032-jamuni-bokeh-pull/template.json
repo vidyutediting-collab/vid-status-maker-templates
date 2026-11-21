@@ -1,0 +1,17 @@
+{
+  "id": "lyric-032-jamuni-bokeh-pull",
+  "name": "Lyrical 32 - Jamuni Bokeh Pull",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1220,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mohabbat ka sargam",
+      "type": "text"
+    }
+  ]
+}

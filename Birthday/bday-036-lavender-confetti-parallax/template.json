@@ -1,0 +1,23 @@
+{
+  "id": "bday-036-lavender-confetti-parallax",
+  "name": "Birthday 36 - Lavender Confetti Parallax",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1249,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dua hai tum yu hi chamakte raho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bday-037-lavender-barf-polaroid",
+  "name": "Birthday 37 - Lavender Barf Polaroid",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1256,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bhagwan aapko lambi umar de",
+      "type": "text"
+    }
+  ]
+}

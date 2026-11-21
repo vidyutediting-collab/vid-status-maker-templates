@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-035-purana-pankhudi-pan-left",
+  "name": "Devotional 35 - Purana Pankhudi Pan Left",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1240,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Om Shanti Shanti Shanti",
+      "type": "text"
+    }
+  ]
+}

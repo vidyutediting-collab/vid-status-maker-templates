@@ -1,0 +1,23 @@
+{
+  "id": "bday-032-savera-banner-saans",
+  "name": "Birthday 32 - Savera Banner Saans",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1221,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tumhari hasi sab se pyaari",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

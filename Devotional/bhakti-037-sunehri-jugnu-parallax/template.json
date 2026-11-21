@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-037-sunehri-jugnu-parallax",
+  "name": "Devotional 37 - Sunehri Jugnu Parallax",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1254,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय श्री राम",
+      "type": "text"
+    }
+  ]
+}

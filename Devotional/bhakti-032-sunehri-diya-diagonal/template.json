@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-032-sunehri-diya-diagonal",
+  "name": "Devotional 32 - Sunehri Diya Diagonal",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1219,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mahadev ki sharan mein sukoon",
+      "type": "text"
+    }
+  ]
+}

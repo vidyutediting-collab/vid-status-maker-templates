@@ -1,0 +1,17 @@
+{
+  "id": "lyric-040-rangeen-sur-jhoola",
+  "name": "Lyrical 40 - Rangeen Sur Jhoola",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1276,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dard bhi ek geet hai",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-037-cine-dhool-card",
+  "name": "Lyrical 37 - Cine Dhool Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1255,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sanson mein teri raagini",
+      "type": "text"
+    }
+  ]
+}

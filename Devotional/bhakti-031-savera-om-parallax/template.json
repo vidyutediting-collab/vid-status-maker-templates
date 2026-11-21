@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-031-savera-om-parallax",
+  "name": "Devotional 31 - Savera Om Parallax",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1212,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har Har Mahadev",
+      "type": "text"
+    }
+  ]
+}

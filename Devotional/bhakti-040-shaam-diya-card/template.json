@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-040-shaam-diya-card",
+  "name": "Devotional 40 - Shaam Diya Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1275,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har din shubh ho Ram ji ke naam se",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-034-pudina-panchhi-pull",
+  "name": "Good Morning 34 - Pudina Panchhi Pull",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1236,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek pyaali chai, ek pyaari subah",
+      "type": "text"
+    }
+  ]
+}

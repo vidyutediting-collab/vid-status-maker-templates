@@ -1,0 +1,17 @@
+{
+  "id": "gm-031-fika-pankhudi-jhoola",
+  "name": "Good Morning 31 - Fika Pankhudi Jhoola",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1215,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chai ki chuski, din ki shuruaat",
+      "type": "text"
+    }
+  ]
+}

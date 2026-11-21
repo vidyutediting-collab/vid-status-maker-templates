@@ -1,0 +1,17 @@
+{
+  "id": "quote-039-neela-chamak-card",
+  "name": "Quotes 39 - Neela Chamak Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1272,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Koshish karne walon ki kabhi haar nahi",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-035-sunehri-panchhi-zoom",
+  "name": "Good Morning 35 - Sunehri Panchhi Zoom",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1243,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah subah bas khush raho",
+      "type": "text"
+    }
+  ]
+}

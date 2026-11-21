@@ -1,0 +1,17 @@
+{
+  "id": "sad-036-noir-pankhudi-fall",
+  "name": "Sad 36 - Noir Pankhudi Fall",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1246,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bichhad ke bhi tera hi naam",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bday-040-savera-confetti-saans",
+  "name": "Birthday 40 - Savera Confetti Saans",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1277,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Janamdin Mubarak ho!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

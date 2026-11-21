@@ -1,0 +1,23 @@
+{
+  "id": "bday-034-rangeen-banner-card",
+  "name": "Birthday 34 - Rangeen Banner Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1235,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tumhare bina party adhoori",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

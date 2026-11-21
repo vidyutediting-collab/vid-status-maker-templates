@@ -1,0 +1,17 @@
+{
+  "id": "quote-035-sunehri-bokeh-zoom",
+  "name": "Quotes 35 - Sunehri Bokeh Zoom",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1244,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Seedhi baat, saaf dil",
+      "type": "text"
+    }
+  ]
+}

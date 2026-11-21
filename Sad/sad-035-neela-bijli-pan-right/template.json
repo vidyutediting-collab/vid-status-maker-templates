@@ -1,0 +1,17 @@
+{
+  "id": "sad-035-neela-bijli-pan-right",
+  "name": "Sad 35 - Neela Bijli Pan Right",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1239,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt hi sab ka haal batata hai",
+      "type": "text"
+    }
+  ]
+}

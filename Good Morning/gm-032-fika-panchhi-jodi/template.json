@@ -1,0 +1,17 @@
+{
+  "id": "gm-032-fika-panchhi-jodi",
+  "name": "Good Morning 32 - Fika Panchhi Jodi",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1222,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Fresh subah, fresh vichaar",
+      "type": "text"
+    }
+  ]
+}

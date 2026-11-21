@@ -1,0 +1,17 @@
+{
+  "id": "sad-038-fika-barish-diagonal",
+  "name": "Sad 38 - Fika Barish Diagonal",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1260,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Barish mein bhi aansu chhup jaate hain",
+      "type": "text"
+    }
+  ]
+}

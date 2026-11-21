@@ -1,0 +1,17 @@
+{
+  "id": "lyric-039-gulabi-taare-pan-left",
+  "name": "Lyrical 39 - Gulabi Taare Pan Left",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1269,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dhadkanon ka sangeet suno",
+      "type": "text"
+    }
+  ]
+}

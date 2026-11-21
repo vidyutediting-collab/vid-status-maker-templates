@@ -1,0 +1,17 @@
+{
+  "id": "sad-031-dhundh-barf-parallax",
+  "name": "Sad 31 - Dhundh Barf Parallax",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1211,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chup hu, par khush nahi",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gm-036-lavender-bokeh-split",
+  "name": "Good Morning 36 - Lavender Bokeh Split",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1250,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Suraj nikla, gham bhaga",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

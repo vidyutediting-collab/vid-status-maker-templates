@@ -1,0 +1,23 @@
+{
+  "id": "quote-036-neela-chamak-trio",
+  "name": "Quotes 36 - Neela Chamak Trio",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1251,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Wahi jeetta hai jo chalta hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

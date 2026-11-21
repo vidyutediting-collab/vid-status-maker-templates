@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-033-purana-jugnu-rise",
+  "name": "Devotional 33 - Purana Jugnu Rise",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1226,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Maa Vaishno",
+      "type": "text"
+    }
+  ]
+}

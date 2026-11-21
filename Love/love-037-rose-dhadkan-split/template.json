@@ -1,0 +1,23 @@
+{
+  "id": "love-037-rose-dhadkan-split",
+  "name": "Love 37 - Rose Dhadkan Split",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1252,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ne tujhe chuna hai",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Babu",
+      "type": "text"
+    }
+  ]
+}

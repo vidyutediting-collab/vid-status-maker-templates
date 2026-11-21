@@ -1,0 +1,17 @@
+{
+  "id": "lyric-034-rangeen-sur-pan-right",
+  "name": "Lyrical 34 - Rangeen Sur Pan Right",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1234,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Piya ki dhun mein",
+      "type": "text"
+    }
+  ]
+}

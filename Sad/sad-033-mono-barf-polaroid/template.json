@@ -1,0 +1,17 @@
+{
+  "id": "sad-033-mono-barf-polaroid",
+  "name": "Sad 33 - Mono Barf Polaroid",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1225,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Wo mod jahan hum bichhde",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gm-040-pudina-pankhudi-saans",
+  "name": "Good Morning 40 - Pudina Pankhudi Saans",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1278,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka din khushiyon wala ho",
+      "type": "text"
+    }
+  ]
+}

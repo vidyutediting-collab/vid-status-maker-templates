@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-038-jamuni-pankhudi-saans",
+  "name": "Devotional 38 - Jamuni Pankhudi Saans",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1261,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Shri Radhe",
+      "type": "text"
+    }
+  ]
+}

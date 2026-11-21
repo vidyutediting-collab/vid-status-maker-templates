@@ -1,0 +1,17 @@
+{
+  "id": "love-032-rangeen-chamak-pan-right",
+  "name": "Love 32 - Rangeen Chamak Pan Right",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1217,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raat ka chand, tu mera",
+      "type": "text"
+    }
+  ]
+}

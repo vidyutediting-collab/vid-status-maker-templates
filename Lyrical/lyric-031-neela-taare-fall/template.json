@@ -1,0 +1,17 @@
+{
+  "id": "lyric-031-neela-taare-fall",
+  "name": "Lyrical 31 - Neela Taare Fall",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1213,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere naam ki taan",
+      "type": "text"
+    }
+  ]
+}

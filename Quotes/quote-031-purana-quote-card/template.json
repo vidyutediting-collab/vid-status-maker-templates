@@ -1,0 +1,17 @@
+{
+  "id": "quote-031-purana-quote-card",
+  "name": "Quotes 31 - Purana Quote Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1216,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt sab sikha deta hai",
+      "type": "text"
+    }
+  ]
+}

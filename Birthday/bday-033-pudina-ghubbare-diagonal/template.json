@@ -1,0 +1,23 @@
+{
+  "id": "bday-033-pudina-ghubbare-diagonal",
+  "name": "Birthday 33 - Pudina Ghubbare Diagonal",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1228,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khushiyon ki barsaat ho aaj",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

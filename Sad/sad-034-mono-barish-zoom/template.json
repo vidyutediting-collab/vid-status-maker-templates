@@ -1,0 +1,17 @@
+{
+  "id": "sad-034-mono-barish-zoom",
+  "name": "Sad 34 - Mono Barish Zoom",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1232,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Toota hua dil kuch nahi kehta",
+      "type": "text"
+    }
+  ]
+}

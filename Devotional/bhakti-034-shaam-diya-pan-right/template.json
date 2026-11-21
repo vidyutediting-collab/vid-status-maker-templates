@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-034-shaam-diya-pan-right",
+  "name": "Devotional 34 - Shaam Diya Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1233,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Jai Shiv Shankar",
+      "type": "text"
+    }
+  ]
+}

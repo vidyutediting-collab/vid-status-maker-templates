@@ -1,0 +1,17 @@
+{
+  "id": "lyric-036-shaam-bokeh-polaroid",
+  "name": "Lyrical 36 - Shaam Bokeh Polaroid",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1248,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Taaron ke saath gaata hu",
+      "type": "text"
+    }
+  ]
+}

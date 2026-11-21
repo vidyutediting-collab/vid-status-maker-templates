@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-039-angaar-diya-split",
+  "name": "Devotional 39 - Angaar Diya Split",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1268,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sab par meherbaan Mahadev",
+      "type": "text"
+    }
+  ]
+}

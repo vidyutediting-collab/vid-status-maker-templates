@@ -1,0 +1,23 @@
+{
+  "id": "bday-031-taaza-ghubbare-card",
+  "name": "Birthday 31 - Taaza Ghubbare Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1214,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum ho to har din khaas",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

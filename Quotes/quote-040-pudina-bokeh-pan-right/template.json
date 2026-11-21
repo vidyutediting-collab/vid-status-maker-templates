@@ -1,0 +1,23 @@
+{
+  "id": "quote-040-pudina-bokeh-pan-right",
+  "name": "Quotes 40 - Pudina Bokeh Pan Right",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1279,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil saaf, to sab saaf",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bday-035-rangeen-banner-polaroid",
+  "name": "Birthday 35 - Rangeen Banner Polaroid",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1242,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gift se zyada tumhara saath",
+      "type": "text"
+    }
+  ]
+}

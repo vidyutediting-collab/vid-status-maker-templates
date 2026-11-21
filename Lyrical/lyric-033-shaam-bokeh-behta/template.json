@@ -1,0 +1,17 @@
+{
+  "id": "lyric-033-shaam-bokeh-behta",
+  "name": "Lyrical 33 - Shaam Bokeh Behta",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1227,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki playlist mein tu",
+      "type": "text"
+    }
+  ]
+}

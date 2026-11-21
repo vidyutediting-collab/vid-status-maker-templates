@@ -1,0 +1,17 @@
+{
+  "id": "gm-038-sunehri-bokeh-beat",
+  "name": "Good Morning 38 - Sunehri Bokeh Beat",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1264,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har din ek tohfa hai",
+      "type": "text"
+    }
+  ]
+}

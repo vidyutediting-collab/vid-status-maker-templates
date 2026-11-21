@@ -1,0 +1,17 @@
+{
+  "id": "lyric-038-jamuni-chamak-split",
+  "name": "Lyrical 38 - Jamuni Chamak Split",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1262,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tune chheda jo saaz dil ka",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-038-dhundh-dhool-zoom",
+  "name": "Quotes 38 - Dhundh Dhool Zoom",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1265,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo bhi karo, dil se karo",
+      "type": "text"
+    }
+  ]
+}

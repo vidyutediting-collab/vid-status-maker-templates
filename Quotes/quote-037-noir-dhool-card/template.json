@@ -1,0 +1,23 @@
+{
+  "id": "quote-037-noir-dhool-card",
+  "name": "Quotes 37 - Noir Dhool Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1258,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hasi sabse sundar gehna",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

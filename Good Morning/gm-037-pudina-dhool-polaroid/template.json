@@ -1,0 +1,17 @@
+{
+  "id": "gm-037-pudina-dhool-polaroid",
+  "name": "Good Morning 37 - Pudina Dhool Polaroid",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1257,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Taazgi bhari subah mubarak",
+      "type": "text"
+    }
+  ]
+}

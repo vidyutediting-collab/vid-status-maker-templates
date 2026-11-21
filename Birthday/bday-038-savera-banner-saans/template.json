@@ -1,0 +1,17 @@
+{
+  "id": "bday-038-savera-banner-saans",
+  "name": "Birthday 38 - Savera Banner Saans",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1263,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jeete raho, muskurate raho",
+      "type": "text"
+    }
+  ]
+}
