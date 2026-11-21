@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-012-shaam-diya-saans",
+  "name": "Devotional 12 - Shaam Diya Saans",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1079,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hanuman ji sab sankat harein",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-020-purana-kohra-pan-left",
+  "name": "Sad 20 - Purana Kohra Pan Left",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1134,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil ki baat dil mein reh gayi",
+      "type": "text"
+    }
+  ]
+}

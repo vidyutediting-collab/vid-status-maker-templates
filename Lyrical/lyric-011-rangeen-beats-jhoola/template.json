@@ -1,0 +1,17 @@
+{
+  "id": "lyric-011-rangeen-beats-jhoola",
+  "name": "Lyrical 11 - Rangeen Beats Jhoola",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1073,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu meri dhun, tu mera geet",
+      "type": "text"
+    }
+  ]
+}

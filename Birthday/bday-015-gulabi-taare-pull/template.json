@@ -1,0 +1,23 @@
+{
+  "id": "bday-015-gulabi-taare-pull",
+  "name": "Birthday 15 - Gulabi Taare Pull",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1102,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Party shuru, mood on!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Bhai",
+      "type": "text"
+    }
+  ]
+}

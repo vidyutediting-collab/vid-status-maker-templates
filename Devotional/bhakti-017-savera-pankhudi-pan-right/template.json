@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-017-savera-pankhudi-pan-right",
+  "name": "Devotional 17 - Savera Pankhudi Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1114,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sab kuch uski marzi se",
+      "type": "text"
+    }
+  ]
+}

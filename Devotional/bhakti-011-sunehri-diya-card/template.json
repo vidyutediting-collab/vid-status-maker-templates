@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-011-sunehri-diya-card",
+  "name": "Devotional 11 - Sunehri Diya Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1072,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "राधे राधे",
+      "type": "text"
+    }
+  ]
+}

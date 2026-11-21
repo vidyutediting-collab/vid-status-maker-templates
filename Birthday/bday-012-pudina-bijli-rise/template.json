@@ -1,0 +1,23 @@
+{
+  "id": "bday-012-pudina-bijli-rise",
+  "name": "Birthday 12 - Pudina Bijli Rise",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1081,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jashn ka mausam aa gaya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

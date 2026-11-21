@@ -1,0 +1,17 @@
+{
+  "id": "lyric-015-cine-sur-parallax",
+  "name": "Lyrical 15 - Cine Sur Parallax",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1101,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina geet adhoora",
+      "type": "text"
+    }
+  ]
+}

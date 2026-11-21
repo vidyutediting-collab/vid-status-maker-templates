@@ -1,0 +1,23 @@
+{
+  "id": "gm-018-lavender-chamak-card",
+  "name": "Good Morning 18 - Lavender Chamak Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1124,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shubh Prabhat",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aap",
+      "type": "text"
+    }
+  ]
+}

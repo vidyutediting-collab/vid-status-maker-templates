@@ -1,0 +1,23 @@
+{
+  "id": "love-017-rangeen-pankhudi-fall",
+  "name": "Love 17 - Rangeen Pankhudi Fall",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1112,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har pal tere saath ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Babu",
+      "type": "text"
+    }
+  ]
+}

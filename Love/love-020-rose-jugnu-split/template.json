@@ -1,0 +1,23 @@
+{
+  "id": "love-020-rose-jugnu-split",
+  "name": "Love 20 - Rose Jugnu Split",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1133,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu meri aadat ban gayi",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

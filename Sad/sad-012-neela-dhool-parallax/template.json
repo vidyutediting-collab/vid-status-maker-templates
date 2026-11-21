@@ -1,0 +1,17 @@
+{
+  "id": "sad-012-neela-dhool-parallax",
+  "name": "Sad 12 - Neela Dhool Parallax",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1078,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina sab sunsaan hai",
+      "type": "text"
+    }
+  ]
+}

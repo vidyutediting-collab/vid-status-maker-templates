@@ -1,0 +1,23 @@
+{
+  "id": "bday-014-rangeen-confetti-behta",
+  "name": "Birthday 14 - Rangeen Confetti Behta",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1095,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Happy Birthday, superstar!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

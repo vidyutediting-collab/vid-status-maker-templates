@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-013-shaam-pankhudi-behta",
+  "name": "Devotional 13 - Shaam Pankhudi Behta",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1086,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Shri Krishna",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-018-shaam-lehar-zoom",
+  "name": "Lyrical 18 - Shaam Lehar Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1122,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Repeat pe teri yaad",
+      "type": "text"
+    }
+  ]
+}

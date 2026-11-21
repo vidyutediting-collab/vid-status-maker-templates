@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-014-sunehri-dhool-polaroid",
+  "name": "Devotional 14 - Sunehri Dhool Polaroid",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1093,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "ॐ नमः शिवाय",
+      "type": "text"
+    }
+  ]
+}

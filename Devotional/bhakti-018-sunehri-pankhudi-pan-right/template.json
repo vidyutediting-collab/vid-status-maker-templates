@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-018-sunehri-pankhudi-pan-right",
+  "name": "Devotional 18 - Sunehri Pankhudi Pan Right",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1121,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kaal bhi jhuke Mahakal ke aage",
+      "type": "text"
+    }
+  ]
+}

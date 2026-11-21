@@ -1,0 +1,17 @@
+{
+  "id": "love-019-rose-bokeh-card",
+  "name": "Love 19 - Rose Bokeh Card",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1126,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tujhse milke dil ko chain mila",
+      "type": "text"
+    }
+  ]
+}

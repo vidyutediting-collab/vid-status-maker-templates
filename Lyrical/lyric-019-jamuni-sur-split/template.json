@@ -1,0 +1,17 @@
+{
+  "id": "lyric-019-jamuni-sur-split",
+  "name": "Lyrical 19 - Jamuni Sur Split",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1129,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bheegi raaton ka sangeet",
+      "type": "text"
+    }
+  ]
+}

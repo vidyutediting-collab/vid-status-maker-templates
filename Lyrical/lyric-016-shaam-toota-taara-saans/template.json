@@ -1,0 +1,17 @@
+{
+  "id": "lyric-016-shaam-toota-taara-saans",
+  "name": "Lyrical 16 - Shaam Toota Taara Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1108,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Raag naya, jazba purana",
+      "type": "text"
+    }
+  ]
+}

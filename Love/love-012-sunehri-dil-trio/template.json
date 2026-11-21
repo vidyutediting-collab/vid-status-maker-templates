@@ -1,0 +1,17 @@
+{
+  "id": "love-012-sunehri-dil-trio",
+  "name": "Love 12 - Sunehri Dil Trio",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1077,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere liye sab kuch haar du",
+      "type": "text"
+    }
+  ]
+}

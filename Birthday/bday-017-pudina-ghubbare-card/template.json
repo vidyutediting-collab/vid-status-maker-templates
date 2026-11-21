@@ -1,0 +1,23 @@
+{
+  "id": "bday-017-pudina-ghubbare-card",
+  "name": "Birthday 17 - Pudina Ghubbare Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1116,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dher saari duayein aapke liye",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

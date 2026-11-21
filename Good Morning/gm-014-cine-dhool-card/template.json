@@ -1,0 +1,17 @@
+{
+  "id": "gm-014-cine-dhool-card",
+  "name": "Good Morning 14 - Cine Dhool Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1096,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ki pehli kiran mubarak",
+      "type": "text"
+    }
+  ]
+}

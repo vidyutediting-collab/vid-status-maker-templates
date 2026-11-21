@@ -1,0 +1,17 @@
+{
+  "id": "sad-014-pudina-barish-stack",
+  "name": "Sad 14 - Pudina Barish Stack",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1092,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tanhai ki aadat ho gayi",
+      "type": "text"
+    }
+  ]
+}

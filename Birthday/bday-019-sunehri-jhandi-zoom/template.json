@@ -1,0 +1,23 @@
+{
+  "id": "bday-019-sunehri-jhandi-zoom",
+  "name": "Birthday 19 - Sunehri Jhandi Zoom",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1130,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Muskurahat kabhi kam na ho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Mere Yaar",
+      "type": "text"
+    }
+  ]
+}

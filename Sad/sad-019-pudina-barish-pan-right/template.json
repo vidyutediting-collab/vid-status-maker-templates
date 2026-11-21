@@ -1,0 +1,17 @@
+{
+  "id": "sad-019-pudina-barish-pan-right",
+  "name": "Sad 19 - Pudina Barish Pan Right",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1127,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Alvida kehna mushkil tha",
+      "type": "text"
+    }
+  ]
+}

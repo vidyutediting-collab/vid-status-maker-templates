@@ -1,0 +1,23 @@
+{
+  "id": "love-013-rangeen-dhool-rise",
+  "name": "Love 13 - Rangeen Dhool Rise",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1084,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere bina din adhoora",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bday-013-rangeen-ghubbare-parallax",
+  "name": "Birthday 13 - Rangeen Ghubbare Parallax",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1088,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Hamesha hasate raho",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

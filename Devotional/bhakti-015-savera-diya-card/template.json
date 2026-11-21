@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-015-savera-diya-card",
+  "name": "Devotional 15 - Savera Diya Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1100,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय बजरंगबली",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-015-mono-chamak-zoom",
+  "name": "Quotes 15 - Mono Chamak Zoom",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1104,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tum ho apni taqdeer ke malik",
+      "type": "text"
+    }
+  ]
+}

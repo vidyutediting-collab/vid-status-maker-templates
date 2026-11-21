@@ -1,0 +1,17 @@
+{
+  "id": "gm-016-taaza-pankhudi-rise",
+  "name": "Good Morning 16 - Taaza Pankhudi Rise",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1110,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ki chai aur aapki yaad",
+      "type": "text"
+    }
+  ]
+}

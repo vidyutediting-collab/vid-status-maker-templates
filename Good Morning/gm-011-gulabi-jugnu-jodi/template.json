@@ -1,0 +1,17 @@
+{
+  "id": "gm-011-gulabi-jugnu-jodi",
+  "name": "Good Morning 11 - Gulabi Jugnu Jodi",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1075,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Din ki shuruaat khushi se",
+      "type": "text"
+    }
+  ]
+}

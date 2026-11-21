@@ -1,0 +1,17 @@
+{
+  "id": "sad-018-pudina-barish-rise",
+  "name": "Sad 18 - Pudina Barish Rise",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1120,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sapne tootne ke liye hi hote hain",
+      "type": "text"
+    }
+  ]
+}

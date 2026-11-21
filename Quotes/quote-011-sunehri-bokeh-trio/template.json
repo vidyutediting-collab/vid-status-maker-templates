@@ -1,0 +1,23 @@
+{
+  "id": "quote-011-sunehri-bokeh-trio",
+  "name": "Quotes 11 - Sunehri Bokeh Trio",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1076,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt ki kadar karo",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

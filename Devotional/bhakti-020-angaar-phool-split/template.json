@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-020-angaar-phool-split",
+  "name": "Devotional 20 - Angaar Phool Split",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1135,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bhole ki baraat nirali",
+      "type": "text"
+    }
+  ]
+}

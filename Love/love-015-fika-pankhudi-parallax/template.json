@@ -1,0 +1,23 @@
+{
+  "id": "love-015-fika-pankhudi-parallax",
+  "name": "Love 15 - Fika Pankhudi Parallax",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1098,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har dhadkan mein tera naam",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

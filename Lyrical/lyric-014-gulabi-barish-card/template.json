@@ -1,0 +1,17 @@
+{
+  "id": "lyric-014-gulabi-barish-card",
+  "name": "Lyrical 14 - Gulabi Barish Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1094,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gungunaa raha hu tera naam",
+      "type": "text"
+    }
+  ]
+}

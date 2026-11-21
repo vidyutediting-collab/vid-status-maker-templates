@@ -1,0 +1,17 @@
+{
+  "id": "sad-017-shaam-barish-jodi",
+  "name": "Sad 17 - Shaam Barish Jodi",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1113,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khushiyan mujhse rooth gayi",
+      "type": "text"
+    }
+  ]
+}

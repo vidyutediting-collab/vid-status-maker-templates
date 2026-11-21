@@ -1,0 +1,17 @@
+{
+  "id": "love-014-fika-pankhudi-saans",
+  "name": "Love 14 - Fika Pankhudi Saans",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1091,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere sang har lamha khaas",
+      "type": "text"
+    }
+  ]
+}

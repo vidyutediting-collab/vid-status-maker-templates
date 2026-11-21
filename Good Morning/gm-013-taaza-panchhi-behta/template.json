@@ -1,0 +1,17 @@
+{
+  "id": "gm-013-taaza-panchhi-behta",
+  "name": "Good Morning 13 - Taaza Panchhi Behta",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1089,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Roz ek nayi shuruaat",
+      "type": "text"
+    }
+  ]
+}

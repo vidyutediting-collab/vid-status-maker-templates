@@ -1,0 +1,17 @@
+{
+  "id": "quote-012-noir-film-beat",
+  "name": "Quotes 12 - Noir Film Beat",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1083,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sab kuch milega, bas sabr rakho",
+      "type": "text"
+    }
+  ]
+}

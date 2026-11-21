@@ -1,0 +1,23 @@
+{
+  "id": "lyric-020-shaam-bokeh-stack",
+  "name": "Lyrical 20 - Shaam Bokeh Stack",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1136,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mere geet mein tu hi tu",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Singer",
+      "type": "text"
+    }
+  ]
+}

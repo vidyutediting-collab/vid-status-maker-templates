@@ -1,0 +1,17 @@
+{
+  "id": "gm-017-sunehri-panchhi-card",
+  "name": "Good Morning 17 - Sunehri Panchhi Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1117,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aapko Good Morning ka pyaar",
+      "type": "text"
+    }
+  ]
+}

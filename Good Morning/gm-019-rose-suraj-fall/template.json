@@ -1,0 +1,23 @@
+{
+  "id": "gm-019-rose-suraj-fall",
+  "name": "Good Morning 19 - Rose Suraj Fall",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1131,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sunehri subah, sunehre sapne",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-016-shaam-dhool-card",
+  "name": "Devotional 16 - Shaam Dhool Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1107,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "जय माता दी",
+      "type": "text"
+    }
+  ]
+}

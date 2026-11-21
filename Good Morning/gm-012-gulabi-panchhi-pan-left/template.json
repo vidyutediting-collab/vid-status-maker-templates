@@ -1,0 +1,17 @@
+{
+  "id": "gm-012-gulabi-panchhi-pan-left",
+  "name": "Good Morning 12 - Gulabi Panchhi Pan Left",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1082,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Good Morning, aaj ka din tumhara",
+      "type": "text"
+    }
+  ]
+}

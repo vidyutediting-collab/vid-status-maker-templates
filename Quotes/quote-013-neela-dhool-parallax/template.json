@@ -1,0 +1,17 @@
+{
+  "id": "quote-013-neela-dhool-parallax",
+  "name": "Quotes 13 - Neela Dhool Parallax",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1090,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chhoti baatein bade farak laati hain",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quote-016-mono-taare-diagonal",
+  "name": "Quotes 16 - Mono Taare Diagonal",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1111,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dusron se pehle khud ko jeeto",
+      "type": "text"
+    }
+  ]
+}

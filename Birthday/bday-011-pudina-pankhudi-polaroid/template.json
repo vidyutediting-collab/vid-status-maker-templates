@@ -1,0 +1,17 @@
+{
+  "id": "bday-011-pudina-pankhudi-polaroid",
+  "name": "Birthday 11 - Pudina Pankhudi Polaroid",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1074,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Happy Birthday meri jaan",
+      "type": "text"
+    }
+  ]
+}

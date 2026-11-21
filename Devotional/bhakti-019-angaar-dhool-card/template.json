@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-019-angaar-dhool-card",
+  "name": "Devotional 19 - Angaar Dhool Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1128,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bhakti mein hi shakti hai",
+      "type": "text"
+    }
+  ]
+}

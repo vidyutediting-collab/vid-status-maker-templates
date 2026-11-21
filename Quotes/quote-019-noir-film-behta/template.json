@@ -1,0 +1,17 @@
+{
+  "id": "quote-019-noir-film-behta",
+  "name": "Quotes 19 - Noir Film Behta",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1132,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Apno ki kadar karo",
+      "type": "text"
+    }
+  ]
+}

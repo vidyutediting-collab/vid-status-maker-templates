@@ -1,0 +1,17 @@
+{
+  "id": "gm-020-sona-bokeh-card",
+  "name": "Good Morning 20 - Sona Bokeh Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1138,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Panchhi chahke, subah mehke",
+      "type": "text"
+    }
+  ]
+}

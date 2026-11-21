@@ -1,0 +1,17 @@
+{
+  "id": "quote-018-neela-bokeh-fall",
+  "name": "Quotes 18 - Neela Bokeh Fall",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1125,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sabr ka phal meetha hota hai",
+      "type": "text"
+    }
+  ]
+}

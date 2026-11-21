@@ -1,0 +1,17 @@
+{
+  "id": "sad-013-raat-bijli-split",
+  "name": "Sad 13 - Raat Bijli Split",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1085,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tere jaane ke baad sab badal gaya",
+      "type": "text"
+    }
+  ]
+}

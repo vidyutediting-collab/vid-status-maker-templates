@@ -1,0 +1,17 @@
+{
+  "id": "lyric-013-cine-bokeh-jodi",
+  "name": "Lyrical 13 - Cine Bokeh Jodi",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1087,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek ghazal tere naam ki",
+      "type": "text"
+    }
+  ]
+}
