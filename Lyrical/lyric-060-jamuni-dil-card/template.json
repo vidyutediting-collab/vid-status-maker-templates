@@ -1,0 +1,17 @@
+{
+  "id": "lyric-060-jamuni-dil-card",
+  "name": "Lyrical 60 - Jamuni Dil Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1416,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sunn zara, dil kya gaata hai",
+      "type": "text"
+    }
+  ]
+}

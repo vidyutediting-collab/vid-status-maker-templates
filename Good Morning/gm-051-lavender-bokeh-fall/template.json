@@ -1,0 +1,17 @@
+{
+  "id": "gm-051-lavender-bokeh-fall",
+  "name": "Good Morning 51 - Lavender Bokeh Fall",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1355,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Har subah ek naya mauka",
+      "type": "text"
+    }
+  ]
+}

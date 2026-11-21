@@ -1,0 +1,23 @@
+{
+  "id": "bday-056-gulabi-ghubbare-rise",
+  "name": "Birthday 56 - Gulabi Ghubbare Rise",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 3,
+  "order": 1389,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bade ho gaye, par bachpana na jaaye",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

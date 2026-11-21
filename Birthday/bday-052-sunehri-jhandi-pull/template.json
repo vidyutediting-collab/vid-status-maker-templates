@@ -1,0 +1,23 @@
+{
+  "id": "bday-052-sunehri-jhandi-pull",
+  "name": "Birthday 52 - Sunehri Jhandi Pull",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1361,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj ka din sirf tumhara",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bday-051-gulabi-banner-card",
+  "name": "Birthday 51 - Gulabi Banner Card",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1354,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shubh Janamdin, dher sara pyar",
+      "type": "text"
+    }
+  ]
+}

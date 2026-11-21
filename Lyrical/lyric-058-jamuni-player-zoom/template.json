@@ -1,0 +1,17 @@
+{
+  "id": "lyric-058-jamuni-player-zoom",
+  "name": "Lyrical 58 - Jamuni Player Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 3,
+  "order": 1402,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Khayalon mein teri sargam",
+      "type": "text"
+    }
+  ]
+}

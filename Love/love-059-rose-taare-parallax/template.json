@@ -1,0 +1,23 @@
+{
+  "id": "love-059-rose-taare-parallax",
+  "name": "Love 59 - Rose Taare Parallax",
+  "cat": [
+    "Love"
+  ],
+  "slots": 3,
+  "order": 1406,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Mohabbat ka matlab tu",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Sona",
+      "type": "text"
+    }
+  ]
+}

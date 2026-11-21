@@ -1,0 +1,23 @@
+{
+  "id": "gm-052-lavender-suraj-parallax",
+  "name": "Good Morning 52 - Lavender Suraj Parallax",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1362,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ka suraj naya jazba laaye",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aap",
+      "type": "text"
+    }
+  ]
+}

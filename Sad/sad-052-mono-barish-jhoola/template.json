@@ -1,0 +1,17 @@
+{
+  "id": "sad-052-mono-barish-jhoola",
+  "name": "Sad 52 - Mono Barish Jhoola",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1358,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Bheegi palkein, sooni raatein",
+      "type": "text"
+    }
+  ]
+}

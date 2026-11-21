@@ -1,0 +1,17 @@
+{
+  "id": "gm-058-gulabi-chamak-fall",
+  "name": "Good Morning 58 - Gulabi Chamak Fall",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1404,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah subah teri yaad aayi",
+      "type": "text"
+    }
+  ]
+}

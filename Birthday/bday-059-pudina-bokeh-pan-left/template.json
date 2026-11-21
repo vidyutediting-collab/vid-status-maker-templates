@@ -1,0 +1,23 @@
+{
+  "id": "bday-059-pudina-bokeh-pan-left",
+  "name": "Birthday 59 - Pudina Bokeh Pan Left",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1410,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Zindagi ki har khushi tumhe mile",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

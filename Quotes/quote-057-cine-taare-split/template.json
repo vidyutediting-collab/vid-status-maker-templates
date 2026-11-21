@@ -1,0 +1,23 @@
+{
+  "id": "quote-057-cine-taare-split",
+  "name": "Quotes 57 - Cine Taare Split",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1398,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo darr gaya, wo reh gaya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

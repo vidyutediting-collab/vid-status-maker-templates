@@ -1,0 +1,23 @@
+{
+  "id": "quote-058-fika-film-pan-left",
+  "name": "Quotes 58 - Fika Film Pan Left",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1405,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo thak gaya wo ruk gaya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

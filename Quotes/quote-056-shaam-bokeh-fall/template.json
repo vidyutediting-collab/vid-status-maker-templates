@@ -1,0 +1,17 @@
+{
+  "id": "quote-056-shaam-bokeh-fall",
+  "name": "Quotes 56 - Shaam Bokeh Fall",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1391,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Rishte nibhane padte hain",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-058-shaam-pankhudi-pan-left",
+  "name": "Devotional 58 - Shaam Pankhudi Pan Left",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1401,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shiv hi satya, shiv hi sundar",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sad-059-neela-jugnu-polaroid",
+  "name": "Sad 59 - Neela Jugnu Polaroid",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1407,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Yaadein reh gayi, tum nahi",
+      "type": "text"
+    }
+  ]
+}

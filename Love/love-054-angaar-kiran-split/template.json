@@ -1,0 +1,23 @@
+{
+  "id": "love-054-angaar-kiran-split",
+  "name": "Love 54 - Angaar Kiran Split",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1371,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Meri jaan, meri duniya",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

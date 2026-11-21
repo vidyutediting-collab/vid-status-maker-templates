@@ -1,0 +1,17 @@
+{
+  "id": "love-058-shaam-dil-card",
+  "name": "Love 58 - Shaam Dil Card",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1399,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tujhse shuru, tujhpe khatam",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-053-purana-phool-rise",
+  "name": "Devotional 53 - Purana Phool Rise",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1366,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Maa Lakshmi ki kripa bani rahe",
+      "type": "text"
+    }
+  ]
+}

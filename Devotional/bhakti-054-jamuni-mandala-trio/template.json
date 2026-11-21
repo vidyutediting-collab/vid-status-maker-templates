@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-054-jamuni-mandala-trio",
+  "name": "Devotional 54 - Jamuni Mandala Trio",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 3,
+  "order": 1373,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Om Namah Shivaya",
+      "type": "text"
+    }
+  ]
+}

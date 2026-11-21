@@ -1,0 +1,17 @@
+{
+  "id": "quote-051-shaam-chamak-parallax",
+  "name": "Quotes 51 - Shaam Chamak Parallax",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 3,
+  "order": 1356,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj se behtar kal banao",
+      "type": "text"
+    }
+  ]
+}

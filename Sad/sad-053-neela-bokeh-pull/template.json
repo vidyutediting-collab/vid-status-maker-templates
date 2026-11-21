@@ -1,0 +1,17 @@
+{
+  "id": "sad-053-neela-bokeh-pull",
+  "name": "Sad 53 - Neela Bokeh Pull",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 1,
+  "order": 1365,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aankhein nam, dil bhaari",
+      "type": "text"
+    }
+  ]
+}

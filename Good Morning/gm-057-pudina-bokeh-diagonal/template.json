@@ -1,0 +1,17 @@
+{
+  "id": "gm-057-pudina-bokeh-diagonal",
+  "name": "Good Morning 57 - Pudina Bokeh Diagonal",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 3,
+  "order": 1397,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naya savera, naya iraada",
+      "type": "text"
+    }
+  ]
+}

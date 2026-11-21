@@ -1,0 +1,23 @@
+{
+  "id": "lyric-056-dhundh-bokeh-rise",
+  "name": "Lyrical 56 - Dhundh Bokeh Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1388,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Lori si teri awaaz",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Singer",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "love-060-lavender-pankhudi-pan-right",
+  "name": "Love 60 - Lavender Pankhudi Pan Right",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1413,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Kismat ne milaya tujhse",
+      "type": "text"
+    }
+  ]
+}

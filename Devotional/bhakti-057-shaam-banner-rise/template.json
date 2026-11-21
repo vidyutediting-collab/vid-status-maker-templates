@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-057-shaam-banner-rise",
+  "name": "Devotional 57 - Shaam Banner Rise",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1394,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Jagannath",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-052-purana-diya-beat",
+  "name": "Devotional 52 - Purana Diya Beat",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1359,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Prabhu par bharosa rakho",
+      "type": "text"
+    }
+  ]
+}

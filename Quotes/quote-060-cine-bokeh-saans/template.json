@@ -1,0 +1,17 @@
+{
+  "id": "quote-060-cine-bokeh-saans",
+  "name": "Quotes 60 - Cine Bokeh Saans",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1419,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo hua achha hua",
+      "type": "text"
+    }
+  ]
+}

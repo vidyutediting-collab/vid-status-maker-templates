@@ -1,0 +1,23 @@
+{
+  "id": "bday-055-savera-banner-pull",
+  "name": "Birthday 55 - Savera Banner Pull",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 2,
+  "order": 1382,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek aur saal, ek aur kamaal",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

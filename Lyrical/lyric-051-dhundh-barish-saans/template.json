@@ -1,0 +1,17 @@
+{
+  "id": "lyric-051-dhundh-barish-saans",
+  "name": "Lyrical 51 - Dhundh Barish Saans",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1353,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Taal pe taal, dil ka haal",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lyric-055-raat-bokeh-card",
+  "name": "Lyrical 55 - Raat Bokeh Card",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1381,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Baarish ki boondon mein teri taal",
+      "type": "text"
+    }
+  ]
+}

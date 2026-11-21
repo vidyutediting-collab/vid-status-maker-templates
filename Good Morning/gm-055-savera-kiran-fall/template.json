@@ -1,0 +1,17 @@
+{
+  "id": "gm-055-savera-kiran-fall",
+  "name": "Good Morning 55 - Savera Kiran Fall",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1383,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Shaant subah, sundar din",
+      "type": "text"
+    }
+  ]
+}

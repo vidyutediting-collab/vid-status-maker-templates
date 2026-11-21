@@ -1,0 +1,17 @@
+{
+  "id": "quote-055-neela-film-beat",
+  "name": "Quotes 55 - Neela Film Beat",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 2,
+  "order": 1384,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sabse badi daulat sehat hai",
+      "type": "text"
+    }
+  ]
+}

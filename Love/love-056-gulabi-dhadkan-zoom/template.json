@@ -1,0 +1,17 @@
+{
+  "id": "love-056-gulabi-dhadkan-zoom",
+  "name": "Love 56 - Gulabi Dhadkan Zoom",
+  "cat": [
+    "Love"
+  ],
+  "slots": 1,
+  "order": 1385,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri muskaan meri jeet",
+      "type": "text"
+    }
+  ]
+}

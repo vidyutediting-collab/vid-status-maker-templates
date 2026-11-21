@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-059-shaam-chamak-card",
+  "name": "Devotional 59 - Shaam Chamak Card",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1408,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jai Bholenath",
+      "type": "text"
+    }
+  ]
+}

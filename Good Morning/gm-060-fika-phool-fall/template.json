@@ -1,0 +1,17 @@
+{
+  "id": "gm-060-fika-phool-fall",
+  "name": "Good Morning 60 - Fika Phool Fall",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 2,
+  "order": 1418,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Din ki shuruaat khushi se",
+      "type": "text"
+    }
+  ]
+}

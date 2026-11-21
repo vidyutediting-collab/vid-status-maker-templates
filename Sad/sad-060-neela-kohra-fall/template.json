@@ -1,0 +1,23 @@
+{
+  "id": "sad-060-neela-kohra-fall",
+  "name": "Sad 60 - Neela Kohra Fall",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1414,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Muskurata hu par andar se toota hu",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Kisi Ke Liye",
+      "type": "text"
+    }
+  ]
+}

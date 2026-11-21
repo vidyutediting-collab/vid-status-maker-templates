@@ -1,0 +1,17 @@
+{
+  "id": "lyric-054-dhundh-dil-jhoola",
+  "name": "Lyrical 54 - Dhundh Dil Jhoola",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1374,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Lafz kam par ehsaas gehre",
+      "type": "text"
+    }
+  ]
+}

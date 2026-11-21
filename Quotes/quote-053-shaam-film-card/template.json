@@ -1,0 +1,23 @@
+{
+  "id": "quote-053-shaam-film-card",
+  "name": "Quotes 53 - Shaam Film Card",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1370,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Chhoti khushiyon ko bada banao",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Anonymous",
+      "type": "text"
+    }
+  ]
+}

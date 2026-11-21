@@ -1,0 +1,23 @@
+{
+  "id": "love-055-rangeen-bokeh-beat",
+  "name": "Love 55 - Rangeen Bokeh Beat",
+  "cat": [
+    "Love"
+  ],
+  "slots": 2,
+  "order": 1378,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Dil se dil tak tera safar",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Jaan",
+      "type": "text"
+    }
+  ]
+}

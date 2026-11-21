@@ -1,0 +1,23 @@
+{
+  "id": "gm-056-savera-chamak-fall",
+  "name": "Good Morning 56 - Savera Chamak Fall",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1390,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ye subah sirf tumhare liye",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Aap",
+      "type": "text"
+    }
+  ]
+}

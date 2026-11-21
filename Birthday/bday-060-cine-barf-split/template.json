@@ -1,0 +1,23 @@
+{
+  "id": "bday-060-cine-barf-split",
+  "name": "Birthday 60 - Cine Barf Split",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1417,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Aaj tumhara din hai, mauj karo",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Dost",
+      "type": "text"
+    }
+  ]
+}

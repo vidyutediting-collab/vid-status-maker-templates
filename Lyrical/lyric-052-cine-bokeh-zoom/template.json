@@ -1,0 +1,17 @@
+{
+  "id": "lyric-052-cine-bokeh-zoom",
+  "name": "Lyrical 52 - Cine Bokeh Zoom",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1360,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Geet mere, yaad teri",
+      "type": "text"
+    }
+  ]
+}

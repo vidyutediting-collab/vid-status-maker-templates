@@ -1,0 +1,17 @@
+{
+  "id": "sad-056-dhundh-barf-pull",
+  "name": "Sad 56 - Dhundh Barf Pull",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 2,
+  "order": 1386,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Jo chhod gaya usse kya shikwa",
+      "type": "text"
+    }
+  ]
+}

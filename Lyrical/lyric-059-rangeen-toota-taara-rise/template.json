@@ -1,0 +1,23 @@
+{
+  "id": "lyric-059-rangeen-toota-taara-rise",
+  "name": "Lyrical 59 - Rangeen Toota Taara Rise",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1409,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Tu meri dhun, tu mera geet",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Singer",
+      "type": "text"
+    }
+  ]
+}

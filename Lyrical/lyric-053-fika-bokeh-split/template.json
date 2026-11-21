@@ -1,0 +1,17 @@
+{
+  "id": "lyric-053-fika-bokeh-split",
+  "name": "Lyrical 53 - Fika Bokeh Split",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 1,
+  "order": 1367,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Gaane mein bas gaye ho tum",
+      "type": "text"
+    }
+  ]
+}

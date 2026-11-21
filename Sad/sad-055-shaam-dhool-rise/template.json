@@ -1,0 +1,17 @@
+{
+  "id": "sad-055-shaam-dhool-rise",
+  "name": "Sad 55 - Shaam Dhool Rise",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1379,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Teri kami har pal khalti hai",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-060-sunehri-fanus-jodi",
+  "name": "Devotional 60 - Sunehri Fanus Jodi",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 2,
+  "order": 1415,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Sai Baba ka aashirwad sada",
+      "type": "text"
+    }
+  ]
+}

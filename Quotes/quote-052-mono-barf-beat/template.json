@@ -1,0 +1,17 @@
+{
+  "id": "quote-052-mono-barf-beat",
+  "name": "Quotes 52 - Mono Barf Beat",
+  "cat": [
+    "Quotes"
+  ],
+  "slots": 1,
+  "order": 1363,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ruko mat, chalte raho",
+      "type": "text"
+    }
+  ]
+}

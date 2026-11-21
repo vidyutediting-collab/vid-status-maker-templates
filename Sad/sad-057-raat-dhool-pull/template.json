@@ -1,0 +1,17 @@
+{
+  "id": "sad-057-raat-dhool-pull",
+  "name": "Sad 57 - Raat Dhool Pull",
+  "cat": [
+    "Sad"
+  ],
+  "slots": 3,
+  "order": 1393,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Waqt ne sikha diya akela rehna",
+      "type": "text"
+    }
+  ]
+}

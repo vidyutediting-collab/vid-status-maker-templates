@@ -1,0 +1,17 @@
+{
+  "id": "gm-059-savera-pankhudi-split",
+  "name": "Good Morning 59 - Savera Pankhudi Split",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1411,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Naye din ko salaam",
+      "type": "text"
+    }
+  ]
+}

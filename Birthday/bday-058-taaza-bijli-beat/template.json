@@ -1,0 +1,23 @@
+{
+  "id": "bday-058-taaza-bijli-beat",
+  "name": "Birthday 58 - Taaza Bijli Beat",
+  "cat": [
+    "Birthday"
+  ],
+  "slots": 1,
+  "order": 1403,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Birthday boy ki entry!",
+      "type": "text"
+    },
+    {
+      "k": "name",
+      "label": "Naam",
+      "def": "Meri Jaan",
+      "type": "text"
+    }
+  ]
+}

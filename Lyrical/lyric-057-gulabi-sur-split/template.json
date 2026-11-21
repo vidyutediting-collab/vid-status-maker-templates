@@ -1,0 +1,17 @@
+{
+  "id": "lyric-057-gulabi-sur-split",
+  "name": "Lyrical 57 - Gulabi Sur Split",
+  "cat": [
+    "Lyrical"
+  ],
+  "slots": 2,
+  "order": 1395,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Ek taraana tere naam",
+      "type": "text"
+    }
+  ]
+}

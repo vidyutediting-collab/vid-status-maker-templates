@@ -1,0 +1,17 @@
+{
+  "id": "gm-053-cine-kiran-card",
+  "name": "Good Morning 53 - Cine Kiran Card",
+  "cat": [
+    "Good Morning"
+  ],
+  "slots": 1,
+  "order": 1369,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Subah ki hawa mein sukoon hai",
+      "type": "text"
+    }
+  ]
+}

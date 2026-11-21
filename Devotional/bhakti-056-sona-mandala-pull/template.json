@@ -1,0 +1,17 @@
+{
+  "id": "bhakti-056-sona-mandala-pull",
+  "name": "Devotional 56 - Sona Mandala Pull",
+  "cat": [
+    "Devotional"
+  ],
+  "slots": 1,
+  "order": 1387,
+  "fields": [
+    {
+      "k": "caption",
+      "label": "Caption",
+      "def": "Maa ke charno mein jannat",
+      "type": "text"
+    }
+  ]
+}
